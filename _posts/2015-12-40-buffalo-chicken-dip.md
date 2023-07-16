@@ -1,11 +1,9 @@
 ---
 title: Buffalo Chicken Dip
 date: 2015-12-30 23:22:00 -500
-categories: [appetizers,chicken]
+categories: [recipes,appetizers,chicken]
 tags: [party,superbowl]
 ---
-
-# Buffalo Chicken Dip
 
 ## Ingredients
 * 3 raw chicken breasts
