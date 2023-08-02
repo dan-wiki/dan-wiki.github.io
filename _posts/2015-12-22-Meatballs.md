@@ -1,8 +1,8 @@
 ---
 title: Meatballs
 date: 2015-12-22 19:10:00 -500
-categories: ['meatballs']
-tags: ['Meatballs', 'Ingredients', '1/3 cup plain bread crumbs', '1/2 cup heavy cream', '2 tablespoons olive oil', '1 onion, diced', '1 pound ground beef', '1 pound ground pork', '2 eggs', '1/4 bunch fresh parsley, chopped', '3 cloves garlic, crushed', '2 teasp...
+categories: [‘beef’,'meatballs']
+tags: ['Meatballs', 'Ingredients', 'bread crumbs', 'cup heavy cream', 'olive oil', 'onion, diced', 'ground beef', 'ground pork', 'eggs', ‘fresh parsley, chopped', 'garlic, crushed']
 ---
 
 ## Ingredients

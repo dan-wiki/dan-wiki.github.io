@@ -1,7 +1,7 @@
 ---
-title: Dessert / Snacks
+title: Dessert and Snacks
 date: 2015-10-03 22:26:00 -500
-categories: ['snacks', 'dessert']
+categories: ['snacks', 'desserts']
 tags: ['Coffee Coconut MCT Fat Bomb', 'Dark Chocolate Peanut Butter Cups', 'Grandma Bella's Rum Cake', 'Low Carb', 'Not Low Carb']
 ---
 

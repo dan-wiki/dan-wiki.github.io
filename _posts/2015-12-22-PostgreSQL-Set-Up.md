@@ -1,5 +1,5 @@
 ---
-title: PostgreSQL: Set Up
+title: PostgreSQL - Set Up
 date: 2015-12-22 01:18:00 -500
 categories: ['postgresql', 'set up']
 tags: ['tech']
