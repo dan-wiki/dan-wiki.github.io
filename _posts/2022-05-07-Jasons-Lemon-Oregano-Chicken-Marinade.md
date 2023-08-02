@@ -1,5 +1,5 @@
 ---
-title: Jason%27s Lemon Oregano Chicken Marinade
+title: Jason’s Lemon Oregano Chicken Marinade
 date: 2022-05-07 20:04:00 -500
 categories: ['oregano', 'marinade', 'chicken', 'lemon']
 tags: ['oregano', 'kosher salt', 'black pepper', 'lemons', 'garlic', 'olive oil']
