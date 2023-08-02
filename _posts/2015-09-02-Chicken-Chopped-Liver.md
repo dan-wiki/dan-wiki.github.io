@@ -78,6 +78,3 @@ tags: ['Chicken livers', 'rendered chicken fat', 'onion', 'salt', 'pepper', 'har
 12. Serve with toast and cornichons if desired.
 
 
-
-[Smaltz](Smaltz "wikilink")
-

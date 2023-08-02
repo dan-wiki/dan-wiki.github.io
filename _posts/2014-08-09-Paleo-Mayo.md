@@ -5,12 +5,6 @@ categories: ['paleo', 'mayo']
 tags: ['egg', 'salt', 'water', 'lemon juice', 'dijon mustard', 'white vinegar', 'apple cider vinegar', 'olive oil', 'macadamia oil', 'avocado oil', 'sriracha', 'pasteurize', 'blend']
 ---
 
-![](2015-05-09_17.13.19.jpg "fig:2015-05-09_17.13.19.jpg"){width="200"}
-
-![](Smart-Stick-Hand-Blender.jpg "fig:Smart-Stick-Hand-Blender.jpg"){width="200"}
-
-
-
 ## Servings
 
 
