@@ -1,5 +1,5 @@
 ---
-title: Beef Tongue: Pressure cooker
+title: Beef Tongue - Pressure cooker
 date: 2017-04-24 23:55:00 -500
 categories: ['beef tongue', 'pressure cooker']
 tags: ['peanut sauce', 'beef tongue', 'pressure cooker']

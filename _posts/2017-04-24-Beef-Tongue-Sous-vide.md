@@ -1,5 +1,5 @@
 ---
-title: Beef Tongue: Sous vide
+title: Beef Tongue - Sous vide
 date: 2017-04-24 23:29:00 -500
 categories: ['sous vide', 'beef tongue']
 tags: ['beef tongue', 'ancho chili powder', 'garlic salt', 'ground cumin', 'freshly ground black pepper', 'canola oil', 'corn tortillas', 'white onion', 'cilantro', 'radishes', 'limes', 'sous vide', 'seasoning', 'sealing', 'water immersion technique', 'vacuum sealer', 'water bath', 'pat dry', 'peeling', 'shredding', 'cutting', 'heating', 'searing', 'serving']
