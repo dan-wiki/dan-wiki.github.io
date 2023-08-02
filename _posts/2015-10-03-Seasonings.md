@@ -5,4 +5,5 @@ categories: ['seasonings']
 tags: [['Taco Seasoning']]
 ---
 
--   [Taco Seasoning](Taco_Seasoning "wikilink")
+-   [Taco Seasoning]
+

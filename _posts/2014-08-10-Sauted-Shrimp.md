@@ -5,5 +5,5 @@ categories: ['sauted', 'shrimp']
 tags: ['sauted shrimp', 'cajun sauted shrimp']
 ---
 
--   [Cajun Sauted
-    Shrimp](http://www.food.com/recipe/cajun-sauteed-shrimp-41701)
+-   [Cajun Sauted Shrimp](http://www.food.com/recipe/cajun-sauteed-shrimp-41701)
+

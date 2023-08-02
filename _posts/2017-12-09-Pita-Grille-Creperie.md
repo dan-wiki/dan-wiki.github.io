@@ -1,16 +1,20 @@
 ---
-title: Pita Grille %26 Creperie
+title: Pita Grille Creperie
 date: 2017-12-09 01:20:00 -500
-categories: ['creperie', 'grille', 'pita']
+categories: ['take-out']
 tags: ['buffalo chicken salad', 'jalepeno hummus']
 ---
 
-## Notes
-
--   Wings are breaded. Not good quality either compared to the rest of
-    the menu.
-
-## Previous Orders {#previous_orders}
-
--   Jalepeno Hummus
--   Buffalo chicken salad
+## Notes
+
+-   Wings are breaded. Not good quality either compared to the rest of
+    the menu.
+
+
+
+## Previous Orders
+
+-   Jalepeno Hummus
+
+-   Buffalo chicken salad
+

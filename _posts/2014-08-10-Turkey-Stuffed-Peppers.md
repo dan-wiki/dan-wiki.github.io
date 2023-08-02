@@ -5,5 +5,5 @@ categories: ['stuffed', 'turkey', 'peppers']
 tags: ['turkey stuffed peppers']
 ---
 
--   [Turkey Stuffed
-    Peppers](http://www.tasteofhome.com/recipes/turkey-stuffed-peppers)
+-   [Turkey Stuffed Peppers](http://www.tasteofhome.com/recipes/turkey-stuffed-peppers)
+

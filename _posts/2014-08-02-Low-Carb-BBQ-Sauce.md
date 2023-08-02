@@ -2,7 +2,7 @@
 title: Low Carb BBQ Sauce
 date: 2014-08-02 18:19:00 -500
 categories: ['bbq', 'sauce', 'low carb']
-tags: ['cider vinegar', 'Worcestershire sauce', 'crushed red pepper flakes', 'sweetener of choice (stevia, Splenda, honey, etc...)', 'dry mustard (or 3/4 tsp prepared mustard)', 'garlic salt or Adobo seasoning', 'cayenne pepper', 'thick bacon', 'liquid smoke', 'smoked paprika', 'onion', 'garlic', 'garlic powder', 'tomato paste', 'diet (sugar-free) cola', 'low carb (sugar-free) ketchup', 'mustard', 'ground cloves', 'Hot sauce', 'water', 'vinegar (maybe apple cider, but white likely works)', 'Truvia or another sugar substitute', 'smoked paprika', 'salt', 'garlic powder', 'onion powder', 'pepper', 'Fry', 'Cook', 'Simmer', 'Heat', 'Reduce']
+tags: ['cider vinegar', 'Worcestershire sauce', 'crushed red pepper flakes', 'sweetener', 'dry mustard', 'garlic salt or Adobo seasoning', 'cayenne pepper', 'thick bacon', 'liquid smoke', 'smoked paprika', 'onion', 'garlic', 'garlic powder', 'tomato paste', 'diet (sugar-free) cola', 'low carb (sugar-free) ketchup', 'mustard', 'ground cloves', 'Hot sauce', 'water', 'vinegar', 'sugar substitute', 'smoked paprika', 'salt', 'garlic powder', 'onion powder', 'pepper', 'Fry', 'Cook', 'Simmer', 'Heat', 'Reduce']
 ---
 
 \_\_TOC\_\_

@@ -5,6 +5,7 @@ categories: ['stuffed', 'portobello', 'mushrooms']
 tags: ['stuffed portobello mushrooms', 'sausage stuffed']
 ---
 
--   [Sausage
-    Stuffed](http://www.foodnetwork.com/recipes/emeril-lagasse/sausage-stuffed-portobello-mushrooms-recipe.html) -
-    Needs to be modified for keto
+-   [Sausage Stuffed](http://www.foodnetwork.com/recipes/emeril-lagasse/sausage-stuffed-portobello-mushrooms-recipe.html) -
+
+    Needs to be modified for keto
+

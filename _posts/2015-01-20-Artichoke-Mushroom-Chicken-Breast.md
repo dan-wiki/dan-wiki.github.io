@@ -5,5 +5,5 @@ categories: ['artichoke', 'chicken breast', 'mushroom']
 tags: ['artichoke', 'chicken breast', 'mushroom']
 ---
 
-[Link to
-recipe](http://allrecipes.com/Recipe/Romantic-Chicken-with-Artichokes-and-Mushrooms/Detail.aspx?soid=carousel_0_rotd&prop24=rotd)
+[Link to recipe](http://allrecipes.com/Recipe/Romantic-Chicken-with-Artichokes-and-Mushrooms/Detail.aspx?soid=carousel_0_rotd&prop24=rotd)
+

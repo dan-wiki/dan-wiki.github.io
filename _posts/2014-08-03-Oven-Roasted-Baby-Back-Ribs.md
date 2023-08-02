@@ -65,7 +65,7 @@ tags: ['cloves garlic', 'shallot','freshly ground pepper', 'baby back ribs', 'ov
 
     ready to eat. You can serve them with [Low Carb BBQ
 
-    Sauce](Low_Carb_BBQ_Sauce "wikilink").
+    Sauce
 
 
 

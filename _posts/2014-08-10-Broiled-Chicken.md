@@ -5,5 +5,5 @@ categories: ['broiled', 'chicken']
 tags: ['garlic chicken', 'broiled chicken']
 ---
 
--   [Garlic
-    Chicken](http://allrecipes.com/recipe/easy-garlic-broiled-chicken/)
+-   [Garlic Chicken](http://allrecipes.com/recipe/easy-garlic-broiled-chicken/)
+

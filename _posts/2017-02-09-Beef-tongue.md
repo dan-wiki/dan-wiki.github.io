@@ -5,6 +5,7 @@ categories: ['tongue', 'beef']
 tags: ['beef tongue: sous vide', 'beef tongue', 'beef tongue: pressure cooker']
 ---
 
--   [Beef Tongue: Sous vide](Beef_Tongue:_Sous_vide "wikilink")
--   [Beef Tongue: Pressure
-    cooker](Beef_Tongue:_Pressure_cooker "wikilink")
+-   [Beef Tongue: Sous vide]
+
+-   [Beef Tongue: Pressurecooker]
+

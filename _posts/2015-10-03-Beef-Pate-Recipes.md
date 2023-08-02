@@ -5,4 +5,5 @@ categories: ['recipes', 'pate', 'beef']
 tags: ['beef kidney and liver pate']
 ---
 
--   [Beef Kidney and Liver Pate](Beef_Kidney_and_Liver_Pate "wikilink")
+-   Beef Kidney and Liver Pate
+
