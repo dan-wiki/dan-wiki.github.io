@@ -1,13 +1,11 @@
 ---
-title: Mom%27s Spinach Chicken Casserole
+title: Mom’s Spinach Chicken Casserole
 date: 2020-09-18 19:00:00 -500
 categories: ['spinach', 'chicken', 'casserole']
 tags: ['mom','passover','comfort food']
 ---
 
-## Ingredients (My new single baking dish version) {#ingredients_my_new_single_baking_dish_version}
-
-
+## Ingredients (My new single baking dish version)
 
 -   4 Boneless chicken breasts
 
@@ -27,15 +25,11 @@ tags: ['mom','passover','comfort food']
 
 -   2 tbsp Melted butter (she wrote to use margarine, but that\'s gross)
 
--   2 tsp Curry powder (she wrote to use a pinch, but it definitely was
-
-    more)
+-   2 tsp Curry powder (she wrote to use a pinch, but it definitely was more)
 
 
 
-## Ingredients (Mom\'s written 3 baking dish version) {#ingredients_moms_written_3_baking_dish_version}
-
-
+## Ingredients (Mom\'s written 3 baking dish version)
 
 -   4 pkg Boneless chicken breasts
 
@@ -61,19 +55,13 @@ tags: ['mom','passover','comfort food']
 
 ## Directions
 
-
-
 1.  Fill one or three medium-size baking dishes with:
 
 2.  Bottom layer is well-drained chopped spinach
 
-3.  Next layer is boneless chicken spread across dish (likely spread
+3.  Next layer is boneless chicken spread across dish (likely spread meant tenderize to thin slightly)
 
-    meant tenderize to thin slightly)
-
-4.  Mix soups, mayo, lemon juice, and curry powder and spread over the
-
-    chicken heavily so it gets through to the bottom
+4.  Mix soups, mayo, lemon juice, and curry powder and spread over the chicken heavily so it gets through to the bottom
 
 5.  Sprinkle generously covering with cheddar cheese
 

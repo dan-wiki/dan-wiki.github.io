@@ -1,5 +1,5 @@
 ---
-title: Grandma Bella%27s Rum Cake
+title: Grandma Bella’s Rum Cake
 date: 2017-04-10 20:10:00 -500
 categories: ['rum', 'cake', 'bella', 'grandma']
 tags: ['Duncan Hines', 'Vanilla Pudding', 'oil', 'rum', 'eggs', 'almond extract', 'almond flour', 'sugar substitute', 'baking powder', 'salt', 'cream cheese', 'soft butter', 'vanilla', 'pam', 'cake mold']
