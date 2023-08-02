@@ -1,7 +1,7 @@
 ---
 title: Beef Meatballs
 date: 2014-08-10 00:26:00 -500
-categories: ['meatballs', 'beef']
+categories: ['beef','meatballs']
 tags: ['beef meatballs', 'fast']
 ---
 

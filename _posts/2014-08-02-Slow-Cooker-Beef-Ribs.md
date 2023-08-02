@@ -1,7 +1,7 @@
 ---
 title: Slow Cooker Beef Ribs
 date: 2014-08-02 23:23:00 -500
-categories: ['slow cooker', 'ribs', 'beef']
+categories: ['beef', 'slow cooker', 'ribs']
 tags: ['beef ribs', 'chili powder', 'oregano', 'garlic powder', 'onion powder', 'thyme', 'salt', 'pepper', 'allspice', 'cayenne', 'Low Carb BBQ Sauce', 'rub', 'pack', 'cook']
 ---
 
