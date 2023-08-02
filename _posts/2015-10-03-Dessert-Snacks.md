@@ -5,25 +5,14 @@ categories: ['snacks', 'dessert']
 tags: ['Coffee Coconut MCT Fat Bomb', 'Dark Chocolate Peanut Butter Cups', 'Grandma Bella's Rum Cake', 'Low Carb', 'Not Low Carb']
 ---
 
-#### Low Carb {#low_carb}
+#### Low Carb
+
+-   [Coffee Coconut MCT Fat Bomb]
+-   [Dark Chocolate Peanut Butter Cups](http://screwedonstraight.net/keto-diet-peanut-butter-cup-fat-bombs/)
 
 
 
--   [Coffee Coconut MCT Fat
+#### Not Low Carb
 
-    Bomb](Coffee_Coconut_MCT_Fat_Bomb "wikilink")
-
--   [Dark Chocolate Peanut Butter
-
-    Cups](http://screwedonstraight.net/keto-diet-peanut-butter-cup-fat-bombs/)
-
-
-
-#### Not Low Carb {#not_low_carb}
-
-
-
--   [Grandma Bella\'s Rum Cake](Grandma_Bella's_Rum_Cake "wikilink") -
-
-    Family recipe
+-   [Grandma Bella\'s Rum Cake] - Family recipe
 

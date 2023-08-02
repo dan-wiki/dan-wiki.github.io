@@ -41,5 +41,5 @@ tags: ['vpn','tech']
 
 
 
-[Category:Category Linux](Category:Category_Linux "wikilink")
+[Category:Category Linux]
 
