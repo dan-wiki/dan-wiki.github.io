@@ -1,7 +1,7 @@
 ---
 title: Slow Cooker Baby Back Ribs
 date: 2014-08-02 23:32:00 -500
-categories: ['baby back ribs', 'slow cooker']
+categories: ['pork','ribs', 'slow cooker']
 tags: ['baby back pork ribs', 'Splenda', 'chili powder', 'garlic powder', 'celery seed', 'onion powder', 'dried oregano', 'cajun seasoning', 'black pepper', 'Low Carb BBQ Sauce', 'slice', 'mix', 'press', 'cook', 'baste']
 ---
 

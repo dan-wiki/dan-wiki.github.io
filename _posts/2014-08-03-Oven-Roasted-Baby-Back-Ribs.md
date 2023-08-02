@@ -1,11 +1,11 @@
 ---
 title: Oven Roasted Baby Back Ribs
 date: 2014-08-03 00:02:00 -500
-categories: ['baby back ribs', 'oven', 'roasted']
-tags: ['cloves garlic', 'shallot','freshly ground pepper', 'baby back ribs', 'overnight prep', 'chili powder', 'paprika', 'salt', 'olive oil', 'cumin']
+categories: ['pork', 'oven', 'roasted']
+tags: ['cloves garlic', 'shallot','freshly ground pepper', 'baby back ribs', 'overnight prep', 'chili powder', 'paprika', 'salt', 'olive oil', 'cumin', 'ribs']
 ---
 
-## Time & Temp {#time_temp}
+## Time & Temp
 
 
 
