@@ -1,7 +1,7 @@
 ---
 title: Pressure Cooker Shredded Chicken
 date: 2015-02-18 01:47:00 -500
-categories: ['shredded', 'chicken', 'pressure cooker']
+categories: [chicken,mexican,pressure cooker,shredded]
 tags: ['let sit in juices until serving', 'release pressure', 'salsa', 'pull chicken', 'add chicken', 'let sit in cooker for 10-15 minutes', 'set on high for 10 minutes (i use an electric cuisinart pressure cooker)', 'cut chicken into large chunks', 'chicken broth', 'chicken breast', 'add salsa', 'add broth', 'chicken taco seasoning', 'add seasoning']
 ---
 

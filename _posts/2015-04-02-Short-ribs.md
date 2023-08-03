@@ -1,13 +1,11 @@
 ---
 title: Short ribs
 date: 2015-04-02 01:39:00 -500
-categories: ['ribs', 'short']
+categories: [beef,ribs,american,sous vide]
 tags: ['pepper', 'beef short ribs', 'bbq sauce']
 ---
 
 ## Ingredients
-
-
 
 1.  Beef short ribs
 
@@ -26,8 +24,6 @@ tags: ['pepper', 'beef short ribs', 'bbq sauce']
 
 
 ## Directions
-
-
 
 1.  salt and pepper
 

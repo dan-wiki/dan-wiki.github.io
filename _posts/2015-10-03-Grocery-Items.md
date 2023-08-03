@@ -1,13 +1,11 @@
 ---
 title: Grocery Items
 date: 2015-10-03 22:40:00 -500
-categories: [article,food]
+categories: [articles,food]
 tags: [grocery,groceries]
 ---
 
 ##### Spices and Blends {#spices_and_blends}
-
-
 
 -   [Dan\'s Table Blend \#1]
 

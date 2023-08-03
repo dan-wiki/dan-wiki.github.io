@@ -1,8 +1,8 @@
 ---
 title: Heroku - Old dan.wiki configuration
 date: 2016-11-30 02:58:00 -500
-categories: ['heroku','programming'] 
-tags: ['technology']
+categories: [articles,technology,linux,instructions] 
+tags: [technology,heroku,python,linux]
 ---
 
 `  21  cd SSH`\

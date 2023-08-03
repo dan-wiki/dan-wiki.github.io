@@ -7,8 +7,6 @@ tags: ['Chicken livers', 'rendered chicken fat', 'onion', 'salt', 'pepper', 'har
 
 ## Ingredients
 
-
-
 -   1 pound chicken livers, (preferably fresh)
 
 -   6 tablespoon rendered chicken fat ( schmaltz), recipe follows
@@ -26,8 +24,6 @@ tags: ['Chicken livers', 'rendered chicken fat', 'onion', 'salt', 'pepper', 'har
 
 
 ## Directions
-
-
 
 1.  Rinse the livers and pat dry with a kitchen towel. Clean the livers,
 

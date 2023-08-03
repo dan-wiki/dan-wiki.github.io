@@ -1,21 +1,15 @@
 ---
 title: Restaurants and Bars
 date: 2015-10-03 22:46:00 -500
-categories: ['bars', 'restaurants']
-tags: ['Brunch', 'Dinner', 'Bar', 'Lunch']
+categories: [articles,food]
+tags: ['brunch', 'dinner', 'bar', 'lunch']
 ---
 
 ##### NJ
 
-
-
-###### Central Jersey {#central_jersey}
-
-
+###### Central Jersey
 
 ###### Somerset
-
-
 
 -   **Brunch**
 
@@ -23,8 +17,6 @@ tags: ['Brunch', 'Dinner', 'Bar', 'Lunch']
 
 
 -   **Dinner**
-
-    -   Arooga's
 
     -   Shogun Wok
 
@@ -68,11 +60,7 @@ tags: ['Brunch', 'Dinner', 'Bar', 'Lunch']
 
     -   visitwaterandwine.com
 
-
-
-###### North Jersey {#north_jersey}
-
-
+###### North Jersey
 
 -   **Sushi**
 
@@ -134,7 +122,6 @@ tags: ['Brunch', 'Dinner', 'Bar', 'Lunch']
             style.
 
 
-
 -   **Indian**
 
     -   Brick Lane Curry - Montclair
@@ -170,37 +157,3 @@ tags: ['Brunch', 'Dinner', 'Bar', 'Lunch']
 
     -   
 
-
-
-##### MA
-
-
-
--   99 Restaurant, Greenfield, MA - Rating 4/10 - Was a chain restaurant
-
-    comparable to Applebees or Ruby Tuesday\'s, but was much friendlier.
-
-    Had a nice trivia night on Thursday. Got standard sirloin steak,
-
-    melted butter. and broccoli. Missed prime rib nights apparently.
-
-    Every night should be prime rib night.. Nothing special here.
-
-
-
--   The People\'s Pint, Greenfield, MA - Rating 8/10 - Farm to table
-
-    food. Grass fed burger was cooked to perfection.
-
-
-
-
--   Hope and Olive, Greenfield, MA - Rating 7/10 - Farm to table type
-
-    food. A little more gourmet than the People\'s Pint. The grass fed
-
-    burger was not cooked to perfection and the waitress was confused
-
-    when I asked if I could get a vegetable side with my burger. The
-
-    cold antipasto was good.

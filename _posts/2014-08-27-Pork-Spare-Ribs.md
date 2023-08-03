@@ -5,15 +5,9 @@ categories: [pork,ribs,american,oven,roasted]
 tags: ['pork spare ribs', 'paprika', 'whole black peppercorns', 'coriander seeds', 'cumin seeds', 'garlic powder', 'onion powder', 'nutmeg', 'cayenne pepper', 'kosher salt', 'spicy brown mustard', 'aluminum foil', 'oven tray', 'low carb BBQ sauce', 'cut', 'remove', 'form', 'put', 'apply', 'fold', 'refrigerate', 'bake', 'open', 'wrap', 'broiler']
 ---
 
-These ribs are St. Louis style, drawing heavily from Alton Brown\'s
-
-recipe just no smoker. Instead his oven baby back rib method is used.
-
-
+These ribs are St. Louis style, drawing heavily from Alton Brown\'s recipe just no smoker. Instead his oven baby back rib method is used.
 
 ## Ingredients
-
-
 
 -   3 slabs St. Louis style ribs, 2 to 3 pounds each
 
@@ -46,13 +40,9 @@ recipe just no smoker. Instead his oven baby back rib method is used.
 
 ## Directions
 
-
-
 1.  Cut the fat back (flap) from the slab
 
-2.  Remove the tap layer of fat using a butter knife and paper towel.
-
-    (Will peel all off in one pull usually.)
+2.  Remove the tap layer of fat using a butter knife and paper towel. (Will peel all off in one pull usually.)
 
 3.  Remove excess fat
 
@@ -62,9 +52,7 @@ recipe just no smoker. Instead his oven baby back rib method is used.
 
 6.  Apply rub deeply into meat
 
-7.  Fold the foil neatly around the meat so that the seams are on the
-
-    upside
+7.  Fold the foil neatly around the meat so that the seams are on the upside
 
 8.  Put in the fridge for at least an hour
 
@@ -74,21 +62,5 @@ recipe just no smoker. Instead his oven baby back rib method is used.
 
 11. Wrap back up and put in for another hour
 
-12. Unwrap and put under broiler for 2-5 minutes depending up when it
-
-    stars to caramelize
-
-
-
-## Linked Recipes {#linked_recipes}
-
-
-
-[Barbecue St. Louis Pork Ribs](http://www.foodnetwork.com/recipes/alton-brown/barbecue-st-louis-pork-ribs-recipe2.html)
-
-[Slow Cooker \#1](http://www.djfoodie.com/Pork-Ribs)
-
-
-
-[Slow Cooker \#2](http://blahblahblahketo.com/post/76169393384/slow-cooker-spare-ribs-with-low-carb-spicy-barbecue)
+12. Unwrap and put under broiler for 2-5 minutes depending up when it stars to caramelize
 

@@ -1,93 +1,45 @@
 ---
 title: Local Activities
 date: 2015-10-03 22:47:00 -500
-categories: ['recreation','health']
-tags: ['Trails and Parks']
+categories: [articles,recreation]
+tags: [trails,parks,groceries,wine]
 ---
+# NJ
 
-### NJ
+## Near-ish Warren/Green Brook
 
-## Warren/Green Brook {#warrengreen_brook}
+# Trails and Parks
 
--   Trails and Parks
+- Top of the World
+- Central Bark
+- Round Valley Reservation
+- Dealaman Nature Trail and Pond
+- Stransky Nature Trails
+- Dock Watch Area Rest
+- Micheller Tract
+- Pond Brook Valley
+- Codington Farmstead - [https://visitsomersetnj.org/fun-somerset-nj/codington-farmstead/](https://visitsomersetnj.org/fun-somerset-nj/codington-farmstead/)
 
-    -   Top of the World
+# Wine Tastings and Events
 
-    -   Central Bark
+- [https://www.pluckywines.com/events/](https://www.pluckywines.com/events/)
+- [http://www.natirar.com/nj_cooking_school/](http://www.natirar.com/nj_cooking_school/)
+- [https://stonehouseatstirlingridge.com/events/](https://stonehouseatstirlingridge.com/events/)
 
-    -   Dealaman Nature Trail and Pond
+# Groceries
 
-    -   Stransky Nature Trails
+- [http://profetafarms.com/](http://profetafarms.com/)
+- [Willowbrook Golf Center](http://www.willowbrookgolfcenter.com) -
 
-    -   Dock Watch Area Rest
-
-    -   Micheller Tract
-
-    -   Pond Brook Valley
-
-    -   Codington Farmstead -
-
-        <https://visitsomersetnj.org/fun-somerset-nj/codington-farmstead/>
-
-
-
--   Wine Tastings and Events
-
-    -   <https://www.pluckywines.com/events/>
-
-    -   <http://www.natirar.com/nj_cooking_school/>
-
-    -   <https://stonehouseatstirlingridge.com/events/>
-
-
-
--   Groceries
-
-    -   <http://profetafarms.com/>
-
-
-
-## Other
-
-
-
--   [Willowbrook Golf Center](http://www.willowbrookgolfcenter.com) -
-
-    Wayne, NJ - 2 Mini Golf Courses, Driving Range
-
-    -   Hours: 7am - 11pm Every day, Last sale @ 10:30pm
-
-
-
--   [SkyZone](http://www.skyzone.com/pinebrook/About-Us/What-is-Sky-Zone) -
-
-    Pinebrook, NJ - Trampoline park and dodge ball
-
-    -   Hours: Monday - Friday 11AM - 8:30PM, Saturday: 10am - 8:30pm,
-
-        Sunday- 10am - 7pm
-
-
--   Eagle Rock Lanes
-
--   AMC Dine-In Essex Green
-
--   [Pole Position
-
-    Raceway](http://www.polepositionraceway.com/jersey-city/) - Jersey City - Go Karts
-
-
--   Yestercades, Red Bank
-
--   Bridgewater Sports Arena
-
--   Funtime America, Eatontown
-
--   Papermill Playhouse
-
--   Wellmont Theater
-
--   Bowling
-
--   Ice skating
-
+  Wayne, NJ - 2 Mini Golf Courses, Driving Range
+- [SkyZone](http://www.skyzone.com/pinebrook/About-Us/What-is-Sky-Zone) - Pinebrook, NJ - Trampoline park and dodge ball
+- Eagle Rock Lanes
+- AMC Dine-In Essex Green
+- [Pole Positio Raceway](http://www.polepositionraceway.com/jersey-city/) - Jersey City - Go Karts
+- Yestercades, Red Bank
+- Bridgewater Sports Arena
+- Funtime America, Eatontown
+- Papermill Playhouse
+- Wellmont Theater
+- Bowling
+- Ice skating

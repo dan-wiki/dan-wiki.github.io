@@ -1,7 +1,7 @@
 ---
 title: Installing Fujitsu ScanSnap S300
 date: 2016-11-30 02:42:00 -500
-categories: ['linux']
+categories: [articles,technology,linux,hardware,instructions]
 tags: ['tech','scanner']
 ---
 
@@ -33,7 +33,4 @@ tags: ['tech','scanner']
 
 14. lsusb
 
-
-
-[Category:Category Linux]
 

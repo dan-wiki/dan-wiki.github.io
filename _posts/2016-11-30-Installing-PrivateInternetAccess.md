@@ -1,7 +1,7 @@
 ---
 title: Installing PrivateInternetAccess
 date: 2016-11-30 02:47:00 -500
-categories: [article,technology,instructions]
+categories: [article,technology,linux,instructions]
 tags: ['vpn','tech']
 ---
 

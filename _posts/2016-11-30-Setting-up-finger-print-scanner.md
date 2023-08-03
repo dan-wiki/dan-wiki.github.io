@@ -1,8 +1,8 @@
 ---
 title: Setting up finger print scanner
 date: 2016-11-30 03:00:00 -500
-categories: ['hardware','linux']
-tags: ['tech','hardware','scanner']
+categories: [articles,technology,linux,hardware,instructions]
+tags: ['tech','scanner']
 ---
 
 `   1  sudo apt-get install fingerprint-gui`\

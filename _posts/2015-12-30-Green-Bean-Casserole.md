@@ -1,8 +1,8 @@
 ---
 title: Green Bean Casserole
 date: 2015-12-30 21:58:00 -500
-categories: ['casserole', 'bean', 'green']
-tags: ['bacon', 'condensed cream of mushroom soup', 'water chestnuts', 'milk', 'green beans', 'ground black pepper', 'French-fried onions', 'Cheddar cheese', 'Preheat', 'Place', 'Cook', 'Mix', 'Bake', 'Stir', 'Top']
+categories: [vegetables,green beans,oven,bake]
+tags: ['bacon', 'condensed cream of mushroom soup', 'water chestnuts', 'milk', 'green beans', 'ground black pepper', 'french-fried onions', 'cheddar cheese', 'casserole', 'mom','party']
 ---
 
 ## Ingredients

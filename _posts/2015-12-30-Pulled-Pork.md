@@ -1,7 +1,7 @@
 ---
 title: Pulled Pork
 date: 2015-12-30 23:04:00 -500
-categories: ['pork', 'pulled']
+categories: [pork,butt,mexican,pressure cooker]
 tags: ['Boneless or bone-in Pork Shoulder Roast', 'yellow onions', 'chili powder', 'coriander', 'cumin', 'onion powder', 'dried parsley', 'chipotle powder', 'season goya jamon', 'salt', 'Pull pork']
 ---
 

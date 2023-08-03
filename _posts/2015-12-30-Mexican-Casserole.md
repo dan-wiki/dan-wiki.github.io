@@ -1,7 +1,7 @@
 ---
 title: Mexican Casserole
 date: 2015-12-30 22:50:00 -500
-categories: ['casserole', 'mexican']
+categories: [appetizers,beef,mexican,groud,oven,baked]
 tags: ['lean ground beef', 'salsa', 'chili beans', 'tortilla chips', 'sour cream', 'sliced black olives', 'chopped green onion', 'chopped fresh tomato', 'shredded Cheddar cheese', 'chorizo']
 ---
 

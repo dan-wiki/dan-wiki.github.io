@@ -1,5 +1,5 @@
 ---
-title: Paleo Mayo
+title: Avocado Mayonnaise
 date: 2014-08-09 22:37:00 -500
 categories: [sauce,avocado oil,french,mayonnaise]
 tags: ['egg', 'salt', 'water', 'lemon juice', 'dijon mustard', 'white vinegar', 'apple cider vinegar', 'olive oil', 'macadamia oil', 'avocado oil', 'sriracha', 'pasteurize', 'blend','mayo']

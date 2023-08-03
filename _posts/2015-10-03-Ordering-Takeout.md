@@ -1,13 +1,11 @@
 ---
 title: Ordering Takeout
 date: 2015-10-03 22:42:00 -500
-categories: [article,food]
+categories: [articles,food]
 tags: ['takeout']
 ---
 
 ##### NJ
-
-
 
 ###### Somerset
 
@@ -43,10 +41,8 @@ tags: ['takeout']
     -   [Healthy Garden Cafe Pizza & Juices]
 
 
-
 **No delivery, but can order for pickup**
 -   [Ashia](http://www.ashiaoriental.com)
-
 
 
 **Phone only**
@@ -54,13 +50,9 @@ tags: ['takeout']
 
 
 
-###### North Jersey {#north_jersey}
+###### North Jersey
 
-
-
-###### *Online Order* {#online_order}
-
-
+###### *Online Order*
 
 -   **Various Types**
 
@@ -72,9 +64,7 @@ tags: ['takeout']
 
                 -   Lotus Oriental
 
-    -   [973Delivery.com](http://973Delivery.com) - Same as DeliveryNow,
-
-        but seems better.
+    -   [973Delivery.com](http://973Delivery.com) - Same as DeliveryNow, but seems better.
 
         -   -   Includes:
 
@@ -212,14 +202,11 @@ tags: ['takeout']
 
         Opening soon.
 
-        -   Recommendation: They can do any sandwich as an unwich
-
-            (lettuce wrapped).
+        -   Recommendation: They can do any sandwich as an unwich (lettuce wrapped).
 
 
 
-###### *Phone Only* {#phone_only}
-
+###### *Phone Only*
 
 
 -   **Sushi**
@@ -235,13 +222,6 @@ tags: ['takeout']
         -   Non-Keto Recommendations: Hokkaido Roll, Jewel Maki
 
 
-
-```{=html}
-
-<!-- -->
-
-```
-
 -   **Italian**
 
     -   [Russillo](http://www.russillo.com/)
@@ -254,35 +234,15 @@ tags: ['takeout']
 
 
 
-```{=html}
-
-<!-- -->
-
-```
-
 -   **Chinese**
 
 -   Spring Garden - Caldwell
-
-
-
-###### *Places that we don\'t like* {#places_that_we_dont_like}
-
-
-
-Kaze Sushi - Fish was not fresh and was not prepared well. Restaurant
-
-looks really ugly inside.
-
-
 
 ##### NYC
 
 
 
-###### *Online Order* {#online_order_1}
-
-
+###### *Online Order*
 
 -   **Various Types**
 
@@ -296,29 +256,14 @@ looks really ugly inside.
 
         8th & 9th
 
-        -   Recommendation: Salmon Mania (Substitute roll for x2 salmon
-
-            sashimi), add 2 tobiko sashimi. (Coupon code: 20%off)
+        -   Recommendation: Salmon Mania (Substitute roll for x2 salmon sashimi), add 2 tobiko sashimi. (Coupon code: 20%off)
 
 
 
-###### *Pick-up* {#pick_up}
-
-
-
+###### *Pick-up*
 -   5 Guys
 
     -   Recommendation: Cheeseburger no bun / lettuce wrapped.
 
 
-
-------------------------------------------------------------------------
-
-
-
-## Buffalo Wings {#buffalo_wings}
-
-
-
-[Buffalo Wings: Options per establishment]
 

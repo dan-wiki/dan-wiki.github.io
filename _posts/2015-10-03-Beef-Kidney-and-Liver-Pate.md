@@ -7,8 +7,6 @@ tags: ['lamb kidneys', 'lamb livers', 'onions', 'garlic', 'black pepper corns', 
 
 ## Notes
 
-
-
 -   Preparation Time: 8 hours
 
 -   Cooking Time: 2 hours
@@ -18,8 +16,6 @@ tags: ['lamb kidneys', 'lamb livers', 'onions', 'garlic', 'black pepper corns', 
 
 
 ## Ingredients
-
-
 
 -   4 lamb kidneys
 
@@ -43,47 +39,27 @@ tags: ['lamb kidneys', 'lamb livers', 'onions', 'garlic', 'black pepper corns', 
 
 ## Instructions
 
-
-
 1.  Preheat oven to 275°.
 
 2.  Peel the little membranes off the kidneys and slice kidney.
 
 3.  Lightly sauté the liver and kidneys in olive oil until barely done.
 
-4.  Remove the meat from the pan and pat dry with paper towels. Grind
+4.  Remove the meat from the pan and pat dry with paper towels. Grind spices in blender or processor.
 
-    spices in blender or processor.
+5.  Purée the onions and garlic in the blender or processor with the spices. Pour off into a sieve to drain.
 
-5.  Purée the onions and garlic in the blender or processor with the
-
-    spices. Pour off into a sieve to drain.
-
-6.  Purée the meats in the blender or processor with the onions, garlic,
-
-    and spices.
+6.  Purée the meats in the blender or processor with the onions, garlic, and spices.
 
 7.  Oil bread pan.
 
 8.  Pour the meat mixture into the bread pan and smooth the surface.
 
-9.  Cover with aluminum foil and set a pan in water about an inch high
-
-    up the side of the pan.
+9.  Cover with aluminum foil and set a pan in water about an inch high up the side of the pan.
 
 10. Bake at 275° for 2 hours or until a knife comes out almost clean.
 
 11. Remove from the oven and chill over night, leaving the foil on.
 
 12. The next day invert on serving plate.
-
-
-
-## Source
-
-
-
--   <http://mintcreekfarm.com/products-page/recipes/organ-meat-recipes/>
-
--   [Also check this one out](http://www.almostbananas.net/simple-and-best-liver-pate/)
 
