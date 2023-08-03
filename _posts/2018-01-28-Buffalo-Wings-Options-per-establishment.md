@@ -1,8 +1,8 @@
 ---
 title: Buffalo Wings - Options per establishment
 date: 2018-01-28 22:43:00 -500
-categories: ['buffalo wings','take-out']
-tags: ['Buffalo Wings','take-out']
+categories: [articles,food,take-out]
+tags: ['buffalo wings','take-out']
 ---
 
 ## Take-out Restaurants

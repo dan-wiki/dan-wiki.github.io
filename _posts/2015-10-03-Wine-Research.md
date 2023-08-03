@@ -1,5 +1,5 @@
 ---
-title: Wine
+title: Wine Research
 date: 2015-10-03 22:26:00 -500
 categories: [articles,beverages,wine]
 tags: ['coffee', 'sangiovese', 'low-carb arnold palmer', 'barolo (made from nebbiolo grape)', 'amarone', 'dolcetto d'alba', 'barbera', 'cotes du rhone', 'barberesca', 'dirty martini', 'nebbiolo', 'diet green tea', 'iskiate', 'chianti']

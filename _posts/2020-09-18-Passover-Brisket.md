@@ -1,8 +1,8 @@
 ---
-title: Brisket
+title: Passover Brisket
 date: 2020-09-18 19:26:00 -500
-categories: ['beef','roast']
-tags: ['brisket','roast','passover','holdiday']
+categories: [beef,brisket,jewish,oven,roast]
+tags: ['brisket','roast','passover','holiday']
 ---
 
 ## Ingredients

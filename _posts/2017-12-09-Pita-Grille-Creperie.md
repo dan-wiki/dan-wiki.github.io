@@ -1,7 +1,7 @@
 ---
-title: Pita Grille Creperie
+title: Take-out Notes - Pita Grille Creperie
 date: 2017-12-09 01:20:00 -500
-categories: ['take-out']
+categories: [articles,food,take-out]
 tags: ['buffalo chicken salad', 'jalepeno hummus']
 ---
 
@@ -11,10 +11,13 @@ tags: ['buffalo chicken salad', 'jalepeno hummus']
     the menu.
 
 
-
-## Previous Orders
+## Go-to Orders
 
 -   Jalepeno Hummus
-
+-   Farmers Salad w/ Lamb Kebab or Chicken
+-   Fallafel
+-   Babaganush 
+-   Lox Savory Crepe
 -   Buffalo chicken salad
+
 
