@@ -1,7 +1,7 @@
 ---
 title: Pressure cooker pulled pork
 date: 2014-08-10 01:25:00 -500
-categories: ['pork', 'pressure cooker', 'pulled']
+categories: [pork,butt,mexican,pressure cooker,pulled]
 tags: ['pulled pork', 'recipe 1']
 ---
 

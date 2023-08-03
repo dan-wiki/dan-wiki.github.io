@@ -1,7 +1,7 @@
 ---
 title: Roasted Lemon Herb Chicken
 date: 2015-01-20 01:20:00 -500
-categories: ['chicken', 'roasted', 'herb', 'lemon']
+categories: [chicken,breast,french,oven,roasted]
 tags: ['roasted lemon herb chicken', 'lemon roasted chicken']
 ---
 

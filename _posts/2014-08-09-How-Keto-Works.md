@@ -1,11 +1,11 @@
 ---
 title: How Keto Works
 date: 2014-08-09 20:06:00 -500
-categories: ['article']
-tags: ['keto','article']
+categories: [article,health,keto]
+tags: [article,health,keto]
 ---
 
-## Good explanation by reddit user re76 {#good_explanation_by_reddit_user_re76}
+## Good explanation by reddit user re76
 
 
 

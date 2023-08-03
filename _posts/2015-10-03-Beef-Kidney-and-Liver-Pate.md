@@ -1,7 +1,7 @@
 ---
 title: Beef Kidney and Liver Pate
 date: 2015-10-03 23:19:00 -500
-categories: ['liver', 'beef', 'pate', 'and', 'kidney']
+categories: [beef,kidney,french,sauted,chilled]
 tags: ['lamb kidneys', 'lamb livers', 'onions', 'garlic', 'black pepper corns', 'Dried mustard', 'sage', 'thyme', 'Olive oil', 'Preheat', 'Peel', 'sauté', 'grind', 'Purée', 'Oil', 'Pour', 'Cover', 'Bake', 'Remove', 'chill', 'invert']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Beef Tartare
 date: 2014-08-10 00:28:00 -500
-categories: ['tartare', 'beef']
+categories: [beef,french,raw]
 tags: ['steak tartar', 'beef tartare', 'ethiopian', 'kitfo']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Taco Seasoning
 date: 2014-08-09 18:08:00 -500
-categories: ['seasoning', 'taco']
+categories: [seasoning,mexican,taco]
 tags: ['crushed red pepper flakes', 'chili powder', 'ground cumin', 'black pepper', 'onion powder', 'garlic powder', 'dried oregano', 'sea salt', 'season goya (msg) of choice', 'paprika']
 ---
 

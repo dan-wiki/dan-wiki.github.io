@@ -1,7 +1,7 @@
 ---
 title: Roast Chicken Legs
 date: 2014-08-10 01:18:00 -500
-categories: ['legs', 'roast', 'chicken']
+categories: [chicken,legs,american,oven,roasted]
 tags: ['roast chicken legs', 'colombian style']
 ---
 

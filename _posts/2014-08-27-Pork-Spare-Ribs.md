@@ -1,7 +1,7 @@
 ---
 title: Pork Spare Ribs
 date: 2014-08-27 17:13:00 -500
-categories: ['pork', 'ribs', 'spare']
+categories: [pork,ribs,american,oven,roasted]
 tags: ['pork spare ribs', 'paprika', 'whole black peppercorns', 'coriander seeds', 'cumin seeds', 'garlic powder', 'onion powder', 'nutmeg', 'cayenne pepper', 'kosher salt', 'spicy brown mustard', 'aluminum foil', 'oven tray', 'low carb BBQ sauce', 'cut', 'remove', 'form', 'put', 'apply', 'fold', 'refrigerate', 'bake', 'open', 'wrap', 'broiler']
 ---
 

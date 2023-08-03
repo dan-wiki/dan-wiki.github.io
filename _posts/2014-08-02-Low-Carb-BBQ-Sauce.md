@@ -1,15 +1,12 @@
 ---
 title: Low Carb BBQ Sauce
 date: 2014-08-02 18:19:00 -500
-categories: ['bbq', 'sauce', 'low carb']
+categories: [sauce,american,low carb]
 tags: ['cider vinegar', 'Worcestershire sauce', 'crushed red pepper flakes', 'sweetener', 'dry mustard', 'garlic salt or Adobo seasoning', 'cayenne pepper', 'thick bacon', 'liquid smoke', 'smoked paprika', 'onion', 'garlic', 'garlic powder', 'tomato paste', 'diet (sugar-free) cola', 'low carb (sugar-free) ketchup', 'mustard', 'ground cloves', 'Hot sauce', 'water', 'vinegar', 'sugar substitute', 'smoked paprika', 'salt', 'garlic powder', 'onion powder', 'pepper', 'Fry', 'Cook', 'Simmer', 'Heat', 'Reduce']
 ---
 
-\_\_TOC\_\_
 
-
-
-## Carolina Style {#carolina_style}
+## Carolina Style
 
 
 
@@ -33,7 +30,7 @@ tags: ['cider vinegar', 'Worcestershire sauce', 'crushed red pepper flakes', 'sw
 
 
 
-## Style \#1 {#style_1}
+## Style
 
 
 
@@ -97,7 +94,7 @@ has about 3.5 grams of carbohydrate plus 1 gram of fiber.
 
 
 
-## Style \#2 {#style_2}
+## Style
 
 
 

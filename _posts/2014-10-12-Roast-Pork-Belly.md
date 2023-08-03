@@ -1,13 +1,11 @@
 ---
 title: Roast Pork Belly
 date: 2014-10-12 13:51:00 -500
-categories: ['roast', 'belly', 'pork']
+categories: [pork,belly,american,oven,roasted]
 tags: ['Roast Pork Belly', 'Dry Rub', 'Salt', 'Sugar substitute', '5 spice powder', 'Pepper', 'Cure', 'Vinegar']
 ---
 
 ## Ingredients
-
-
 
 -   Dry Rub
 
@@ -28,8 +26,6 @@ tags: ['Roast Pork Belly', 'Dry Rub', 'Salt', 'Sugar substitute', '5 spice powde
 
 
 ## Instructions
-
-
 
 1.  Wash pork belly
 
@@ -79,8 +75,6 @@ tags: ['Roast Pork Belly', 'Dry Rub', 'Salt', 'Sugar substitute', '5 spice powde
 
 ## Notes
 
-
-
 -   The cure is mostly salt. It like a slurry. You are essentially
 
     brushing a salt paste onto the skin.
@@ -95,11 +89,7 @@ tags: ['Roast Pork Belly', 'Dry Rub', 'Salt', 'Sugar substitute', '5 spice powde
 
 ## References
 
-
-
 <https://www.youtube.com/watch?v=pCrod_sRxc8>
-
-
 
 <https://www.youtube.com/watch?v=Fr6xswgiIyA>
 

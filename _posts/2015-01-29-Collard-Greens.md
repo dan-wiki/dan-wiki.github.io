@@ -1,7 +1,7 @@
 ---
 title: Collard Greens
 date: 2015-01-29 01:49:00 -500
-categories: ['collard greens']
+categories: [collard greens,american,stove,blanched]
 tags: ['olive oil', 'bacon', 'onion', 'garlic', 'salt', 'pepper', 'chicken broth', 'red pepper flakes', 'collard greens', 'heat', 'add', 'cook', 'remove', 'crumble', 'return', 'fry', 'pour', 'season', 'reduce', 'cover', 'simmer']
 ---
 

@@ -1,29 +1,21 @@
 ---
 title: Paleo Mayo
 date: 2014-08-09 22:37:00 -500
-categories: ['paleo', 'mayo']
-tags: ['egg', 'salt', 'water', 'lemon juice', 'dijon mustard', 'white vinegar', 'apple cider vinegar', 'olive oil', 'macadamia oil', 'avocado oil', 'sriracha', 'pasteurize', 'blend']
+categories: [sauce,avocado oil,french,mayonnaise]
+tags: ['egg', 'salt', 'water', 'lemon juice', 'dijon mustard', 'white vinegar', 'apple cider vinegar', 'olive oil', 'macadamia oil', 'avocado oil', 'sriracha', 'pasteurize', 'blend','mayo']
 ---
 
 ## Servings
 
-
-
 Makes about a 1.5 cups of mayo
-
 
 
 ## Link
 
-
-
 <https://youtu.be/GbPF_rLpd9o>
 
 
-
 ## Ingredients
-
-
 
 -   1 Large egg (as local and organic as you can find)
 
@@ -48,10 +40,7 @@ Makes about a 1.5 cups of mayo
     quart-size soup container.
 
 
-
 ## Directions
-
-
 
 1.  Choose:
 
@@ -92,10 +81,7 @@ Makes about a 1.5 cups of mayo
 7.  Store in same container with lid
 
 
-
 ## Troubleshooting
-
-
 
 -   You need to have some water, lemon juice, or vinegar from the start
 

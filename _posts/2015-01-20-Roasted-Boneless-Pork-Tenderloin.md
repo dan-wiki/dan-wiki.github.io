@@ -1,7 +1,7 @@
 ---
 title: Roast Boneless Pork Tenderloin
 date: 2015-01-20 01:23:00 -500
-categories: ['roast', 'tenderloin', 'pork', 'boneless']
+categories: [pork,tenderloin,french,oven,roasted]
 tags: ['herb-roasted pork', 'roast boneless pork tenderloin']
 ---
 

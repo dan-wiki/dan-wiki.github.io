@@ -1,7 +1,7 @@
 ---
 title: Garlic Mashed Cauliflower
 date: 2015-01-28 00:23:00 -500
-categories: ['garlic', 'mashed', 'cauliflower']
+categories: [cauliflower,american,stove,blanched]
 tags: ['cauliflower', 'butter', 'parmesan', 'cream cheese', 'black pepper', 'chicken base', 'chives', 'garlic']
 ---
 

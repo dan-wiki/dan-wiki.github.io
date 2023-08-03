@@ -1,7 +1,7 @@
 ---
 title: Installing PrivateInternetAccess
 date: 2016-11-30 02:47:00 -500
-categories: ['privateinternetaccess', 'installing']
+categories: [article,technology,instructions]
 tags: ['vpn','tech']
 ---
 

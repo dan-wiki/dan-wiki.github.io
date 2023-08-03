@@ -1,11 +1,11 @@
 ---
-title: Meatloaf
+title: Beef Meatloaf
 date: 2014-08-11 22:02:00 -500
-categories: ['meatloaf']
+categories: [beef,ground,american,oven,baked]
 tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almond meal', 'egg', 'mustard powder', 'sage', 'parsley', 'salt', 'Worcestershire', 'smoked paprika', 'soy sauce', 'tamari', 'heavy cream', 'mozzarella', 'ground black pepper', 'marinara sauce', 'sugar free ketchup', 'BBQ sauce', 'unsalted butter', 'celery', 'carrot', 'green onion', 'garlic', 'Italian sausage', 'parsley leaves', 'dice', 'mix', 'preheat', 'bake', 'melt']
 ---
 
-## Short Version {#short_version}
+## Short Version
 
 
 
@@ -51,8 +51,6 @@ tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almo
 
 ### Directions
 
-
-
 1.  Preheat an oven to 350F.
 
 2.  Thoroughly mix all ingredients except sauce and cheese in large
@@ -69,11 +67,9 @@ tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almo
 
 
 
-## Long Version {#long_version}
+## Long Version
 
-
-
-### Ingredients {#ingredients_1}
+### Ingredients
 
 
 
@@ -154,8 +150,6 @@ tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almo
 
 
 **Adapted From:**
-
-
 
 -   [Classic Meatloaf](http://www.simplyrecipes.com/recipes/classic_meatloaf/)
 

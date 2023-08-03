@@ -1,7 +1,7 @@
 ---
 title: Ordering Takeout
 date: 2015-10-03 22:42:00 -500
-categories: ['takeout', 'ordering']
+categories: [article,food]
 tags: ['takeout']
 ---
 
@@ -180,7 +180,7 @@ tags: ['takeout']
 
                     and meat options.
 
-                    -   Considering: Sauted sausage and peppers.
+                    -   Considering: Sautéed sausage and peppers.
 
                 -   AroyDee Thai Kitchen
 

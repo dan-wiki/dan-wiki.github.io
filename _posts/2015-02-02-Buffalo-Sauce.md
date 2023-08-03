@@ -1,7 +1,7 @@
 ---
 title: Buffalo Sauce
 date: 2015-02-02 04:03:00 -500
-categories: ['buffalo', 'sauce']
+categories: [sauce,american]
 tags: ['salt', 'cayenne pepper', 'white vinegar', 'hot pepper sauce', 'unsalted butter', 'garlic powder', 'worcestershire sauce']
 ---
 

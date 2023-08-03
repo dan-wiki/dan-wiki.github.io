@@ -1,7 +1,7 @@
 ---
 title: Artichoke Mushroom Chicken Breast
 date: 2015-01-20 01:19:00 -500
-categories: ['artichoke', 'chicken breast', 'mushroom']
+categories: [chicken,breast,french,oven,baked]
 tags: ['artichoke', 'chicken breast', 'mushroom']
 ---
 

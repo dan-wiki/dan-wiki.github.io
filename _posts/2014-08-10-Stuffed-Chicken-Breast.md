@@ -1,7 +1,7 @@
 ---
 title: Stuffed Chicken Breast
 date: 2014-08-10 02:00:00 -500
-categories: ['stuffed', 'breast', 'chicken']
+categories: [chicken, breast, french, oven, baked]
 tags: ['goat cheese',  'spinach', 'stuffed', 'chicken breast', 'baked', 'cream cheese']
 ---
 
