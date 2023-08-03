@@ -1,13 +1,11 @@
 ---
 title: Jason’s Lemon Oregano Chicken Marinade
 date: 2022-05-07 20:04:00 -500
-categories: ['oregano', 'marinade', 'chicken', 'lemon']
+categories: [marinade,american]
 tags: ['oregano', 'kosher salt', 'black pepper', 'lemons', 'garlic', 'olive oil']
 ---
 
 ## Ingredients
-
-
 
 *Per 3 lbs of chicken:*
 
@@ -28,8 +26,6 @@ tags: ['oregano', 'kosher salt', 'black pepper', 'lemons', 'garlic', 'olive oil'
 
 
 ## Instructions
-
-
 
 1.  Mix all marinade ingredients together
 
