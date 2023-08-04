@@ -5,9 +5,7 @@ categories: [chicken,mexican,slow cooker]
 tags: ['chicken breasts', 'black beans', 'corn', 'petite diced tomatoes', 'hidden valley ranch dressing mix', 'cumin', 'onion powder', 'chili powder', 'cream cheese', 'shred', 'mix']
 ---
 
-## Ingredients
-
-
+# Ingredients
 
 -   2 large Chicken Breasts
 
@@ -29,9 +27,7 @@ tags: ['chicken breasts', 'black beans', 'corn', 'petite diced tomatoes', 'hidde
 
 
 
-## Instructions
-
-
+# Instructions
 
 1.  Pour in corn, tomatoes, black beans, ranch mix, and seasoning
 
@@ -45,19 +41,4 @@ tags: ['chicken breasts', 'black beans', 'corn', 'petite diced tomatoes', 'hidde
 
 6.  Shred with forks and mix
 
-
-
-## Source
-
-
-
--   Adaptation of newspaper clipping from Daily Journal Food Advisory
-
-    Board, which adapted their version from plainchicken.com
-
-
-
-[Category:Crockpot]
-
-[Category:Chicken]
 
