@@ -146,10 +146,3 @@ tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almo
     for 10 minutes. Then use a metal spatula to gently lift the meatloaf
 
     out of the loaf pan to a serving plate.
-
-
-
-**Adapted From:**
-
--   [Classic Meatloaf](http://www.simplyrecipes.com/recipes/classic_meatloaf/)
-

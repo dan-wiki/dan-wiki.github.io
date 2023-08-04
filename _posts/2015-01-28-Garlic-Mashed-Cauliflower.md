@@ -5,10 +5,6 @@ categories: [cauliflower,american,stove,blanched]
 tags: ['cauliflower', 'butter', 'parmesan', 'cream cheese', 'black pepper', 'chicken base', 'chives', 'garlic']
 ---
 
--   [Link to recipe](http://www.foodnetwork.com/recipes/mock-garlic-mashed-potatoes-recipe.html#lightbox-recipe-video)
-
-
-
 **Ingredients**
 
 -   1 medium head cauliflower

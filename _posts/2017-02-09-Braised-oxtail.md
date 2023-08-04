@@ -5,48 +5,23 @@ categories: [beef,oxtail,chinese,oven,braised]
 tags: ['oxtails', 'olive oil', 'rice wine', 'tamari', 'soy sauce', 'molasses substitute', 'instant coffee', 'splenda', 'monk fruit juice', 'sugar-free maple syrup', 'water', 'sugar substitute', 'star anise', 'cloves', 'scallions', 'ginger', 'garlic cloves', 'orange juice', 'orange zest', 'onion', 'coriander', 'sear', 'brown', 'crisp', 'deglace', 'boil', 'agitate', 'slow cook', 'rest', 'drain', 'heat', 'cover', 'simmer', 'drizzle', 'garnish']
 ---
 
--   [Source](http://www.thinkeatdrink.com/chinese-oxtail-recipe/)
-
--   The recipe has been altered to be keto-friendly
-
-
-
 ## Ingredients
 
 -   5 to 6 pounds oxtails
-
 -   Kosher salt and ground black pepper
-
 -   2 tablespoons extra virgin olive oil
-
 -   1/2 cup shaoxing rice wine
-
 -   1/3 cup tamari or soy sauce
-
--   1/3 cup molasses substitute (3 tbs (x3 tasters choice packets)
-
-    instant coffee 1 tbsp splenda (x5 tbsp monk fruit juice)) or
-
-    (sugar-free maple syrupt), \<1 oz water
-
+-   1/3 cup molasses substitute (3 tbs (x3 tasters choice packets) instant coffee 1 tbsp splenda (x5 tbsp monk fruit juice)) or (sugar-free maple syrupt), \<1 oz water
 -   2 cups water
-
 -   1 tablespoon sugar substitute
-
 -   6 star anise, broken into pieces
-
 -   20 cloves or same worth of ground
-
 -   3 scallions chopped
-
 -   6 slices fresh peeled ginger
-
 -   4 garlic cloves, smashed
-
 -   1 tsp juiced orange
-
 -   The zest of a half an orange
-
 
 
 ## Directions
@@ -86,10 +61,7 @@ tags: ['oxtails', 'olive oil', 'rice wine', 'tamari', 'soy sauce', 'molasses sub
 12. Put the liquid in the fridge as well.
 
 
-
 *Next Day*
-
-
 
 1.  Remove the fat layer. Now you have an "aspic"
 

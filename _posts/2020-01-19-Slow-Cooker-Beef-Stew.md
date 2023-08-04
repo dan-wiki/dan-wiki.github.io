@@ -93,9 +93,3 @@ tags: ['beef chuck roast', 'Kosher salt', 'black pepper', 'olive oil', 'onion', 
 
 10. Garnish with parsley
 
-
-
-[Adapted
-
-Source](https://damndelicious.net/2016/10/07/slow-cooker-beef-stew/)
-

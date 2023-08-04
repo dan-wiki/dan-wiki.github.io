@@ -33,8 +33,6 @@ tags: ['goat cheese',  'spinach', 'stuffed', 'chicken breast', 'baked', 'cream c
 
   Make a pocket on the thicker side of each breast. Using a sharp boning or utility knife, cut into the breast about 1/2 inch from one end. Create a pocket, slicing to within about 1/4 inch of the other side.
 
-  ![Spinach & Goat Cheese-Stuffed Chicken Breasts Recipe](https://web.archive.org/web/20161016051649im_/http://www.finecooking.com/CMS/uploadedImages/Images/Cooking/Articles/Issues_61-70/fc69ma062-05_med_xlg.jpg)
-
   Stuff each breast with about one-quarter of the filling, distributing it evenly throughout the pocket and to the ends. Press on the top of each breast to close the pocket.
 
   Line up three wide shallow dishes. Fill the first with the flour. In the second, whisk the eggs. In the third, toss the breadcrumbs with 1/2 tsp. salt and 1/2 tsp. pepper.
@@ -44,9 +42,3 @@ tags: ['goat cheese',  'spinach', 'stuffed', 'chicken breast', 'baked', 'cream c
   Heat the oven to 350°F. Heat the oil in a heavy 10-inch nonstick skillet over medium-high heat. When the oil is very hot, carefully add two of the breasts to the pan and cook until golden brown, about 3 minutes per side. If the oil seems to get too hot, reduce the heat to medium. Transfer the breasts to a baking sheet. Repeat with the other two breasts.
 
   Bake until the chicken and filling reach 165°F on an instant-read thermometer, about 15 minutes. Serve immediately.
-
-  ##### Make Ahead Tips
-
-  The filling can be made a day ahead and refrigerated, covered
-- [Goat Cheese and Spinach Stuffed Chicken Breast](http://www.finecooking.com/recipes/spinach-goat-cheese-stuffed-chicken-breasts.aspx) - needs to be modified for keto
-- Cream Cheese and Spinach Stuffed Chicken Breast

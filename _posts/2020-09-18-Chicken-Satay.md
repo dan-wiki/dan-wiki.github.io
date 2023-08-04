@@ -88,10 +88,3 @@ tags: ['Chicken Satay', 'coconut milk', 'soy sauce', 'yellow curry powder', 'tur
     temperature of 165 degrees F, about 12-15 minutes.
 
 7.  Serve immediately with peanut sauce.
-
-
-
--   Source:
-
-    <https://damndelicious.net/2019/06/07/chicken-satay-with-peanut-sauce/>
-

@@ -5,9 +5,6 @@ categories: [beef,tongue,mexican,sous vide]
 tags: ['beef tongue', 'ancho chili powder', 'garlic salt', 'ground cumin', 'freshly ground black pepper', 'canola oil', 'corn tortillas', 'white onion', 'cilantro', 'radishes', 'limes', 'sous vide', 'seasoning', 'sealing', 'water immersion technique', 'vacuum sealer', 'water bath', 'pat dry', 'peeling', 'shredding', 'cutting', 'heating', 'searing', 'serving']
 ---
 
-[Source](http://recipes.anovaculinary.com/recipe/sous-vide-beef-tongue-tacos)
-
-
 
 ## Ingredients
 
@@ -38,8 +35,6 @@ tags: ['beef tongue', 'ancho chili powder', 'garlic salt', 'ground cumin', 'fres
 
 
 ## Instructions
-
-
 
 1.  Set the Sous Vide to 158ºF (70ºC).
 

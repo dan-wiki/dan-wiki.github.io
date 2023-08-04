@@ -16,7 +16,7 @@ tags: [chicken,liver,pate,allspice,whipping cream]
 * **1** **tbsp** **fresh thyme** **chopped**
 * **1** **tbsp** **fresh cracked black pepper**
 * **2** **tbsp** **salt**
-* **2** **cups** [sugar free bbq sauce](https://web.archive.org/web/20230608111545/http://amzn.com/B0079OWL16?tag=lcrecipe-20)
+* **2** **cups** **sugar free bbq sauce**
 
 ### Instructions
 
