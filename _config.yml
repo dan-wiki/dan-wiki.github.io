@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://dan.wiki"
 
 github:
-  username: dan_wiki # change to your github username
+  username: dan-wiki # change to your github username
 
 # twitter:
   # username: danwiki # change to your twitter username
