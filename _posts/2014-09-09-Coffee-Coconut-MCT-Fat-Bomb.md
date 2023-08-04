@@ -1,7 +1,7 @@
 ---
 title: Coffee Coconut MCT Fat Bomb
 date: 2014-09-09 23:50:00 -500
-categories: [drink,american]
+categories: [drinks,american]
 tags: ['coffee', 'ghee', 'mct oil', 'vanilla extract', 'unflavored gelatin', 'artificial sweetener', 'vanilla whey powder', 'coconut oil','keto']
 ---
 

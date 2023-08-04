@@ -1,7 +1,7 @@
 ---
 title: Margarita
 date: 2018-02-14 01:36:00 -500
-categories: [drinks,alcohol]
+categories: [drinks,mexican,alcohol]
 tags: ['tequila', 'bacardi blanca', 'water', 'tequila blanca 100% agave', 'lime juice', 'crushed ice', 'margarita salt', 'swerve', 'orange smirnoff', 'orange extract']
 ---
 

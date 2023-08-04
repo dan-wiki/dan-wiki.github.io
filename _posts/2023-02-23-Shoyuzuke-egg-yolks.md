@@ -1,7 +1,7 @@
 ---
 title: Shoyuzuke egg yolks
 date: 2023-02-23 06:00:00 -500
-categories: [appetizer,egg,yolks,japanese,pickled]
+categories: [appetizers,egg,yolks,japanese,pickled]
 tags: ['eggs', 'Japanese soy sauce', 'rice vinegar', 'sugar', 'riced cauliflower', 'rice', 'furikake', 'separate', 'drop', 'mix', 'pour', 'tilt', 'cover', 'marinate', 'serve', 'sprinkle', 'shoyuzuke']
 ---
 

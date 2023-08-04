@@ -2,7 +2,7 @@
 title: Sous vide rump roast
 date: 2015-11-29 07:53:00 -500
 categories: [beef,rump,french,sous vide]
-tags: ['sous vide', 'kosher salt', 'sagemary finishing salt', , 'onion powder', 'garlic powder', 'vacuum seal', 'pepper', 'rump roast']
+tags: [sous vide, kosher salt, sagemary finishing salt, onion powder, garlic powder, vacuum seal, pepper, rump roast]
 ---
 
 ## Ingredients

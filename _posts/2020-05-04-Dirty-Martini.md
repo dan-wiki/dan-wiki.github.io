@@ -1,7 +1,7 @@
 ---
 title: Dirty Martini
 date: 2020-05-04 01:14:00 -500
-categories: ['martini','drinks','alcohol']
+categories: [drinks,english,alcohol]
 tags: ['martini glass', 'green olives', 'ice cubes', 'shaker', 'olive juice', 'strainer', 'gin', 'stirring spoon','party']
 ---
 

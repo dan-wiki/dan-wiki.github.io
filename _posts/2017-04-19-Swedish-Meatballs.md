@@ -1,7 +1,7 @@
 ---
 title: Swedish Meatballs
 date: 2017-04-19 02:13:00 -500
-categories: [appetizer,pork,ground,swedish,stove,simmer]
+categories: [appetizers,pork,ground,swedish,stove,simmer]
 tags: ['cooking spray', 'onion', 'stove top stuffing mix for pork', 'beef', 'onions', 'water', 'meatball mix', 'stuffing mix', 'low heat', 'eggs', 'meat', 'pork', 'sour cream', 'foil-lined pans', 'heinz homestyle savory beef gravy', 'gravy', 'oven', 'saucepan']
 ---
 
