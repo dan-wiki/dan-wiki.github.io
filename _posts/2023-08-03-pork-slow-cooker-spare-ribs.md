@@ -7,16 +7,16 @@ tags: [chicken,liver,pate,allspice,whipping cream]
 
 # Ingredients
 
-* **2** **slabs** **pork spare ribs (about 5 lbs. per slab)**
-* **1/4** **cup** **mustard (your favorite!)**
-* **1** **small** **onion** **peeled and cut into big chunks**
-* **12** **whole** **garlic cloves** **tips removed**
-* **2** **tbsp** **paprika**
-* **1** **tbsp** **cayenne pepper**
-* **1** **tbsp** **fresh thyme** **chopped**
-* **1** **tbsp** **fresh cracked black pepper**
-* **2** **tbsp** **salt**
-* **2** **cups** **sugar free bbq sauce**
+- 2 slabs pork spare ribs (about 5 lbs. per slab)
+- 1/4 cup mustard (your favorite!)
+- 1 small onion peeled and cut into big chunks
+- 12 whole garlic cloves tips removed
+- 2 tbsp paprika
+- 1 tbsp cayenne pepper
+- 1 tbsp fresh thyme chopped
+- 1 tbsp fresh cracked black pepper
+- 2 tbsp salt
+- 2 cups sugar free bbq sauce
 
 # Instructions
 
