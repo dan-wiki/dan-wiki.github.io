@@ -5,7 +5,7 @@ categories: [egg,american,oven,baked]
 tags: ['sausage links', 'cheddar', 'salt', 'mix', 'bake', 'frozen chopped onions', 'black pepper', 'eggs', 'heavy cream', 'garlic powder', 'frozen chopped spinach', 'frozen chopped green peppers', 'put']
 ---
 
-## Ingredients
+# Ingredients
 
 -   3.5 cups (1 block) Frozen Chopped Spinach
 
@@ -31,7 +31,7 @@ tags: ['sausage links', 'cheddar', 'salt', 'mix', 'bake', 'frozen chopped onions
 
 
 
-## Directions
+# Instructions 
 
 1.  Mix all ingredients
 

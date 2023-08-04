@@ -5,8 +5,7 @@ categories: [beef,mexican,pressure cooker]
 tags: ['cooker', 'beef', 'mexican', 'pressure', 'source', 'post', 'pressure cooker mexican beef']
 ---
 
-**Ingredients:**
-
+# Ingredients
 * 2½ pounds boneless beef short ribs, beef brisket, or beef chuck roast cut into 1½- to 2-inch cubes
 * 1 tablespoon chili powder
 * 1½ teaspoons kosher salt (Diamond Crystal brand)
@@ -21,8 +20,7 @@ tags: ['cooker', 'beef', 'mexican', 'pressure', 'source', 'post', 'pressure cook
 * ½ cup minced cilantro (optional)
 * 2 radishes, thinly sliced (optional
 
-### INSTRUCTIONS
-
+# Instructions
 * The process is pretty much the same regardless of whether you use a stove-top pressure cooker or an electric one. The only difference is that your cooking time under high pressure will be slightly shorter with the stove top cooker than with an electric cooker (e.g. 30 minutes vs. 35 minutes).
 * In a large bowl, combine cubed beef, chili powder, and salt.
 * Press the “Sauté” button on your Instant Pot and add the ghee to the cooking insert. Once the fat’s melted, add the onions and sauté until translucent. (If you’re using a stove top pressure cooker, melt the fat over medium heat and sauté the onions.)

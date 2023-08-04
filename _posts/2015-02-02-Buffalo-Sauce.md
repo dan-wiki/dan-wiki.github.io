@@ -5,7 +5,7 @@ categories: [sauce,american]
 tags: ['salt', 'cayenne pepper', 'white vinegar', 'hot pepper sauce', 'unsalted butter', 'garlic powder', 'worcestershire sauce']
 ---
 
-**Ingredients**
+# Ingredients
 
 -   2/3 cup hot pepper sauce (such as Frank\'s RedHot®)
 -   1/2 cup cold unsalted butter
@@ -17,7 +17,7 @@ tags: ['salt', 'cayenne pepper', 'white vinegar', 'hot pepper sauce', 'unsalted 
 
 
 
-**Directions**
+# Instructions 
 
 1.  Combine the hot sauce, butter, vinegar, Worcestershire sauce,
 

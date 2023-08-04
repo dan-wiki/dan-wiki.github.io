@@ -5,7 +5,7 @@ categories: [beef,brisket,jewish,oven,roast]
 tags: ['brisket','roast','passover','holiday']
 ---
 
-## Ingredients
+# Ingredients
 
 
 
@@ -33,7 +33,7 @@ same. Just use the closest multiple for the number of pounds.
 
 
 
-## Directions
+# Instructions 
 
 
 

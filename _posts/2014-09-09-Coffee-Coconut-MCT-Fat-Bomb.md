@@ -5,30 +5,19 @@ categories: [drinks,american]
 tags: ['coffee', 'ghee', 'mct oil', 'vanilla extract', 'unflavored gelatin', 'artificial sweetener', 'vanilla whey powder', 'coconut oil','keto']
 ---
 
-## Ingredients
-
+# Ingredients
 -   1 Cup coffee (30g ground, drip brewed, 12.5oz water, 4min brew time)
-
 -   1 Tbsp ghee
-
 -   2 Tbsp coconut oil
-
--   2 Tsp Artificial sweetener (@ equivalent sugar measure. Ex: .5 Tsp
-
-    Truvia = 2 Tsp sugar.)
-
+-   2 Tsp Artificial sweetener (@ equivalent sugar measure. Ex: .5 Tsp Truvia = 2 Tsp sugar.)
 -   1 Tsp Vanilla extract
-
 -   4 Packets of unflavored gelatin
-
 -   8 Tbsp MCT Oil
-
 -   4 Tbsp Vanilla Whey Powder
 
 
 
-## Instructions
-
+# Instructions
 -   Liquefy in a blender for 15 seconds
 
 -   Transfer to shaped trays
@@ -39,8 +28,7 @@ Note: These must remain refrigerated due to the heavy cream.
 
 
 
-## Nutrition
-
+# Nutrition
 Serving Size: 1/22 of mixture
 
 -   Calories: 72

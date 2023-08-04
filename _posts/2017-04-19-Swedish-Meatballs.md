@@ -5,8 +5,8 @@ categories: [appetizers,pork,ground,swedish,stove,simmer]
 tags: ['cooking spray', 'onion', 'stove top stuffing mix for pork', 'beef', 'onions', 'water', 'meatball mix', 'stuffing mix', 'low heat', 'eggs', 'meat', 'pork', 'sour cream', 'foil-lined pans', 'heinz homestyle savory beef gravy', 'gravy', 'oven', 'saucepan']
 ---
 
+# Ingredients
 
-#Ingredients
 -   \~2lbs. meatball mix or 1lb beef 1lb pork
 
 -   1 pkg. (6 oz.) STOVE TOP Stuffing Mix for Pork
@@ -22,8 +22,8 @@ tags: ['cooking spray', 'onion', 'stove top stuffing mix for pork', 'beef', 'oni
 -   1/2 cup Sour Cream
 
 
+# Instructions
 
-#Directions
 1.  Heat oven to 400°F.
 
 2.  Mix meat, stuffing mix, eggs, onions and water just until blended.

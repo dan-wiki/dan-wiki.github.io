@@ -5,9 +5,7 @@ categories: [chicken,whole,american,air fryer]
 tags: ['salted butter', 'racked pan', 'goya adobo - lemon & pepper version', 'large lemon', 'whole chicken', 'kosher salt', 'goya sazonador total']
 ---
 
-## Ingredients
-
-
+# Ingredients
 
 -   1 whole chicken
 
@@ -27,9 +25,7 @@ tags: ['salted butter', 'racked pan', 'goya adobo - lemon & pepper version', 'la
 
 
 
-## Directions
-
-
+# Instructions 
 
 1.  Drain chicken if needed and remove giblets
 

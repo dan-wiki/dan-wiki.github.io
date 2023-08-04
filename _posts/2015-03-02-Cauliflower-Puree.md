@@ -5,7 +5,7 @@ categories: [vegetables,american,cauliflower,stove,blanched]
 tags: ['parmesan cheese', 'steamer insert', 'cauliflower', 'water', 'cream cheese', 'skillet', 'kosher salt', 'black pepper', 'garlic', 'olive oil', 'saucepan', 'food processor']
 ---
 
-## Ingredients
+# Ingredients
 
 -   1 head cauliflower, cut into florets
 -   1 tablespoon olive oil
@@ -17,7 +17,7 @@ tags: ['parmesan cheese', 'steamer insert', 'cauliflower', 'water', 'cream chees
 
 
 
-## Directions
+# Instructions
 
 1.  Place a steamer insert into a saucepan and fill with water to just
 

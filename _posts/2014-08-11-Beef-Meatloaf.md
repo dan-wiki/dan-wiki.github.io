@@ -5,11 +5,11 @@ categories: [beef,ground,american,oven,baked]
 tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almond meal', 'egg', 'mustard powder', 'sage', 'parsley', 'salt', 'Worcestershire', 'smoked paprika', 'soy sauce', 'tamari', 'heavy cream', 'mozzarella', 'ground black pepper', 'marinara sauce', 'sugar free ketchup', 'BBQ sauce', 'unsalted butter', 'celery', 'carrot', 'green onion', 'garlic', 'Italian sausage', 'parsley leaves', 'dice', 'mix', 'preheat', 'bake', 'melt']
 ---
 
-## Short Version
+# Short Version
 
 
 
-### Ingredients
+## Ingredients
 
 
 
@@ -49,7 +49,7 @@ tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almo
 
 
 
-### Directions
+## Instructions 
 
 1.  Preheat an oven to 350F.
 
@@ -67,9 +67,9 @@ tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almo
 
 
 
-## Long Version
+# Long Version
 
-### Ingredients
+## Ingredients
 
 
 
@@ -107,7 +107,7 @@ tags: ['ground beef', 'buffalo', 'onion', 'bell pepper', 'red', 'pablano', 'almo
 
 
 
-### Recipe
+## Instructions
 
 
 

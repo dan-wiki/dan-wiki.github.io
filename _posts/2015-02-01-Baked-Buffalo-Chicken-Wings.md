@@ -5,7 +5,7 @@ categories: [appetizers,chicken,wings,american,oven,baked]
 tags: ['chicken wings', 'salt', 'pepper', 'avocado oil', 'Buffalo Sauce', 'soup vegetables', 'cut', 'split', 'boil', 'pat dry', 'grease', 'top with', 'cook', 'toss', 'put', 'boil', 'strain', 'jar']
 ---
 
-## Ingredients
+# Ingredients
 
 -   Large package of chicken wings
 -   Salt
@@ -15,7 +15,7 @@ tags: ['chicken wings', 'salt', 'pepper', 'avocado oil', 'Buffalo Sauce', 'soup 
 -   (optional) Soup vegetables for broth
 
 
-## Directions
+# Instructions
 
 1.  Cut the tip off each wing
 2.  Split wing and drum

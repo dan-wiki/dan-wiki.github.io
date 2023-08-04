@@ -5,9 +5,9 @@ categories: [dessert,cake,american,oven,bake]
 tags: ['duncan hines', 'vanilla pudding', 'oil', 'rum', 'eggs', 'almond extract', 'almond flour', 'sugar substitute', 'baking powder', 'salt', 'cream cheese', 'soft butter', 'vanilla', 'pam', 'cake mold', 'grandma','grandma bella','cake','party','dessert']
 ---
 
-## Ingredients
+# Ingredients
 
-### Grandma\'s version
+## Grandma\'s version
 
 -   1 Box Duncan Hines (Yellow) / butter cake mix
 -   1 Box Vanilla Pudding
@@ -16,7 +16,7 @@ tags: ['duncan hines', 'vanilla pudding', 'oil', 'rum', 'eggs', 'almond extract'
 -   5 eggs
 -   1.5 tsp almond extract (optional)
 
-### My low-carb attempt
+## My low-carb attempt
 
 -   1.25 cups almond flour (might need to update this after attempting)
 -   .75 cup equivalent sugar substitute such as Erythritol
@@ -28,7 +28,7 @@ tags: ['duncan hines', 'vanilla pudding', 'oil', 'rum', 'eggs', 'almond extract'
 -   6 oz rum
 -   1 tsp vanilla (will need to experiment with almond as well)
 
-## Directions
+## Instructions
 
 1.  Mix all ingredients
 2.  Spray pam in bunt cake mold

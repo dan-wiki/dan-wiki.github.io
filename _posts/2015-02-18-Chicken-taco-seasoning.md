@@ -5,7 +5,7 @@ categories: [seasoning,mexican]
 tags: ['salt', 'cayenne pepper', 'dried onion', 'cumin', 'chili powder', 'onion powder', 'garlic powder', 'smoked paprika', 'paprika']
 ---
 
-## Ingredient
+# Ingredient
 
 -   3 tsp. chili powder
 -   2 1/2 tsp. paprika or smoked paprika
@@ -18,7 +18,7 @@ tags: ['salt', 'cayenne pepper', 'dried onion', 'cumin', 'chili powder', 'onion 
 
 
 
-## Directions
+# Instructions
 
 -   Mix all spices together in a small bowl. One batch makes \~9 tsp. = 3 tbsp
 -   A standard pack of seasoning has 2 tbsp

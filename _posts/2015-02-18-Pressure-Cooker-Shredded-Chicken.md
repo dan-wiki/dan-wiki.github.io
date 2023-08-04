@@ -5,7 +5,7 @@ categories: [chicken,mexican,pressure cooker,shredded]
 tags: ['let sit in juices until serving', 'release pressure', 'salsa', 'pull chicken', 'add chicken', 'let sit in cooker for 10-15 minutes', 'set on high for 10 minutes (i use an electric cuisinart pressure cooker)', 'cut chicken into large chunks', 'chicken broth', 'chicken breast', 'add salsa', 'add broth', 'chicken taco seasoning', 'add seasoning']
 ---
 
-## Ingredient
+# Ingredient
 
 -   1 cup chicken broth
 -   3 tbsp Chicken taco seasoning
@@ -14,7 +14,7 @@ tags: ['let sit in juices until serving', 'release pressure', 'salsa', 'pull chi
 
 
 
-## Directions
+# Instructions
 
 -   Cut chicken into large chunks
 -   Add broth

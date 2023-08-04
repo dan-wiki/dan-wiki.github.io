@@ -5,9 +5,7 @@ categories: [chicken,breast,american,grill]
 tags: ['chicken', 'water', 'salt', 'soy sauce', 'brown sugar', 'sugar substitute', 'olive oil', 'lemon juice', 'garlic', 'ginger powder', 'toasted sesame oil', 'brine']
 ---
 
-## Ingredients
-
-
+# Ingredients
 
 Note: ingredients can be multiplied as needed
 
@@ -37,7 +35,7 @@ Note: ingredients can be multiplied as needed
 
 
 
-## Directions
+# Instructions 
 
 
 

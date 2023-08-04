@@ -5,7 +5,7 @@ categories: [appetizers,egg,america,stove,boil]
 tags: ['eggs', 'boil', 'steam']
 ---
 
-## Ingredients
+# Ingredients
 
 -   24-36 eggs
 
@@ -19,7 +19,7 @@ tags: ['eggs', 'boil', 'steam']
 
 
 
-## Directions
+# Instructions 
 
 1.  Fill water to very beginning of steamer basket
 

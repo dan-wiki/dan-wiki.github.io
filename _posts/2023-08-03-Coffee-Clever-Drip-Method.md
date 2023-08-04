@@ -4,7 +4,8 @@ date: 2014-08-09 22:19:00 -500
 categories: [drinks,coffee]
 tags: [coffee,drinks,arabica,clever drip,burr mill grinder]
 ---
-### Equipment / Ingredients
+
+# Equipment / Ingredients
 
 - [Clever Coffee Dripper](http://www.amazon.com/Coffee-Shrub-CLEVER-Clever-Dripper/dp/B0047W70GY)
 - [Melitta Cone Filter #4](http://www.amazon.com/gp/product/B00006IUTQ/ref=wms_ohs_product?ie=UTF8&psc=1)
@@ -15,7 +16,7 @@ tags: [coffee,drinks,arabica,clever drip,burr mill grinder]
 
   - General method (will vary based on the coffee)
 
-### Directions
+# Instructions 
 
 1. Measure 23g preground (\~2 AeroPress scoops)
 2. Place filter in Clever Drip

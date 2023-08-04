@@ -5,7 +5,7 @@ categories: [vegetables,eggplant,american,oven,roasted]
 tags: ['parmesan cheese', 'salt', 'butter', 'eggplant', 'heavy cream', 'almond meal', 'nutmeg', 'pepper', 'lemon juice', 'cheddar cheese']
 ---
 
-## Ingredients
+# Ingredients
 
 -   2 lb eggplant
 -   1/4 cup almond meal
@@ -20,7 +20,7 @@ tags: ['parmesan cheese', 'salt', 'butter', 'eggplant', 'heavy cream', 'almond m
 
 
 
-## Directions
+# Instructions
 
 1.  Roast Eggplant whole on 450F for 15 minutes
 2.  Cut off stem and bottom

@@ -5,7 +5,7 @@ categories: [turkey,ground,mexican,stove,simmer]
 tags: ['olive oil', 'ground turkey', 'onion', 'water', 'canned crushed tomatoes', 'canned kidney beans', 'garlic', 'chili powder', 'paprika', 'dried oregano', 'ground cayenne pepper', 'ground cumin', 'salt', 'ground black pepper']
 ---
 
-## Ingredients
+# Ingredients
 
 -   1 1/2 teaspoons olive oil
 -   1 pound ground turkey
@@ -23,7 +23,7 @@ tags: ['olive oil', 'ground turkey', 'onion', 'water', 'canned crushed tomatoes'
 -   1/2 teaspoon ground black pepper
 
 
-## Directions
+# Instructions 
 
 1.  Heat the oil in a large pot over medium heat. Place turkey in the pot, and cook until evenly brown. Stir in onion, and cook until tender.
 

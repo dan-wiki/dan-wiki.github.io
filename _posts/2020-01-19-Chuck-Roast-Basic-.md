@@ -5,7 +5,7 @@ categories: [beef,chuck,french,oven,roasted]
 tags: ['steak','chuck','roast']
 ---
 
-## Ingredients
+# Ingredients
 
 
 
@@ -19,7 +19,7 @@ tags: ['steak','chuck','roast']
 
 
 
-## Directions
+# Instructions 
 
 
 
@@ -37,9 +37,7 @@ tags: ['steak','chuck','roast']
 
 
 
-## Optional Sauce {#optional_sauce}
-
-
+# Optional Sauce
 
 1.  After taking out of oven and removing steak, put pan back on
 

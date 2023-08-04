@@ -5,47 +5,28 @@ categories: [chicken,thai,stove,sautee]
 tags: ['curry powder', 'cinnamon', 'salt', 'cilantro', 'grated ginger', 'spinach', 'boneless/skinless chicken thighs', 'red onion', 'red pepper', 'chicken broth', 'garlic', 'cayenne', 'coconut oil', 'coconut milk', 'sour or heavy cream']
 ---
 
-## Ingredients
-
-
+# Ingredients
 
 -   8 raw Boneless/Skinless Chicken Thighs
-
 -   2 1/4 cup Coconut Milk
-
 -   1 cup chicken broth
-
 -   2 1/2 tbsp coconut oil - Goya can
-
 -   1.5 tbsp curry powder
-
 -   3 cloves garlic
-
 -   1.5 tsp grated ginger
-
 -   1 tsp Cinnamon
-
 -   1.5 tsp salt
-
 -   1/4 medium Red Onion or yellow if desperate
-
 -   1/8 tsp red pepper
-
 -   1/8 tsp cayenne
-
 -   1 cup spinach
-
 -   1/2 bushel chopped cilantro
-
 -   1 cup (post) chopped spinach
-
 -   1/4 cup sour or heavy cream
 
 
 
-## Directions
-
-
+# Instructions 
 
 1.  Finely chop onion and garlic and grate ginger root
 

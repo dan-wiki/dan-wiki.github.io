@@ -5,7 +5,7 @@ categories: [beef,ribs,american,sous vide]
 tags: ['pepper', 'beef short ribs', 'bbq sauce']
 ---
 
-## Ingredients
+# Ingredients
 
 1.  Beef short ribs
 2.  Sous vide water bath
@@ -17,7 +17,7 @@ tags: ['pepper', 'beef short ribs', 'bbq sauce']
 
 
 
-## Directions
+# Instructions
 
 1.  salt and pepper
 2.  vacuum seal individually

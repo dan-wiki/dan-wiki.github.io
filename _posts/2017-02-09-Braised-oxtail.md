@@ -5,7 +5,7 @@ categories: [beef,oxtail,chinese,oven,braised]
 tags: ['oxtails', 'olive oil', 'rice wine', 'tamari', 'soy sauce', 'molasses substitute', 'instant coffee', 'splenda', 'monk fruit juice', 'sugar-free maple syrup', 'water', 'sugar substitute', 'star anise', 'cloves', 'scallions', 'ginger', 'garlic cloves', 'orange juice', 'orange zest', 'onion', 'coriander', 'sear', 'brown', 'crisp', 'deglace', 'boil', 'agitate', 'slow cook', 'rest', 'drain', 'heat', 'cover', 'simmer', 'drizzle', 'garnish']
 ---
 
-## Ingredients
+# Ingredients
 
 -   5 to 6 pounds oxtails
 -   Kosher salt and ground black pepper
@@ -24,7 +24,7 @@ tags: ['oxtails', 'olive oil', 'rice wine', 'tamari', 'soy sauce', 'molasses sub
 -   The zest of a half an orange
 
 
-## Directions
+# Instructions 
 
 1.  Make reduction sauce: Mix the soy sauce, sugar substitute,
 

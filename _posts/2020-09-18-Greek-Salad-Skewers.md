@@ -5,7 +5,7 @@ categories: [appetizers,vegetables,greek,skewers]
 tags: ['greek','salad','party']
 ---
 
-## Ingredients
+# Ingredients
 
 
 
@@ -23,7 +23,7 @@ tags: ['greek','salad','party']
 
 
 
-## Directions
+# Instructions 
 
 
 

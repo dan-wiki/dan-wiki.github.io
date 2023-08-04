@@ -5,7 +5,7 @@ categories: [vegetables,green beans,oven,bake]
 tags: ['bacon', 'condensed cream of mushroom soup', 'water chestnuts', 'milk', 'green beans', 'ground black pepper', 'french-fried onions', 'cheddar cheese', 'casserole', 'mom','party']
 ---
 
-## Ingredients
+# Ingredients
 
 -   4 slices bacon
 
@@ -35,7 +35,7 @@ perfectly match the recipe.
 
 
 
-## Directions
+## Instructions
 
 1.  Preheat oven to 350 degrees F (175 degrees C)
 

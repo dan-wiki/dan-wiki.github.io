@@ -4,16 +4,17 @@ date: 2014-08-10 01:25:00 -500
 categories: [pork,butt,mexican,pressure cooker,pulled]
 tags: ['pulled pork', 'recipe 1']
 ---
+
 **Prep Time: 5 minutes**
 
 **Cook Time: 45 minutes****
 
-## Ingredients
+# Ingredients
 
 * 2 - 4 lbs. Boneless Pork Shoulder Roast
 * 2 c. Water
 
-## Directions
+# Instructions 
 
 1. Using sharp knife cut roast in chunks.
 2. Add 2 cups of water to pressure cooker.

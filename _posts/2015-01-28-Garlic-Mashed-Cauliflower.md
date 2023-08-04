@@ -5,7 +5,7 @@ categories: [cauliflower,american,stove,blanched]
 tags: ['cauliflower', 'butter', 'parmesan', 'cream cheese', 'black pepper', 'chicken base', 'chives', 'garlic']
 ---
 
-**Ingredients**
+# Ingredients
 
 -   1 medium head cauliflower
 -   1 tablespoon cream cheese, softened
@@ -18,7 +18,7 @@ tags: ['cauliflower', 'butter', 'parmesan', 'cream cheese', 'black pepper', 'chi
 
 
 
-**Directions**
+# Instructions 
 
 1.  Set a stockpot of water to boil over high heat.
 

@@ -5,35 +5,23 @@ categories: [beef,tongue,mexican,pressure cooker]
 tags: ['peanut sauce', 'beef tongue', 'pressure cooker']
 ---
 
-## Ingredients
+# Ingredients
 
 
 
-### Pressure Cooker
-
-
+## Pressure Cooker
 
 -   1 thawed beef tongue
-
 -   1/4 cup soy sauce
-
 -   1 tbsp salt
-
 -   1 tsp smoked paprika or liquid smoke
-
 -   1 quartered large onion
-
 -   Enough water to just cover tongue in pressure cooker
+-   Peanut Sauce
 
 
 
-[Peanut Sauce]
-
-
-
-## Directions
-
-
+## Instructions
 
 -   Put all Pressure Cooker ingredients in pressure cooker
 

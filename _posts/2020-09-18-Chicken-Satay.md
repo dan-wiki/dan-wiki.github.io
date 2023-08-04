@@ -5,7 +5,7 @@ categories: [chicken,thigh,thai,grill]
 tags: ['Chicken Satay', 'coconut milk', 'soy sauce', 'yellow curry powder', 'turmeric', 'garlic', 'ginger', 'brown sugar', 'fish sauce', 'boneless, skinless chicken thighs', 'canola oil', 'Kosher salt', 'black pepper', 'Peanut Sauce', 'creamy peanut butter', 'lime juice', 'chili garlic sauce', 'ginger', 'Directions', 'peanut sauce', 'soy sauce', 'lime juice', 'brown sugar', 'chili garlic sauce', 'ginger', 'bowl', 'coconut milk', 'soy sauce', 'curry powder', 'turmeric', 'garlic', 'ginger', 'brown sugar', 'fish sauce', 'gallon size Ziploc bag', 'chicken', 'coconut milk mixture', 'marinate', 'hours', 'overnight', 'turning', 'bag', 'chicken', 'marinade', 'discarding', 'marinade', 'Preheat grill', 'medium high heat', 'Thread chicken', 'skewers', 'Brush', 'canola oil', 'season', 'salt', 'pepper', 'skewers']
 ---
 
-## Ingredients
+# Ingredients
 
 
 
@@ -35,7 +35,7 @@ tags: ['Chicken Satay', 'coconut milk', 'soy sauce', 'yellow curry powder', 'tur
 
 
 
-### Peanut Sauce
+# Peanut Sauce
 
 
 
@@ -53,7 +53,7 @@ tags: ['Chicken Satay', 'coconut milk', 'soy sauce', 'yellow curry powder', 'tur
 
 
 
-## Directions
+# Instructions 
 
 
 

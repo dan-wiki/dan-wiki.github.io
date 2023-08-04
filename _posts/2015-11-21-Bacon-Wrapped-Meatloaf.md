@@ -5,7 +5,7 @@ categories: [beef,ground,american,oven,baked]
 tags: ['bbq sauce', 'egg', 'hamburger meat', 'onions', 'loaf pan', 'instant read thermometer', 'bacon', 'kosher salt', 'aluminum foil', 'bread crumbs', 'vegetable oil', 'fresh thyme', 'pepper', 'favorite rub', 'mushrooms', 'cheddar cheese cubes']
 ---
 
-## Ingredients
+# Ingredients
 
 -   2.5 pounds hamburger meat (I used the 85/15 meat-to-fat ratio grind)
 -   1 pound thin sliced bacon
@@ -26,7 +26,7 @@ tags: ['bbq sauce', 'egg', 'hamburger meat', 'onions', 'loaf pan', 'instant read
 
 
 
-## Directions
+# Instructions 
 
 1.  Sauté diced onions and mushrooms in vegetable oil with thyme for 3
 
@@ -88,7 +88,7 @@ tags: ['bbq sauce', 'egg', 'hamburger meat', 'onions', 'loaf pan', 'instant read
 
 
 
-## Directions continued
+## Instructions continued
 
 1.  Now set the loaf pan next to the bacon weave. Pick up the foil with
 

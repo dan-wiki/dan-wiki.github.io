@@ -5,9 +5,7 @@ categories: [beef,chuck,french,slow cooker]
 tags: ['beef chuck roast', 'Kosher salt', 'black pepper', 'olive oil', 'onion', 'caraway seeds', 'carrots', 'sweet potatoes', 'garlic', 'chicken bone broth', 'Knorr beef bouillon powder', 'dried thyme', 'dried rosemary', 'smoked paprika', 'tomato paste', 'Worcestershire sauce', 'salted butter', 'heavy cream', 'grated Parmesan cheese', 'bay leaves', 'parsley leaves']
 ---
 
-## Ingredients
-
-
+# Ingredients
 
 -   \~3 lb beef chuck roast cut
 
@@ -55,9 +53,7 @@ tags: ['beef chuck roast', 'Kosher salt', 'black pepper', 'olive oil', 'onion', 
 
 
 
-## Directions
-
-
+# Instructions 
 
 1.  Cube beef into bowl
 

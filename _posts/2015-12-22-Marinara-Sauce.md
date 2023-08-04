@@ -5,43 +5,26 @@ categories: [sauces,tomato,italian,stove,simmer]
 tags: ['san marzano tomatoes', 'salt', 'adobo', 'red cooking wine', 'msg', 'onion powder', 'garlic powder', 'dried oregano', 'basil', 'crushed red pepper', 'garlic', 'olive oil', 'ground black pepper', 'cayenne powder']
 ---
 
-## Ingredients
-
-
+# Ingredients
 
 -   1 tablespoon olive oil
-
 -   2 clove garlic, minced
-
 -   1 12oz. can whole San Marzano tomatoes
-
 -   1 tbsp dried oregano
-
 -   1 tsp basil
-
 -   1 tsp onion powder
-
 -   1 tsp garlic powder
-
 -   1 tsp salt
-
 -   1 tsp adobo
-
 -   1/8 tsp cayenne powder
-
 -   1/8 tsp crushed red pepper
-
 -   1/8 tsp ground black pepper
-
 -   1/8 tsp MSG
-
 -   1/2 cup red cooking wine
 
 
 
-## Directions
-
-
+# Instructions
 
 -   In a small saucepan add olive oil and garlic on medium-high heat.
 

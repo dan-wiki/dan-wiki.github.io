@@ -6,9 +6,7 @@ tags: ['chicken','roast']
 
 ---
 
-## Ingredients
-
-
+# Ingredients
 
 -   1 whole chicken
 
@@ -44,7 +42,7 @@ or MSG and a tsp of Oregano
 
 
 
-## Directions
+# Instructions 
 
 
 

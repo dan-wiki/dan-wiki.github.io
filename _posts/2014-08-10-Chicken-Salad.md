@@ -4,7 +4,8 @@ date: 2014-08-10 01:42:00 -500
 categories: [chicken,canned,american,cold]
 tags: ['salad', 'salmon', 'tuna salad', 'chicken', 'tuna']
 ---
-## Ingredients
+
+# Ingredients
 
 * 1 (7 ounce) can chicken, drained and flaked
 * 6 tablespoons mayonnaise or salad dressing
@@ -16,7 +17,7 @@ tags: ['salad', 'salmon', 'tuna salad', 'chicken', 'tuna']
 * ¼ teaspoon curry powder
 * 1 pinch garlic powder
 
-## Directions
+# Instructions
 
 1. Gather all ingredients.
 

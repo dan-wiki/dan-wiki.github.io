@@ -5,17 +5,17 @@ categories: [sauce,avocado oil,french,mayonnaise]
 tags: ['egg', 'salt', 'water', 'lemon juice', 'dijon mustard', 'white vinegar', 'apple cider vinegar', 'olive oil', 'macadamia oil', 'avocado oil', 'sriracha', 'pasteurize', 'blend','mayo']
 ---
 
-## Servings
+# Servings
 
 Makes about a 1.5 cups of mayo
 
 
-## Link
+# Link
 
 <https://youtu.be/GbPF_rLpd9o>
 
 
-## Ingredients
+# Ingredients
 
 -   1 Large egg (as local and organic as you can find)
 
@@ -40,7 +40,7 @@ Makes about a 1.5 cups of mayo
     quart-size soup container.
 
 
-## Directions
+# Instructions
 
 1.  Choose:
 

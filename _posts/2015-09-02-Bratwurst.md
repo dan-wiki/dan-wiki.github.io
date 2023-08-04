@@ -5,25 +5,19 @@ categories: [pork,sausage,german,grill]
 tags: ['topping', 'onion', 'salt', 'oil', 'mixture', 'side', 'red pepper flakes', 'heat', 'grill', 'garlic powder', 'minutes', 'bratwurst', 'beer', 'pot', 'ground black pepper']
 ---
 
-## Ingredients
+# Ingredients
 
 -   4 (12 ounce) cans beer
-
 -   1 large onion, diced
-
 -   10 bratwurst
-
 -   2 teaspoons red pepper flakes
-
 -   1 teaspoon garlic powder
-
 -   1 teaspoon salt
-
 -   1/2 teaspoon ground black pepper
 
 
 
-## Directions
+# Instructions
 
 1.  Preheat an outdoor grill for medium-high heat.
 

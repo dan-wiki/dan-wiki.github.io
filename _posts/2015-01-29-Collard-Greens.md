@@ -6,7 +6,7 @@ tags: ['olive oil', 'bacon', 'onion', 'garlic', 'salt', 'pepper', 'chicken broth
 ---
 
 
-**Ingredients**
+# Ingredients
 
 -   1 tablespoon olive oil
 -   3 slices bacon
@@ -19,7 +19,7 @@ tags: ['olive oil', 'bacon', 'onion', 'garlic', 'salt', 'pepper', 'chicken broth
 -   1 pound fresh collard greens, cut into 2-inch pieces
 
 
-**Directions**
+# Instructions 
 
 1.  Heat oil in a large pot over medium-high heat. Add bacon, and cook
 

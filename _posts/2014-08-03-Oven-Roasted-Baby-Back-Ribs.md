@@ -5,14 +5,12 @@ categories: [pork,ribs,american,oven,roasted]
 tags: ['cloves garlic', 'shallot','freshly ground pepper', 'baby back ribs', 'overnight prep', 'chili powder', 'paprika', 'salt', 'olive oil', 'cumin', 'ribs']
 ---
 
-## Time & Temp
-
+# Time & Temp
 -   Overnight Prep
-
 -   1 hour 15 minutes @ 300F
 
 
-## Ingredients
+# Ingredients
 
 -   2 average racks pork ribs (800g / 1.8 lb / 28.2 oz)
 -   1 medium shallot (60g / 2.1 oz)
@@ -25,8 +23,7 @@ tags: ['cloves garlic', 'shallot','freshly ground pepper', 'baby back ribs', 'ov
 -   1/4 freshly ground pepper (I used white)
 
 
-
-## Directions
+# Instructions
 
 1.  Prepare the ribs the night before (or at least a couple of hours in advance). First, chop them into pieces.
 2.  Now, let\'s prepare the marinade. Place all other ingredients in a blender and pulse until smooth.

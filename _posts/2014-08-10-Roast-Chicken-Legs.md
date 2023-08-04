@@ -3,8 +3,9 @@ title: Roast Chicken Legs
 date: 2014-08-10 01:18:00 -500
 categories: [chicken,legs,colombian,oven,roasted]
 tags: ['roast chicken legs', 'colombian style']
----
-### INGREDIENTS
+——-
+
+# INGREDIENTS
 
 * **12** **chicken drumsticks** **skin on**
 * **Cooking spray**
@@ -18,7 +19,7 @@ tags: ['roast chicken legs', 'colombian style']
 * **Salt and pepper**
 * **2** **tablespoons** **white vinegar**
 
-### INSTRUCTIONS
+# INSTRUCTIONS
 
 * In a food processor, place the scallions, garlic, onion, cilantro, thyme, vinegar, cumin, paprika, salt and pepper. Process to a paste.
 * Place the chicken in a zip -bag and add the marinade. Move around to cover evenly. Refrigerate the chicken overnight.

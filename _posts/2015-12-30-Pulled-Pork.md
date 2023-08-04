@@ -5,7 +5,7 @@ categories: [pork,butt,mexican,pressure cooker]
 tags: ['Boneless or bone-in Pork Shoulder Roast', 'yellow onions', 'chili powder', 'coriander', 'cumin', 'onion powder', 'dried parsley', 'chipotle powder', 'season goya jamon', 'salt', 'Pull pork']
 ---
 
-## Ingredients
+# Ingredients
 
 -   2-4 lbs. Boneless or bone-in Pork Shoulder Roast
 -   2 cups Water
@@ -21,7 +21,7 @@ tags: ['Boneless or bone-in Pork Shoulder Roast', 'yellow onions', 'chili powder
 
 
 
-## Directions
+# Instructions 
 
 1.  Using sharp knife cut roast in chunks.
 2.  Add 2 cups of water to pressure cooker.

@@ -5,7 +5,7 @@ categories: [chicken,french,oven,roast,spatchcock]
 tags: ['chicken','roast','whole']
 ---
 
-## Ingredients
+# Ingredients
 
 For chicken:
 
@@ -42,7 +42,7 @@ For Compound Butter:
 
 
 
-## Directions
+# Instructions
 
 -   Mix all compound butter ingredients together in a bowl until they are uniformly distributed in the butter. Careful to add the lemon juice slowly to not let it get too watery. It's still useable if it is liquidy. You can also use a small food processor for this step.
 
@@ -62,7 +62,7 @@ For Compound Butter:
 
 
 
-## Nutrition
+# Nutrition
 
 **6oz of chicken with skin:**
 

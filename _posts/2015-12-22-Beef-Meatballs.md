@@ -5,7 +5,7 @@ categories: [appetizers,beef,ground,italian,oven,bake]
 tags: [meatballs, ingredients, bread crumbs, cup heavy cream, olive oil, onion, diced, ground beef, ground pork, eggs, fresh parsley, chopped, garlic, crushed]
 ---
 
-## Ingredients
+# Ingredients
 
 -   1/3 cup plain bread crumbs (use Almond Meal for keto)
 -   1/2 cup heavy cream
@@ -23,7 +23,7 @@ tags: [meatballs, ingredients, bread crumbs, cup heavy cream, olive oil, onion, 
 -   2 tablespoons grated Parmesan cheese
 -   Marinara Sauce
 
-## Directions
+# Instructions 
 
 1.  Cover a baking sheet with foil and spray lightly with cooking spray.
 2.  Soak bread crumbs in milk in a small bowl for 20 minutes.

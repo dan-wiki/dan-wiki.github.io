@@ -4,9 +4,9 @@ date: 2015-07-06 00:33:00 -500
 categories: [shrimp,italian,stove,sauteed]
 tags: ['italian','shrimp']
 
-## Ingredients
+# Ingredients
 
-### Tomato Sauce Base {#tomato_sauce_base}
+## Tomato Sauce Base {#tomato_sauce_base}
 
 -   1/4 cup extra virgin olive oil
 
@@ -31,7 +31,7 @@ tags: ['italian','shrimp']
 -   salt and pepper
 
 
-### Cacciatore
+## Cacciatore
 
 -   2 tablespoons extra virgin olive oil
 
@@ -60,7 +60,7 @@ tags: ['italian','shrimp']
 -   1 1/2 lbs fettuccine
 
 
-## Directions
+## Instructions 
 
 1.  Tomato Sauce Base: Heat olive oil and brown the carrot, salt pork
 

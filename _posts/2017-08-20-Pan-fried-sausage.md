@@ -5,7 +5,7 @@ categories: [pork,sausage,american,pan,fried]
 tags: ['ground pepper', 'crushed red pepper', 'oil', 'cayanne', 'ground pork', 'kosher salt', 'patties', 'garlic powder', 'kictchenaid', 'ground majoram', 'cast iron pan', 'sage', 'fennel seed']
 ---
 
-## Ingredients
+# Ingredients
 
 -   1 lb ground pork
 
@@ -26,8 +26,7 @@ tags: ['ground pepper', 'crushed red pepper', 'oil', 'cayanne', 'ground pork', '
 -   1/4 tsp crushed red pepper
 
 
-
-## Directions
+# Instructions 
 
 -   Combine in a bowl and mix in KictchenAid
 

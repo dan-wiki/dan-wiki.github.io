@@ -5,7 +5,7 @@ categories: [chicken,breast,american,oven,baked]
 tags: ['mom','passover','comfort food', 'party']
 ---
 
-## Ingredients (My new single baking dish version with needed alterations)
+# Ingredients (My new single baking dish version with needed alterations)
 
 -   4 Boneless chicken breasts
 -   2 boxes Frozen Chopped Spinach
@@ -20,7 +20,7 @@ tags: ['mom','passover','comfort food', 'party']
 
 
 
-## Ingredients (Mom\'s written 3 baking dish version)
+# Ingredients (Mom\'s written 3 baking dish version)
 
 -   4 pkg Boneless chicken breasts
 -   6 boxes Frozen Chopped Spinach
@@ -35,7 +35,7 @@ tags: ['mom','passover','comfort food', 'party']
 
 
 
-## Directions
+# Instructions
 
 1.  Fill one or three medium-size baking dishes with:
 2.  Bottom layer is well-drained chopped spinach

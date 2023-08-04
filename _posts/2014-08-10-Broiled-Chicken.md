@@ -5,7 +5,7 @@ categories: [chicken,breast,american,oven,broiled]
 tags: ['garlic chicken', 'broiled chicken']
 ---
 
-## Ingredients
+# Ingredients
 
 * Prep
   **10** m
@@ -23,7 +23,7 @@ tags: ['garlic chicken', 'broiled chicken']
 * **dried parsley, to taste**
 * **Add all ingredients to list**
 
-## Directions
+# Instructions 
 
 1. **Preheat the oven broiler. Lightly grease a baking pan.**
 2. **In a microwave safe bowl, mix the butter, garlic, soy sauce, pepper, and parsley. Cook 2 minutes on High in the microwave, or until butter is melted.**

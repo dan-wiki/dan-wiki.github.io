@@ -8,7 +8,7 @@ Prep Time: 20 mins
 Cook Time: 15 mins
 Total Time: 35 mins
 
-**Ingredients**
+# Ingredients
 
 
 2 pounds sliced beef liver
@@ -18,7 +18,7 @@ Total Time: 35 mins
 2 cups all-purpose flour, or as needed
 salt and pepper to taste
 
-**Directions**
+# Instructions 
 
 Step 1
 Gently rinse liver slices under cold water and pat dry with paper towels. Place in a shallow dish; pour in enough milk to cover. Let

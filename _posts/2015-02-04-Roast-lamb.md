@@ -5,7 +5,7 @@ categories: [lamb,italian,oven,roasted]
 tags: ['leg of lamb', 'lemon juice', 'garlic', 'rosemary leaves', 'salt', 'black pepper', 'mixed herbs', 'onions', 'chicken stock', 'red wine', 'rub', 'pat', 'season', 'roast', 'reduce', 'cook', 'rest', 'carving', 'position', 'add', 'stir', 'combine', 'deglaze', 'scrape', 'release', 'strain', 'serve', 'drizzle']
 ---
 
-**Ingredients**
+# Ingredients
 
 -   1 leg of lamb, bone in (about 6 to 7 1/2 pounds)
 -   1/4 cup fresh lemon juice
@@ -16,7 +16,7 @@ tags: ['leg of lamb', 'lemon juice', 'garlic', 'rosemary leaves', 'salt', 'black
 
 
 
-**Directions**
+# Instructions 
 
 Preheat the oven to 400 degrees F.
 

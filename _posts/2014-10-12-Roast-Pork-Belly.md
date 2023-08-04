@@ -5,8 +5,7 @@ categories: [pork,belly,american,oven,roasted]
 tags: ['Roast Pork Belly', 'Dry Rub', 'Salt', 'Sugar substitute', '5 spice powder', 'Pepper', 'Cure', 'Vinegar']
 ---
 
-## Ingredients
-
+# Ingredients
 -   Dry Rub
     -   1 tsp Salt
     -   2 tsp sugar substitute
@@ -18,8 +17,7 @@ tags: ['Roast Pork Belly', 'Dry Rub', 'Salt', 'Sugar substitute', '5 spice powde
     -   1 tsp vinegar
 
 
-## Instructions
-
+# Instructions
 1.  Wash pork belly
 2.  Put in cookware with drip tray
 3.  Cut into belly side (finger deep scores)
@@ -45,16 +43,14 @@ tags: ['Roast Pork Belly', 'Dry Rub', 'Salt', 'Sugar substitute', '5 spice powde
 
 
 
-## Notes
-
+# Notes
 -   The cure is mostly salt. It like a slurry. You are essentially brushing a salt paste onto the skin.
 -   Some people cook over vegetables.
 -   Some people just put a little oil and salt on the skin and don\'t keep removing from the oven and adding cure.
 
 
 
-## References
-
+# References
 <https://www.youtube.com/watch?v=pCrod_sRxc8>
 
 <https://www.youtube.com/watch?v=Fr6xswgiIyA>

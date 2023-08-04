@@ -5,7 +5,7 @@ categories: [appetizers,beef,mexican,groud,oven,baked]
 tags: ['lean ground beef', 'salsa', 'chili beans', 'tortilla chips', 'sour cream', 'sliced black olives', 'chopped green onion', 'chopped fresh tomato', 'shredded Cheddar cheese', 'chorizo']
 ---
 
-## Ingredients
+# Ingredients
 
 -   1 pound lean ground beef
 -   2 cups salsa
@@ -20,7 +20,7 @@ tags: ['lean ground beef', 'salsa', 'chili beans', 'tortilla chips', 'sour cream
 
 
 
-## Directions
+# Instructions 
 
 1.  Preheat oven to 350 degrees F (175 degrees C).
 2.  In a large skillet over medium-high heat, cook ground beef until no longer pink.

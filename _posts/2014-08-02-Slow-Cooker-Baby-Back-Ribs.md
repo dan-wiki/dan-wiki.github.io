@@ -5,13 +5,12 @@ categories: [pork,ribs,american,slow cooker]
 tags: ['baby back pork ribs', 'Splenda', 'chili powder', 'garlic powder', 'celery seed', 'onion powder', 'dried oregano', 'cajun seasoning', 'black pepper', 'Low Carb BBQ Sauce', 'slice', 'mix', 'press', 'cook', 'baste']
 ---
 
-## Time
-
+# Time
 \~9 Hours
 
 
 
-## Ingredients
+# Ingredients
 
 -   1 rack of baby back pork ribs
 -   1 TBSP Splenda
@@ -25,7 +24,7 @@ tags: ['baby back pork ribs', 'Splenda', 'chili powder', 'garlic powder', 'celer
 -   1/4 cup Low Carb BBQ Sauce
 
 
-## Directions
+# Instructions
 
 Slice rack of ribs into 2 or 4 sections to fit in crockpot. Mix all dry
 

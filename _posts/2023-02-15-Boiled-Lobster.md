@@ -5,7 +5,7 @@ categories: [lobster,american,boiled]
 tags: ['valentines day','romantic']
 ---
 
-## Ingredients
+# Ingredients
 
 -   2 2 lb lobsters
 
@@ -33,9 +33,7 @@ tags: ['valentines day','romantic']
 
 
 
-## Directions
-
-
+# Instructions
 
 1.  Bring salt water to a boil
 
@@ -71,7 +69,7 @@ tags: ['valentines day','romantic']
 
 17. Dip all that meat in the butter while eating and enjoy!
 
-## Nutrition
+# Nutrition
 
 **Meat of 2 lb Lobster:**
 

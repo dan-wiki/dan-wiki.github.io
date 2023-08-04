@@ -5,14 +5,14 @@ categories: [vegetables,brussels sprouts,stove,sautéed]
 tags: ['Brussels sprouts', 'bacon', 'shallot', 'cut', 'stack', 'cut', 'chop', 'cook', 'remove', 'cook', 'reduce', 'put on', 'add', 'mix', 'cook', 'put on']
 ---
 
-## Ingredients
+# Ingredients
 -   2 lbs Brussels sprouts
 -   .5 lb bacon (typically half a package)
 -   1 shallot
 -   dutch oven or very large cast iron skillet
 -   salt, pepper, and garlic powder to taste
 
-## Instructions
+# Instructions
 
 1.  Cut the bacon into smaller pieces by stacking the slices and cutting evenly to maintain the width, but not the length.
 2.  Cut each Brussels sprout down the middle.
@@ -21,8 +21,7 @@ tags: ['Brussels sprouts', 'bacon', 'shallot', 'cut', 'stack', 'cut', 'chop', 'c
 5.  On high heat cook all the Brussels sprouts in the bacon fat, creating a bit of a fried char, then reduce to medium and put on the lid for a few minutes until more tender.
 6.  Add the bacon and shallot back in and mix evenly throughout.
 7.  Put lid back on for a little more until the shallots cook slightly.
-
-## Nutrition
+# Nutrition
 **In 1/4 cup of competed recipe:**
 -   49 calories
 -   1g net carbs

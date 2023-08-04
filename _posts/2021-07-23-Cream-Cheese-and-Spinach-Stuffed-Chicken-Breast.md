@@ -5,7 +5,7 @@ categories: [chicken,breast,american,oven,baked]
 tags: ['grated parmesan', 'salt', 'frozen spinach', 'chicken breasts', 'cream cheese', 'chili powder', 'onion powder', 'garlic powder', 'mozzarella cheese', 'pepper', 'garlic', 'olive oil']
 ---
 
-## Ingredients
+# Ingredients
 
 -   4 chicken breasts boneless, skinless
 -   1 teaspoon chili powder
@@ -22,7 +22,7 @@ tags: ['grated parmesan', 'salt', 'frozen spinach', 'chicken breasts', 'cream ch
 
 
 
-## Instructions
+# Instructions
 
 1.  Make the Creamy Spinach Filling: Add the spinach to a non-stick pan
 

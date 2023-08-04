@@ -5,7 +5,7 @@ categories: [chicken,breast,french,oven,baked]
 tags: ['artichoke', 'chicken breast', 'mushroom']
 ---
 
-### Ingredients
+# Ingredients
 
 **Original recipe makes** 4 servings
 
@@ -18,7 +18,7 @@ tags: ['artichoke', 'chicken breast', 'mushroom']
 * **1 cup** **white wine**
 * **1 tablespoon** **capers**
 
-### Directions
+# Instructions
 
 1. **Season chicken with salt and pepper. Heat oil and butter in a large skillet over medium heat. Brown chicken in oil and butter for 5 to 7 minutes per side; remove from skillet, and set aside.**
 2. **Place artichoke hearts and mushrooms in the skillet, and saute until mushrooms are brown and tender. Return chicken to skillet, and pour in reserved artichoke liquid and wine. Reduce heat to low, and simmer for about 10 to 15 minutes, until chicken is no longer pink and juices run clear.**

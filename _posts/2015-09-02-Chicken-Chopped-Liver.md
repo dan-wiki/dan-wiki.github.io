@@ -5,7 +5,7 @@ categories: [chicken,liver,jewish,sauted,chilled]
 tags: ['Chicken livers', 'rendered chicken fat', 'onion', 'salt', 'pepper', 'hard-cooked eggs', 'rye bread', 'pumpernickel bread', 'cornichons']
 ---
 
-## Ingredients
+# Ingredients
 
 -   1 pound chicken livers, (preferably fresh)
 
@@ -23,7 +23,7 @@ tags: ['Chicken livers', 'rendered chicken fat', 'onion', 'salt', 'pepper', 'har
 
 
 
-## Directions
+# Instructions 
 
 1.  Rinse the livers and pat dry with a kitchen towel. Clean the livers,
 
