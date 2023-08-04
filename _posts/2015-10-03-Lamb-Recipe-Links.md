@@ -1,5 +1,5 @@
 ---
-title: Lamb
+title: Lamb Recipe Links
 date: 2015-10-03 22:22:00 -500
 categories: [lamb,recipe links]
 tags: [lamb,recipe links]

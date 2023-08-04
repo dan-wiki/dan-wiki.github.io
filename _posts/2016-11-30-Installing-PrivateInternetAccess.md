@@ -1,8 +1,8 @@
 ---
 title: Installing PrivateInternetAccess
 date: 2016-11-30 02:47:00 -500
-categories: [article,technology,linux,instructions]
-tags: ['vpn','tech']
+categories: [articles,technology,linux,instructions]
+tags: [vpn,tech,article]
 ---
 
 1.  rm -rf .pia_manager

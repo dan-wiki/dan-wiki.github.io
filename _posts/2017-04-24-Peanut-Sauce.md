@@ -1,8 +1,8 @@
 ---
 title: Peanut Sauce
 date: 2017-04-24 23:56:00 -500
-categories: ['sauce', 'peanut']
-tags: ['creamy or chunky peanut butter', 'salt', 'water', 'wait until warm around 15-20 minutes', 'lime juice', 'peanut sauce', 'ground cumin', 'ground coriander', 'finely chopped garlic', 'set crock pot to low', 'ground red pepper or cayenne or sriracha', 'mix all ingredients in crock pot']
+categories: [sauce,thai,peanut]
+tags: ['creamy or chunky peanut butter', 'salt', 'water', 'lime juice', 'peanut sauce', 'ground cumin', 'ground coriander', 'finely chopped garlic', 'ground red pepper', 'cayenne', 'sriracha', 'crock pot']
 ---
 
 -   [Betty Crocker Cookbook - Page 405](https://books.google.com/books?id=WlWVBIZTYfQC&pg=PA606&lpg=PA606&dq=%22slow+cooker+peanut+sauce%22+-chicken+-beef+-pork+-lamb&source=bl&ots=fSxjbKS-Qd&sig=P-X_QuJ7ZOdl0aPxk76xd8eJQWk&hl=en&sa=X&ved=0ahUKEwjxsd-spL7TAhWi6IMKHZdNDXUQ6AEIIzAA#v=onepage&q=%22slow%20cooker%20peanut%20sauce%22%20-chicken%20-beef%20-pork%20-lamb&f=false)

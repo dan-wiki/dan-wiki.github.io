@@ -1,7 +1,7 @@
 ---
 title: Pan fried sausage
 date: 2017-08-20 17:32:00 -500
-categories: ['sausage', 'fried', 'pan']
+categories: [pork,sausage,american,pan,fried]
 tags: ['ground pepper', 'crushed red pepper', 'oil', 'cayanne', 'ground pork', 'kosher salt', 'patties', 'garlic powder', 'kictchenaid', 'ground majoram', 'cast iron pan', 'sage', 'fennel seed']
 ---
 

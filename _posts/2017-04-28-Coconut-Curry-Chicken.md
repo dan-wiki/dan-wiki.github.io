@@ -1,13 +1,9 @@
 ---
 title: Coconut Curry Chicken
 date: 2017-04-28 22:39:00 -500
-categories: ['curry', 'chicken', 'coconut']
+categories: [chicken,thai,stove,sautee]
 tags: ['curry powder', 'cinnamon', 'salt', 'cilantro', 'grated ginger', 'spinach', 'boneless/skinless chicken thighs', 'red onion', 'red pepper', 'chicken broth', 'garlic', 'cayenne', 'coconut oil', 'coconut milk', 'sour or heavy cream']
 ---
-
-[Adapted from](https://www.ketoconnect.net/recipe/coconut-curry-chicken/)
-
-
 
 ## Ingredients
 

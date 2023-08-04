@@ -1,8 +1,8 @@
 ---
 title: House - Timeline
 date: 2017-02-28 16:37:00 -500
-categories: ['house',’expenses’]
-tags: ['house','finance',’timeline’]
+categories: [articles,house]
+tags: [house,finance,timeline]
 ---
 
 -   xxxx-xx-xx: Placed offer on house

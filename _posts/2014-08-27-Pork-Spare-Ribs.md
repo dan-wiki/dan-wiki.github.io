@@ -2,7 +2,7 @@
 title: Pork Spare Ribs
 date: 2014-08-27 17:13:00 -500
 categories: [pork,ribs,american,oven,roasted]
-tags: ['pork spare ribs', 'paprika', 'whole black peppercorns', 'coriander seeds', 'cumin seeds', 'garlic powder', 'onion powder', 'nutmeg', 'cayenne pepper', 'kosher salt', 'spicy brown mustard', 'aluminum foil', 'oven tray', 'low carb BBQ sauce', 'cut', 'remove', 'form', 'put', 'apply', 'fold', 'refrigerate', 'bake', 'open', 'wrap', 'broiler']
+tags: ['pork spare ribs', 'paprika', 'whole black peppercorns', 'coriander seeds', 'cumin seeds', 'garlic powder', 'onion powder', 'nutmeg', 'cayenne pepper', 'kosher salt', 'spicy brown mustard', 'aluminum foil', 'oven tray', 'low carb BBQ sauce', 'refrigerate', 'bake', 'wrap', 'broiler']
 ---
 
 These ribs are St. Louis style, drawing heavily from Alton Brown\'s recipe just no smoker. Instead his oven baby back rib method is used.

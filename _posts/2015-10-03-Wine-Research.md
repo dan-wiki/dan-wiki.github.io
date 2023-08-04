@@ -2,7 +2,7 @@
 title: Wine Research
 date: 2015-10-03 22:26:00 -500
 categories: [articles,beverages,wine]
-tags: ['coffee', 'sangiovese', 'low-carb arnold palmer', 'barolo', 'amarone', 'dolcetto d\'alba', 'barbera', 'cotes du rhone', 'barberesca', 'dirty martini', 'nebbiolo', 'diet green tea', 'iskiate', 'chianti']
+tags: ['coffee', 'sangiovese', 'low-carb arnold palmer', 'barolo', 'amarone', 'dolcetto dalba', 'barbera', 'cotes du rhone', 'barberesca', 'dirty martini', 'nebbiolo', 'diet green tea', 'iskiate', 'chianti']
 ---
 ## Wine's I Like
 

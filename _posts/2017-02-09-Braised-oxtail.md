@@ -1,7 +1,7 @@
 ---
 title: Braised oxtail
 date: 2017-02-09 23:11:00 -500
-categories: ['oxtail', 'braised']
+categories: [beef,oxtail,chinese,oven,braised]
 tags: ['oxtails', 'olive oil', 'rice wine', 'tamari', 'soy sauce', 'molasses substitute', 'instant coffee', 'splenda', 'monk fruit juice', 'sugar-free maple syrup', 'water', 'sugar substitute', 'star anise', 'cloves', 'scallions', 'ginger', 'garlic cloves', 'orange juice', 'orange zest', 'onion', 'coriander', 'sear', 'brown', 'crisp', 'deglace', 'boil', 'agitate', 'slow cook', 'rest', 'drain', 'heat', 'cover', 'simmer', 'drizzle', 'garnish']
 ---
 
