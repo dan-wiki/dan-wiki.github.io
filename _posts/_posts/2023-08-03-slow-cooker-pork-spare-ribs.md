@@ -1,8 +1,8 @@
 ---
-title: Pork Slow Cooker Spare Ribs
+title: Slow Cooker Pork Spare Ribs
 date: 2023-08-03 00:00:01 -500
-categories: [appetizers,chicken,liver,french,sauted,chilled]
-tags: [chicken,liver,pate,allspice,whipping cream]
+categories: [appetizers,pork,spare rib,american,slow cooker]
+tags: [pork,rib,paprika,cayenne,thyme,garlic clove]
 ---
 
 # Ingredients
