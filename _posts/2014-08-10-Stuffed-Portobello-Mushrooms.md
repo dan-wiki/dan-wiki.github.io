@@ -1,7 +1,7 @@
 ---
 title: Stuffed Portobello Mushrooms
 date: 2014-08-10 01:28:00 -500
-categories: ['stuffed', 'portobello', 'mushrooms']
+categories: [sausage,american,oven,baked]
 tags: ['stuffed portobello mushrooms', 'sausage stuffed']
 ---
 

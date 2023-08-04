@@ -1,7 +1,7 @@
 ---
 title: Keto Pad Thai
 date: 2019-06-19 15:31:00 -500
-categories: ['thai', 'keto', 'pad']
+categories: [shirataki noodles,thai,stove,simmer]
 tags: ['cayenne pepper or red pepper flakes to taste', 'fresh lime juice to taste', 'chicken thigh', 'garlic minced or ran through a press', 'fresh cilantro leaves torn', 'lime wedges', 'eggs lightly beaten', 'bean sprouts', 'coconut aminos, soy sauce, or tamari', 'fresh shrimp', 'green onions finely sliced', 'coconut oil for cooking', 'xylitol or erythritol', 'fish sauce', 'unsalted peanuts lightly toasted & roughly chopped', 'blackstrap molasses (optional)', 'shirataki fettuccini noodles or coleslaw mix']
 ---
 

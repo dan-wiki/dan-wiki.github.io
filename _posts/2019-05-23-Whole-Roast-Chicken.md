@@ -1,7 +1,7 @@
 ---
 title: Whole Roast Chicken
 date: 2019-05-23 01:28:00 -500
-categories: ['chicken']
+categories: [chicken,whole,french,oven,roasted]
 tags: ['chicken','roast']
 
 ---

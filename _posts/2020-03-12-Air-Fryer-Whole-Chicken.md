@@ -1,7 +1,7 @@
 ---
 title: Air Fryer Whole Chicken
 date: 2020-03-12 02:39:00 -500
-categories: ['whole chicken', 'air fryer']
+categories: [chicken,whole,american,air fryer]
 tags: ['salted butter', 'racked pan', 'goya adobo - lemon & pepper version', 'large lemon', 'whole chicken', 'kosher salt', 'goya sazonador total']
 ---
 
