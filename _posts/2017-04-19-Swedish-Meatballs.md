@@ -6,8 +6,7 @@ tags: ['cooking spray', 'onion', 'stove top stuffing mix for pork', 'beef', 'oni
 ---
 
 
-## Ingredients
-
+#Ingredients
 -   \~2lbs. meatball mix or 1lb beef 1lb pork
 
 -   1 pkg. (6 oz.) STOVE TOP Stuffing Mix for Pork
@@ -24,8 +23,7 @@ tags: ['cooking spray', 'onion', 'stove top stuffing mix for pork', 'beef', 'oni
 
 
 
-## Directions
-
+#Directions
 1.  Heat oven to 400°F.
 
 2.  Mix meat, stuffing mix, eggs, onions and water just until blended.
@@ -40,7 +38,5 @@ tags: ['cooking spray', 'onion', 'stove top stuffing mix for pork', 'beef', 'oni
 
 7.  Add meatballs; stir to evenly coat.
 
-8.  Cook on low heat 5 min. or until sauce is heated through, stirring
-
-    occasionally.
+8.  Cook on low heat 5 min. or until sauce is heated through, stirring occasionally.
 
