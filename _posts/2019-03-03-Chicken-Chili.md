@@ -1,8 +1,8 @@
 ---
 title: Chicken Chili
 date: 2019-03-03 14:52:00 -500
-categories: ['chili', 'chicken']
-tags: ['Chicken Breasts', 'black beans', 'corn', 'petite diced tomatoes', 'Hidden Valley ranch dressing mix', 'cumin', 'onion powder', 'chili powder', 'cream cheese', 'Pour', 'Stir', 'Place', 'Cook', 'Shred', 'Mix']
+categories: [chicken,mexican,slow cooker]
+tags: ['chicken breasts', 'black beans', 'corn', 'petite diced tomatoes', 'hidden valley ranch dressing mix', 'cumin', 'onion powder', 'chili powder', 'cream cheese', 'shred', 'mix']
 ---
 
 ## Ingredients

@@ -8,15 +8,10 @@ tags: ['leg of lamb', 'lemon juice', 'garlic', 'rosemary leaves', 'salt', 'black
 **Ingredients**
 
 -   1 leg of lamb, bone in (about 6 to 7 1/2 pounds)
-
 -   1/4 cup fresh lemon juice
-
 -   8 cloves garlic, minced
-
 -   3 tablespoons chopped fresh rosemary leaves
-
 -   1 tablespoon salt
-
 -   2 teaspoons coarsely ground black pepper
 
 
@@ -63,12 +58,7 @@ Preheat the oven to 400 degrees F.
 
 **Sauce**
 
--   1 cup chopped fresh herbs (combination of rosemary, chives, and
-
-    parsley)
-
+-   1 cup chopped fresh herbs (combination of rosemary, chives, and parsley)
 -   2 cups diced onions
-
 -   2 cups chicken stock
-
 -   1 cup red wine

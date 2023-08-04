@@ -1,7 +1,7 @@
 ---
 title: Chuck Roast (Basic)
 date: 2020-01-19 03:03:00 -500
-categories: ['steak','beef']
+categories: [beef,chuck,french,oven,roasted]
 tags: ['steak','chuck','roast']
 ---
 

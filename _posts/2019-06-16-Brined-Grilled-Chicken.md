@@ -1,8 +1,8 @@
 ---
-title: Grilled Chicken Brine
+title: Brined Grilled Chicken
 date: 2019-06-16 15:32:00 -500
-categories: ['chicken', 'grilled', 'brine']
-tags: ['chicken', 'water', 'salt', 'soy sauce', 'brown sugar', 'sugar substitute', 'olive oil', 'lemon juice', 'garlic', 'ginger powder', 'toasted sesame oil']
+categories: [chicken,breast,american,grill]
+tags: ['chicken', 'water', 'salt', 'soy sauce', 'brown sugar', 'sugar substitute', 'olive oil', 'lemon juice', 'garlic', 'ginger powder', 'toasted sesame oil', 'brine']
 ---
 
 ## Ingredients

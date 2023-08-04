@@ -8,17 +8,11 @@ tags: ['parmesan cheese', 'steamer insert', 'cauliflower', 'water', 'cream chees
 ## Ingredients
 
 -   1 head cauliflower, cut into florets
-
 -   1 tablespoon olive oil
-
 -   1 clove garlic, smashed
-
 -   1/4 cup grated Parmesan cheese
-
 -   1 tablespoon reduced-fat cream cheese
-
 -   1 teaspoon kosher salt
-
 -   1/8 teaspoon freshly ground black pepper
 
 

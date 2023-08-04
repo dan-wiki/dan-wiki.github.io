@@ -1,7 +1,7 @@
 ---
 title: Greek Salad Skewers
 date: 2020-09-18 19:42:00 -500
-categories: ['salad', 'greek', 'skewers']
+categories: [appetizers,vegetables,greek,skewers]
 tags: ['greek','salad','party']
 ---
 

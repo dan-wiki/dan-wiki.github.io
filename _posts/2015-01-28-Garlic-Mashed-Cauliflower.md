@@ -11,29 +11,18 @@ tags: ['cauliflower', 'butter', 'parmesan', 'cream cheese', 'black pepper', 'chi
 
 **Ingredients**
 
-
-
 -   1 medium head cauliflower
-
 -   1 tablespoon cream cheese, softened
-
 -   1/4 cup grated Parmesan
-
 -   1/2 teaspoon minced garlic
-
 -   1/8 teaspoon straight chicken base or bullion (may substitute 1/2 teaspoon salt)
-
 -   1/8 teaspoon freshly ground black pepper
-
 -   1/2 teaspoon chopped fresh or dry chives, for garnish
-
 -   3 tablespoons unsalted butter
 
 
 
 **Directions**
-
-
 
 1.  Set a stockpot of water to boil over high heat.
 

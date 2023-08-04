@@ -1,7 +1,7 @@
 ---
 title: Beef Meatballs
 date: 2015-12-22 19:10:00 -500
-categories: [appetizer,beef,ground,italian,oven,bake]
+categories: [appetizers,beef,ground,italian,oven,bake]
 tags: [meatballs, ingredients, bread crumbs, cup heavy cream, olive oil, onion, diced, ground beef, ground pork, eggs, fresh parsley, chopped, garlic, crushed]
 ---
 

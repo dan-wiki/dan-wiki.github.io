@@ -1,7 +1,7 @@
 ---
 title: Vinaigrette
 date: 2020-01-24 01:19:00 -500
-categories: ['dressings']
+categories: [dressings,italian]
 tags: ['vinaigrette','salt', 'dijon mustard', 'extra virgin olive oil', 'rice vinegar', 'worcestershire sauce', 'pepper', 'lemon juice', 'fish sauce', 'dry savory']
 ---
 

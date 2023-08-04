@@ -7,8 +7,6 @@ tags: ['beef ribs', 'chili powder', 'oregano', 'garlic powder', 'onion powder', 
 
 ## Ingredients
 
-
-
 -   5 lbs. beef ribs
 
 -   2 tablespoons chili powder
@@ -37,8 +35,6 @@ plenty of rub for 5 lbs of ribs.
 
 ## Directions
 
-
-
 Combine the dry spices to make the dry rub. Poke slits with a sharp
 
 knife in the back membrane of the ribs (this allows the flavors in the
@@ -53,7 +49,4 @@ is needed for this recipe. Try and place the ribs in the slow cooker
 
 vertically in a circle pattern for even cooking.
 
-
-
-*[Source](http://lowcarbcrock.com/2013/05/low-carb-crock-pot-ribs-dry-rub/)*
 

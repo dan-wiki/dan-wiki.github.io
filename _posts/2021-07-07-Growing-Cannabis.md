@@ -1,7 +1,7 @@
 ---
 title: Growing Cannabis
 date: 2021-07-07 20:21:00 -500
-categories: ['cannabis','guides','recreation']
+categories: [articles,recreation,plants]
 tags: ['hobbies','growing','plants']
 ---
 
