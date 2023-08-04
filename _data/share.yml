@@ -11,7 +11,7 @@ platforms:
     link: "https://mastodonshare.com/?text=TEXT&url=URL"
 
   - type: Facebook
-    icon: "fab fa-facebook-square"
+    icon: "fab fa-facebook"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
 
 #  - type: Telegram
