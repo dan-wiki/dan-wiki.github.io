@@ -5,9 +5,9 @@ categories: [pork,american,slow cooker,pulled]
 tags: ['mustard powder', 'ground cloves', 'water', 'prepared yellow mustard', 'kosher salt', 'celery salt', 'black pepper', 'onion powder', 'apple cider vinegar', 'low sugar ketchup', 'garlic powder', 'granulated sugar substitute', 'ground allspice', 'xanthan gum', 'boneless pork shoulder', 'hot sauce', 'paprika']
 ---
 
-## Ingredients
+# Ingredients
 
-### For the pulled pork:
+## For the pulled pork:
 
 -   3lb boneless pork shoulder (aka. Boston Butt)
 
@@ -33,7 +33,7 @@ tags: ['mustard powder', 'ground cloves', 'water', 'prepared yellow mustard', 'k
 
 
 
-### For the BBQ sauce:
+## For the BBQ sauce:
 
 -   ½ tsp ground allspice
 
@@ -51,7 +51,7 @@ tags: ['mustard powder', 'ground cloves', 'water', 'prepared yellow mustard', 'k
 
 
 
-## Instructions
+# Instructions
 
 ## For the pulled pork:
 

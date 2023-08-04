@@ -5,7 +5,7 @@ categories: [appetizers,chicken,liver,french,sauted,chilled]
 tags: [chicken,liver,pate,allspice,whipping cream]
 ---
 
-### Ingredients
+# Ingredients
 
 * **2** **slabs** **pork spare ribs (about 5 lbs. per slab)**
 * **1/4** **cup** **mustard (your favorite!)**
@@ -18,7 +18,7 @@ tags: [chicken,liver,pate,allspice,whipping cream]
 * **2** **tbsp** **salt**
 * **2** **cups** **sugar free bbq sauce**
 
-### Instructions
+# Instructions
 
 * To begin, wash the ribs and pat them dry.
 * You'll want to peel the membrane off the inside (boney side) of the slabs. This can be tricky to start, but once a corner has been loosened, the rest usually rips right off. The membrane is a slightly shiny thick paper-like layer covering the ribs. Slide a small knife into one corner of the ribs, just between the meat and membrane. I usually use a butter knife for this (a sharp knife may cut through the membrane, when I see this as more of a "prying" effect). Jiggle and push and shove the knife between the meat and membrane, sliding it from side to side, until roughly 1 inch of membrane has been loosened enough to hold on to. With a towel, grab the flap and with consistent force, peel the membrane off the inside of the slab. It "should" come off in one nice tear. If it doesn't, continue the prying and pulling process, until the entire membrane has been removed. Discard the membrane, cut the slab in half (creating to half-racks) set the slabs aside and repeat for the second slab.

@@ -4,7 +4,10 @@ date: 2014-08-10 02:00:00 -500
 categories: [chicken, breast, french, oven, baked]
 tags: ['goat cheese',  'spinach', 'stuffed', 'chicken breast', 'baked', 'cream cheese']
 ---
-- ##### For the filling:
+
+# Ingredients
+
+## For the filling:
 
   * 2 Tbs. olive oil
   * 1 cup finely chopped shallots (6 to 8 medium shallots)
@@ -14,7 +17,7 @@ tags: ['goat cheese',  'spinach', 'stuffed', 'chicken breast', 'baked', 'cream c
   * 1/4 tsp. kosher salt
   * 1/4 tsp. freshly ground black pepper
 
-  ##### For the chicken:
+## For the chicken:
 
   * 4 large boneless, skinless chicken breast halves (8 to 9 oz. each)
   * 3/4 cup unbleached all-purpose flour
@@ -23,11 +26,13 @@ tags: ['goat cheese',  'spinach', 'stuffed', 'chicken breast', 'baked', 'cream c
   * Kosher salt and freshly ground pepper
   * 2/3 cup olive oil
 
-  ##### Make the filling:
+# Instructions
+
+## Make the filling:
 
   Heat the olive oil in a large skillet over medium to medium low heat. Add the shallots and cook slowly until softened and aromatic, 8 to 10 minutes. Increase the heat to medium and add the spinach (in batches, if necessary) and wine. Cook, stirring frequently, until the spinach is wilted and all the liquid has evaporated, 3 to 4 minutes. Remove from the heat and stir in the goat cheese, salt, and pepper. Let cool to room temperature.
 
-  ##### Stuff and cook the chicken:
+## Stuff and cook the chicken:
 
   If the chicken breasts have tenderloins, remove them. Trim, rinse, and pat the breasts dry.
 

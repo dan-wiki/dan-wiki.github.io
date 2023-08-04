@@ -7,7 +7,7 @@ tags: [grocery,groceries]
 
 A list of standard grocery items.
 
-##### Spices and Blends
+# Spices and Blends
 
 -   Himalayan Salt
 -   Kosher Salt
@@ -30,7 +30,7 @@ A list of standard grocery items.
 
 
 
-##### Meats
+# Meats
 
 -   Canned Salmon
 -   Frozen Salmon
@@ -53,7 +53,7 @@ A list of standard grocery items.
 
 
 
-##### Vegetables
+# Vegetables
 
 -   Kirby Cucumbers
 -   Yellow onions
@@ -69,7 +69,7 @@ A list of standard grocery items.
 
 
 
-##### Sauces & oils
+# Sauces & oils
 
 -   Ghee
 -   Avocado oil

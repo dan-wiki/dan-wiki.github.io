@@ -5,7 +5,7 @@ categories: [appetizers,chicken,liver,french,sauted,chilled]
 tags: [chicken,liver,pate,allspice,whipping cream]
 ---
 
-## Ingredients
+# Ingredients
 
 * 1/2 cup plus 2 tbsp (150 g) ghee, butter, or other fat
 * 1 very large or 2 med (200 g) onion
@@ -16,7 +16,7 @@ tags: [chicken,liver,pate,allspice,whipping cream]
 * 1/4 tsp pepper
 * 2 tsp whipping cream (or milk alternative or I've even used water for dairy free)
 
-## Instructions
+# Instructions
 
 1. Roughly chop onion and cook on low heat in ghee (or other fat) until caramelized, about 20 minutes.
 2. Slice the liver, removing any membrane (white filmy layer).

@@ -5,7 +5,7 @@ categories: [articles,recipe links]
 tags: [articles,recipe links,vegetables]
 ---
 
-#### Recipe Links
+# Links
 
 -   [Fried Eggplant](http://www.ehow.com/video_7667036_fry-eggplant.html) - Needs to be modified for keto
 -   [Roast Eggplant](http://allrecipes.com/Recipe/Olive-Oil-Roasted-Eggplant-with-Lemon/Detail.aspx)

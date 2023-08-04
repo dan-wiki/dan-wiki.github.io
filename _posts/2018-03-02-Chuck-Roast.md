@@ -5,8 +5,7 @@ categories: [beef,chuck,french,oven,roast]
 tags: ['morton kosher salt', 'egg white', 'butter', 'cosrse black pepper', 'mortons kosher salt', 'rosemary', 'black peppercorns', 'chuck roast', 'stock, beef', 'garlic', 'canola oil', 'herbs, fresh']
 ---
 
-
-## Ingredients
+# Ingredients
 
 -   Beef, chuck roast, about 6--8 pounds (I\'ve used smaller)
 -   Canola oil, as needed
@@ -20,7 +19,7 @@ tags: ['morton kosher salt', 'egg white', 'butter', 'cosrse black pepper', 'mort
 
 
 
-### Spice Rub {#spice_rub}
+# Spice Rub
 
 Note: Innevitably a lot more than will be needed.
 
@@ -30,7 +29,7 @@ Note: Innevitably a lot more than will be needed.
 
 
 
-## Instructions
+# Instructions
 
 1.  (optional) cut steak thinner, so it can be rolled
 2.  Lightly oil the steak (steak can be frozen)

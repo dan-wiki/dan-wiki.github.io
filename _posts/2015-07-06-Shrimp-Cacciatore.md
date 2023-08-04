@@ -6,7 +6,7 @@ tags: ['italian','shrimp']
 
 # Ingredients
 
-## Tomato Sauce Base {#tomato_sauce_base}
+## Tomato Sauce Base
 
 -   1/4 cup extra virgin olive oil
 
