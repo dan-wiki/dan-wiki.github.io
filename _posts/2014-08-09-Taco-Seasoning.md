@@ -5,7 +5,7 @@ categories: [seasoning,mexican,taco]
 tags: ['crushed red pepper flakes', 'chili powder', 'ground cumin', 'black pepper', 'onion powder', 'garlic powder', 'dried oregano', 'sea salt', 'season goya (msg) of choice', 'paprika']
 ---
 
-## Ingredients
+# Ingredients
 
 -   1 tablespoon and 1-1/2 teaspoons chili powder
 -   1/4 teaspoon garlic powder

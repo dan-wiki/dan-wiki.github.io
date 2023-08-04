@@ -6,7 +6,7 @@ tags: ['cider vinegar', 'Worcestershire sauce', 'crushed red pepper flakes', 'sw
 ---
 
 
-## Carolina Style
+# Carolina Style
 
 -   6 Tbs cider vinegar
 -   2 tsp Worcestershire sauce
@@ -19,9 +19,9 @@ tags: ['cider vinegar', 'Worcestershire sauce', 'crushed red pepper flakes', 'sw
 
 ## Style 1
 
--   2 strips of thick bacon, chopped fine, or 1-3 teaspoons liquid smoke
+### Ingredients
 
-    (near end), or 1 teaspoon smoked paprika
+-   2 strips of thick bacon, chopped fine, or 1-3 teaspoons liquid smoke (near end), or 1 teaspoon smoked paprika
 
 -   1 small onion, minced
 
@@ -41,40 +41,22 @@ tags: ['cider vinegar', 'Worcestershire sauce', 'crushed red pepper flakes', 'sw
 
 -   Hot sauce to taste
 
+### Instructions 
 
+1. Fry the bacon in a saucepan - a 2 qt pan works well.
 
-1\) Fry the bacon in a saucepan - a 2 qt pan works well.
+1. Add the onion and cook over medium until soft - 3-5 minutes. Add garlic at this point if you\'re using fresh and stir it for half a minute or so.
 
+1. Add the rest of the ingredients, plus about half a cup of water. Stir well. 
 
+1. Simmer for 20-30 minutes. It will cook down a bit and flavors will combine. 5) Adjust the seasonings so you have the balance you want - you can add vinegar, artificial sweetener (liquid preferred), or hot sauce. (If it\'s too hot, adding more sweetener will tone it down.)
 
-2\) Add the onion and cook over medium until soft - 3-5 minutes. Add
-
-garlic at this point if you\'re using fresh and stir it for half a
-
-minute or so.
-
-
-
-3\) Add the rest of the ingredients, plus about half a cup of water.
-
-Stir well. 4) Simmer for 20-30 minutes. It will cook down a bit and
-
-flavors will combine. 5) Adjust the seasonings so you have the balance
-
-you want - you can add vinegar, artificial sweetener (liquid preferred),
-
-or hot sauce. (If it\'s too hot, adding more sweetener will tone it
-
-down.)
-
-
-
-The recipe makes approximately 10 servings of 1/4 cup each. Each serving
-
-has about 3.5 grams of carbohydrate plus 1 gram of fiber.
+The recipe makes approximately 10 servings of 1/4 cup each. Each serving has about 3.5 grams of carbohydrate plus 1 gram of fiber.
 
 
 ## Style 2
+
+### Ingredients 
 
 -   170g tomato paste
 -   2 cups water
@@ -87,5 +69,7 @@ has about 3.5 grams of carbohydrate plus 1 gram of fiber.
 -   1 tsp onion powder
 -   1 tsp pepper
 
-Heat and reduce until desired thickness.
+### Instructions 
+
+1. Heat and reduce until desired thickness.
 

@@ -9,7 +9,6 @@ tags: ['cloves garlic', 'shallot','freshly ground pepper', 'baby back ribs', 'ov
 -   Overnight Prep
 -   1 hour 15 minutes @ 300F
 
-
 # Ingredients
 
 -   2 average racks pork ribs (800g / 1.8 lb / 28.2 oz)
@@ -21,7 +20,6 @@ tags: ['cloves garlic', 'shallot','freshly ground pepper', 'baby back ribs', 'ov
 -   1/4 cup olive oil (60 ml / 2 fl oz)
 -   1 tsp salt (smoked works best)
 -   1/4 freshly ground pepper (I used white)
-
 
 # Instructions
 

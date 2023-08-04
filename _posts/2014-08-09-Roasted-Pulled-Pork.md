@@ -6,26 +6,16 @@ tags: ['roast', 'pork', 'pulled', 'source']
 ---
 # Recipe: Pulled Pork
 
-# Yield: 8 or So Serves
-
 # Cooking Time: ~5 Hours
 
 # Ingredients
 
-* 2.1Kg (4.6lbs) Pork Shoulder
-* Paprika
-* Salt
-* Pepper
-* Cumin
-* Cinnamon
-
-I decided that it was time to make pulled pork. I had *never* made it before, so I took to the internet to do research. Suffice to say, there are an immeasurable number of ways to do the job. Some use the skin, some don’t, some use beer, others might use root beer, and then some may even marinade in brine overnight. And of course, some do none of those things.
-
-So, being out of my comfort zone already by roasting Pork, I made it up as I went, and it kicked ass*.
-
-# Ingredients
-
-Just Pork at this stage, unadulterated, fatty, beautiful.
+- 2.1Kg (4.6lbs) Pork Shoulder
+- Paprika
+- Salt
+- Pepper
+- Cumin
+- Cinnamon
 
 # Step 1: Score the Skin
 
@@ -64,8 +54,6 @@ To this:
 Turn your oven down to 160-180ºC, cover the dish snugly with foil, and put it back in for a further 4.5 hours. Here’s how it should come out
 
 ![image tooltip here](/assets/images/porkroasted.jpg)
-
-Gorgeous.
 
 # Step 6: Pulling Pork
 

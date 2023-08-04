@@ -29,71 +29,47 @@ Makes about a 1.5 cups of mayo
 
 -   1 tsp white or apple cidar vinegar
 
--   1 cup olive, macadamia, or avocado oil. It needs to be quality and
-
-    light or there will be a bad aftertaste
+-   1 cup olive, macadamia, or avocado oil. It needs to be quality and light or there will be a bad aftertaste
 
 -   Immersion blender with blender attachment
 
--   Cylindrical container, like a mason jar, beaker, or Chinese food
-
-    quart-size soup container.
+-   Cylindrical container, like a mason jar, beaker, or Chinese food quart-size soup container.
 
 
 # Instructions
 
 1.  Choose:
 
-    1.  Option 1: Pasteurize egg (recipe stays in fridge likely a month,
-
-        maybe two)
+    1.  Option 1: Pasteurize egg (recipe stays in fridge likely a month, maybe two)
 
         1.  Bring sous vide to 165F
 
         2.  Place egg in sous vide for 10 minutes
 
-        3.  Pull egg out and check with laser thermometer that egg is in
+        3.  Pull egg out and check with laser thermometer that egg is in 160\'s.
 
-            160\'s.
-
-    2.  Option 2: Buy pasteurized/irradiated eggs (same shelf life as
-
-        option 1, maybe better)
+    2.  Option 2: Buy pasteurized/irradiated eggs (same shelf life as option 1, maybe better)
 
     3.  Option 3: Don\'t pasteurize (stays in fridge for about a week)
 
 2.  Crack egg and extract yolk
 
-3.  Run yolk under warm water for a few seconds if not using a method
-
-    that already warmed the egg
+3.  Run yolk under warm water for a few seconds if not using a method that already warmed the egg
 
 4.  Add yolk, water, lemon juice, vinegar, and oil to container
 
-5.  Blend on high, moving up and down and around after the emulsion
+5.  Blend on high, moving up and down and around after the emulsion starts to form
 
-    starts to form
-
-6.  Add salt (or sriracha) and run on high while mixing. Taste and
-
-    reapply as needed
+6.  Add salt (or sriracha) and run on high while mixing. Taste and reapply as needed
 
 7.  Store in same container with lid
 
 
 ## Troubleshooting
 
--   You need to have some water, lemon juice, or vinegar from the start
+-   You need to have some water, lemon juice, or vinegar from the start or it absolutely won\'t work.
 
-    or it absolutely won\'t work.
+-   The cold yolk makes it more runny, which may make it harder to emulsify.
 
--   The cold yolk makes it more runny, which may make it harder to
-
-    emulsify.
-
--   If the emulsion breaks, redo the recipe in a new container, but
-
-    substitute the old mixture for half of the oil and then when it all
-
-    takes hold, start adding even more of the old mixture.
+-   If the emulsion breaks, redo the recipe in a new container, but substitute the old mixture for half of the oil and then when it all takes hold, start adding even more of the old mixture.
 
