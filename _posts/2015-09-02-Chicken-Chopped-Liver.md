@@ -1,8 +1,8 @@
 ---
 title: Chicken Chopped Liver
 date: 2015-09-02 22:28:00 -500
-categories: [chicken,liver,jewish,sauted,chilled]
-tags: ['Chicken livers', 'rendered chicken fat', 'onion', 'salt', 'pepper', 'hard-cooked eggs', 'rye bread', 'pumpernickel bread', 'cornichons']
+categories: [chicken,liver]
+tags: [jewish, liver, chicken]
 ---
 
 # Ingredients

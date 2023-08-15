@@ -1,7 +1,7 @@
 ---
 title: Baked Buffalo Chicken Wings
 date: 2015-02-01 23:34:00 -500
-categories: [appetizers,chicken,wings,american,oven,baked]
+categories: [appetizers,chicken]
 tags: ['chicken wings', 'salt', 'pepper', 'avocado oil', 'Buffalo Sauce', 'soup vegetables', 'cut', 'split', 'boil', 'pat dry', 'grease', 'top with', 'cook', 'toss', 'put', 'boil', 'strain', 'jar']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Breakfast egg quiches
 date: 2015-08-24 02:02:00 -500
-categories: [egg,american,oven,baked]
+categories: [egg,american]
 tags: ['sausage links', 'cheddar', 'salt', 'mix', 'bake', 'frozen chopped onions', 'black pepper', 'eggs', 'heavy cream', 'garlic powder', 'frozen chopped spinach', 'frozen chopped green peppers', 'put']
 ---
 
