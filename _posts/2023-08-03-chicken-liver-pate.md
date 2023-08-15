@@ -1,7 +1,7 @@
 ---
 title: Chicken Liver Pate
 date: 2023-08-03 00:00:01 -500
-categories: [chicken,liver,french,sauted,chilled]
+categories: [appetizers,chicken,liver,french,sauted,chilled]
 tags: [chicken,liver,pate,allspice,whipping cream]
 ---
 
