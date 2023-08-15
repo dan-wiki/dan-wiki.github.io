@@ -1,7 +1,7 @@
 ---
 title: Buffalo Chicken Dip
 date: 2015-12-30 23:22:00 -500
-categories: [appetizers,chicken,mexican,slow cooker]
+categories: [chicken,mexican,slow cooker]
 tags: [party,superbowl,slowcooker,slow cooker, crock pot, crockpot]
 ---
 
