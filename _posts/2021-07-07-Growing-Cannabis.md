@@ -159,7 +159,7 @@ tags: ['hobbies','growing','plants']
 | **2**              | 6tsp (3 cap)  |               |                 |                  |                 |                          |
 | **3**              | 6tsp (3 cap)  | 2tsp (1cap)   |                 |                  |                 |                          |
 | **4**              | 6tsp (3 cap)  | 3tsp (1.5cap) |                 |                  |                 |                          |
-| **5**              |               |               | 2tsp (1cap)     |                  |                 |                          |
+| **5**              |               |               |                 | 2tsp (1cap)      |                 |                          |
 | **6**              | 3tsp (1.5cap) | 2tsp (1cap)   | 2tsp (1cap)     |                  |                 |                          |
 | **7**              | 3tsp (1.5cap) | 1tsp (.5 cap) | 2tsp (1cap)     |                  |                 |                          |
 | **8**              | 3tsp (1.5cap) |               | 2tsp (1cap)     |                  |                 |                          |
