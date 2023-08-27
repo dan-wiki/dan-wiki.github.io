@@ -1,9 +1,13 @@
 ---
 title: Growing Cannabis
 date: 2021-07-07 20:21:00 -500
-categories: [articles,recreation,plants]
+categories: [articles,recreation]
 tags: [hobbies,growing,plants]
 ---
+
+## Introduction
+
+This is a living document, which guides the user through my current process for growing cannabis.  The steps are slowly being perfected. At the time of writing, I have been able to successfull grow feminized auto-flowering and  normal flowering varietals from seed in a small space yielding 4-5oz in approximately 20 weeks or 150 days. The quality is excellent. My focus has been sativa-leaning species, such as Golden Goat.
 
 ## Shopping List
 
