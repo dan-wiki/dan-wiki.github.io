@@ -97,7 +97,7 @@ This is a living document, which guides the user through my current process for 
 | TOTAL    |            | $1991.13   ||                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                              |
     
 
-### Soil Feeding Schedule (per [Fox Farm](https://www.thegrowshow.org/fox-farm-feeding-schedule)) {#soil_feeding_schedule_per_fox_farm}
+### Soil Feeding Schedule (per Fox Farm)
 
 #### Gallon Solutions
 
