@@ -91,7 +91,7 @@ tags: ['hobbies','growing','plants']
 
 #### Gallon Solutions
 
-| **Mixture Number** | **Big Bloom** | **Grow Big**  | **Tiger Bloom** | **SledgeHammer** | **SuperTHRIVE** | **3% Hydrogen Peroxide** |
+| **Solution Number** | **Big Bloom** | **Grow Big**  | **Tiger Bloom** | **SledgeHammer** | **SuperTHRIVE** | **3% Hydrogen Peroxide** |
 |--------------------|---------------|---------------|-----------------|------------------|-----------------|--------------------------|
 | **1**              |               |               |                 |                  | 1/4tsp          | 3tsp                     |
 | **2**              | 6tsp (3 cap)  |               |                 |                  |                 |                          |
@@ -108,80 +108,184 @@ Mix in a gallon of R/O or very pure water.
 
 #### Soil Feeding Schedule
 
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>Germination</p></th>
-<th><p>Vegetation</p></th>
-<th><p>Flush</p></th>
-<th><p>Early Bloom</p></th>
-<th><p>Flush</p></th>
-<th><p>Mid-Bloom</p></th>
-<th><p>Late Bloom</p></th>
-<th><p>Flush</p></th>
-<th><p>Harvest</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Week</p></td>
-<td><p>0</p></td>
-<td><p>1</p></td>
-<td><p>2</p></td>
-<td><p>3</p></td>
-<td><p>4</p></td>
-<td><p>4.5</p></td>
-<td><p>5</p></td>
-<td><p>6</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="even">
-<td><p>Light</p></td>
-<td><p>0</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>12/12<br />
-8pm-8am</p></td>
-<td><p>12/12<br />
-8pm-8am</p></td>
-<td><p>12/12<br />
-8pm-8am</p></td>
-</tr>
-<tr class="odd">
-<td><p>Nutrient Timing</p></td>
-<td><p>Mon</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Fri</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-</tr>
-<tr class="even">
-<td><p>Gallon Solution #</p></td>
-<td><p>1</p></td>
-<td><p>2</p></td>
-<td><p>3</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>5</p></td>
-<td><p>6</p></td>
-<td><p>6</p></td>
-<td><p>6</p></td>
-</tr>
-</tbody>
-</table>
+<table class="wikitable" style="background-color:#ffc702;">
+ 
+                    <tr style="font-weight:bold;">
+                        <th>
+                        </th>
+                        <th> Germination
+                        </th>
+                        <th colspan="4"> Vegetation
+                        </th>
+                        <th> Flush
+                        </th>
+                        <th colspan="3"> Early Bloom
+                        </th>
+                        <th> Flush
+                        </th>
+                        <th colspan="3"> Mid-Bloom
+                        </th>
+                        <th colspan="2"> Late Bloom
+                        </th>
+                        <th> Flush
+                        </th>
+                        <th> Harvest
+                        </th>
+                    </tr>
+                    <tr style="background-color:#9aff99;">
+                        <td style="font-weight:bold;"> Week
+                        </td>
+                        <td> 0
+                        </td>
+                        <td> 1
+                        </td>
+                        <td> 2
+                        </td>
+                        <td> 3
+                        </td>
+                        <td> 4
+                        </td>
+                        <td> 4.5
+                        </td>
+                        <td> 5
+                        </td>
+                        <td> 6
+                        </td>
+                        <td> 7
+                        </td>
+                        <td> 7.5
+                        </td>
+                        <td> 8
+                        </td>
+                        <td> 9
+                        </td>
+                        <td> 10
+                        </td>
+                        <td> 11
+                        </td>
+                        <td> 12
+                        </td>
+                        <td> 12.5
+                        </td>
+                        <td style="background-color:#009901;">
+                        </td>
+                    </tr>
+                    <tr style="background-color:#FFFE65;">
+                        <td style="font-weight:bold; background-color:#fffe65;"> Light
+                        </td>
+                        <td style="background-color:#fffe65; color:#000000;"> 0
+                        </td>
+                        <td style="background-color:#fffe65; color:#000000;"> 18/6<br />4pm-10am
+                        </td>
+                        <td> 18/6<br />4pm-10am
+                        </td>
+                        <td> 18/6<br />4pm-10am
+                        </td>
+                        <td> 18/6<br />4pm-10am
+                        </td>
+                        <td> 18/6<br />4pm-10am
+                        </td>
+                        <td style="background-color:#fffe65;"> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td> 12/12<br />8pm-8am
+                        </td>
+                        <td style="background-color:#009901;">
+                        </td>
+                    </tr>
+                    <tr style="background-color:#96FFFB;">
+                        <td style="font-weight:bold; background-color:#96fffb;"> Nutrient Timing
+                        </td>
+                        <td style="background-color:#96fffb;"> Mon
+                        </td>
+                        <td style="background-color:#96fffb;"> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td style="background-color:#96fffb;"> Fri
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Fri
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Sun, Wed
+                        </td>
+                        <td> Fri
+                        </td>
+                        <td style="background-color:#009901;">
+                        </td>
+                    </tr>
+                    <tr style="background-color:#dae8fc;">
+                        <td style="font-weight:bold;"> Gallon Solution #
+                        </td>
+                        <td> 1
+                        </td>
+                        <td> 2
+                        </td>
+                        <td> 3
+                        </td>
+                        <td> 4
+                        </td>
+                        <td> 4
+                        </td>
+                        <td> 5
+                        </td>
+                        <td> 6
+                        </td>
+                        <td> 6
+                        </td>
+                        <td> 6
+                        </td>
+                        <td> 5
+                        </td>
+                        <td> 6
+                        </td>
+                        <td> 7
+                        </td>
+                        <td> 8
+                        </td>
+                        <td> 9
+                        </td>
+                        <td> 9
+                        </td>
+                        <td> 5
+                        </td>
+                        <td style="background-color:#009901;">
+                        </td>
+                    </tr>
+                </table>
+
 
 
 ### Important Warnings Before Starting
