@@ -5,13 +5,9 @@ categories: [articles,recreation,plants]
 tags: ['hobbies','growing','plants']
 ---
 
-## Shopping List {#shopping_list}
+## Shopping List
 
-
-
-### Ongoing Supply Expenses {#ongoing_supply_expenses}
-
-
+### Ongoing Supply Expenses
 
   Quantity   Unit Price   Total Cost   Product
 
@@ -45,51 +41,13 @@ tags: ['hobbies','growing','plants']
 
 
 
--   Most of these items will last multiple grows with the exception of
-
-    all air purifying items, the humidor packets, and the seeds, so it
-
-    can be assumed that each grow cycle costs approximately \$205
-
-    (pre-tax) in supplies. The light and fan electrical costs \$20/mo
-
-    and the heat costs \$70/mo in the winter. That places the total
-
-    spend for this single plant configuration considering 8 weeks of
-
-    vegetation and 12 weeks of bloom in the winter at about \$650.
-
--   It is far cheaper to grow in months were the heater is not needed,
-
-    which would total \$305. If the yield is 4oz. and each ounce at the
-
-    medical dispensary is \$450, there is very clear savings. A winter
-
-    grow would cost about \$160/oz, which is a 65% savings and a summer
-
-    grow is \$75/oz, which is about an 85% savings.
-
--   The mini-heater probably shouldn\'t go inside the tent. I found that
-
-    it works well if the heat regulator controls the heater and the
-
-    intake fan and is place in-line on the outside. I raised the tent
-
-    off the concrete floor, and better insulated the garage. This helpes
-
-    lower costs to a more tolerable level.
-
--   I am experimenting with curing bags vs. burping daily in mason jars
-
-    and humidor packs, however both are still needed since I\'ll
-
-    ultimately store the finished bud in the jars with the packs.
+-   Most of these items will last multiple grows with the exception of all air purifying items, the humidor packets, and the seeds, so it can be assumed that each grow cycle costs approximately \$205 (pre-tax) in supplies. The light and fan electrical costs \$20/mo and the heat costs \$70/mo in the winter. That places the total spend for this single plant configuration considering 8 weeks of vegetation and 12 weeks of bloom in the winter at about \$650.
+-   It is far cheaper to grow in months were the heater is not needed, which would total \$305. If the yield is 4oz. and each ounce at the medical dispensary is \$450, there is very clear savings. A winter grow would cost about \$160/oz, which is a 65% savings and a summer grow is \$75/oz, which is about an 85% savings.
+-   The mini-heater probably shouldn\'t go inside the tent. I found that it works well if the heat regulator controls the heater and the intake fan and is place in-line on the outside. I raised the tent off the concrete floor, and better insulated the garage. This helpes lower costs to a more tolerable level.
+-   I am experimenting with curing bags vs. burping daily in mason jars and humidor packs, however both are still needed since I\'ll ultimately store the finished bud in the jars with the packs.
 
 
-
-### One-time Expenses {#one_time_expenses}
-
-
+### One-time Expenses
 
   Quantity   Unit Price   Total Cost   Product
 
@@ -191,833 +149,265 @@ tags: ['hobbies','growing','plants']
 
 ## Setup
 
-
-
 ### Soil Feeding Schedule (per [Fox Farm](https://www.thegrowshow.org/fox-farm-feeding-schedule)) {#soil_feeding_schedule_per_fox_farm}
 
+#### Gallon Solutions
 
+| **Mixture Number** | **Big Bloom** | **Grow Big**  | **Tiger Bloom** | **SledgeHammer** | **SuperTHRIVE** | **3% Hydrogen Peroxide** |
+|--------------------|---------------|---------------|-----------------|------------------|-----------------|--------------------------|
+| **1**              |               |               |                 |                  | 1/4tsp          | 3tsp                     |
+| **2**              | 6tsp (3 cap)  |               |                 |                  |                 |                          |
+| **3**              | 6tsp (3 cap)  | 2tsp (1cap)   |                 |                  |                 |                          |
+| **4**              | 6tsp (3 cap)  | 3tsp (1.5cap) |                 |                  |                 |                          |
+| **5**              |               |               | 2tsp (1cap)     |                  |                 |                          |
+| **6**              | 3tsp (1.5cap) | 2tsp (1cap)   | 2tsp (1cap)     |                  |                 |                          |
+| **7**              | 3tsp (1.5cap) | 1tsp (.5 cap) | 2tsp (1cap)     |                  |                 |                          |
+| **8**              | 3tsp (1.5cap) |               | 2tsp (1cap)     |                  |                 |                          |
+| **9**              | 3tsp (1.5cap) |               | 1tsp (.5 cap)   |                  |                 |                          |
 
-#### Gallon Solutions {#gallon_solutions}
-
-
-
-  Gallon Mixture \#   Big Bloom       Grow Big        Tiger Bloom     SledgeHammer   SuperTHRIVE   3% Hyrdogen Peroxide
-
-  ------------------- --------------- --------------- --------------- -------------- ------------- ----------------------
-
-  1                                                                                  1/4tsp        3tsp
-
-  2                   6tsp (3 cap)                                                                 
-
-  3                   6tsp (3 cap)    2tsp (1cap)                                                  
-
-  4                   6tsp (3 cap)    3tsp (1.5cap)                                                
-
-  5                                                                   2tsp (1cap)                  
-
-  6                   3tsp (1.5cap)   2tsp (1cap)     2tsp (1cap)                                  
-
-  7                   3tsp (1.5cap)   1tsp (.5 cap)   2tsp (1cap)                                  
-
-  8                   3tsp (1.5cap)                   2tsp (1cap)                                  
-
-  9                   3tsp (1.5cap)                   1tsp (.5 cap)                                
-
+Mix in a gallon of R/O or very pure water.
 
 
 #### Soil Feeding Schedule {#soil_feeding_schedule}
 
-
-
 <table>
-
 <thead>
-
 <tr class="header">
-
 <th></th>
-
 <th><p>Germination</p></th>
-
 <th><p>Vegetation</p></th>
-
 <th><p>Flush</p></th>
-
 <th><p>Early Bloom</p></th>
-
 <th><p>Flush</p></th>
-
 <th><p>Mid-Bloom</p></th>
-
 <th><p>Late Bloom</p></th>
-
 <th><p>Flush</p></th>
-
 <th><p>Harvest</p></th>
-
 </tr>
-
 </thead>
-
 <tbody>
-
 <tr class="odd">
-
 <td><p>Week</p></td>
-
 <td><p>0</p></td>
-
 <td><p>1</p></td>
-
 <td><p>2</p></td>
-
 <td><p>3</p></td>
-
 <td><p>4</p></td>
-
 <td><p>4.5</p></td>
-
 <td><p>5</p></td>
-
 <td><p>6</p></td>
-
 <td><p>7</p></td>
-
 </tr>
-
 <tr class="even">
-
 <td><p>Light</p></td>
-
 <td><p>0</p></td>
-
 <td><p>18/6<br />
-
 4pm-10am</p></td>
-
 <td><p>18/6<br />
-
 4pm-10am</p></td>
-
 <td><p>18/6<br />
-
 4pm-10am</p></td>
-
 <td><p>18/6<br />
-
 4pm-10am</p></td>
-
 <td><p>18/6<br />
-
 4pm-10am</p></td>
-
 <td><p>12/12<br />
-
 8pm-8am</p></td>
-
 <td><p>12/12<br />
-
 8pm-8am</p></td>
-
 <td><p>12/12<br />
-
 8pm-8am</p></td>
-
 </tr>
-
 <tr class="odd">
-
 <td><p>Nutrient Timing</p></td>
-
 <td><p>Mon</p></td>
-
 <td><p>Sun, Wed</p></td>
-
 <td><p>Sun, Wed</p></td>
-
 <td><p>Sun, Wed</p></td>
-
 <td><p>Sun, Wed</p></td>
-
 <td><p>Fri</p></td>
-
 <td><p>Sun, Wed</p></td>
-
 <td><p>Sun, Wed</p></td>
-
 <td><p>Sun, Wed</p></td>
-
 </tr>
-
 <tr class="even">
-
 <td><p>Gallon Solution #</p></td>
-
 <td><p>1</p></td>
-
 <td><p>2</p></td>
-
 <td><p>3</p></td>
-
 <td><p>4</p></td>
-
 <td><p>4</p></td>
-
 <td><p>5</p></td>
-
 <td><p>6</p></td>
-
 <td><p>6</p></td>
-
 <td><p>6</p></td>
-
 </tr>
-
 </tbody>
-
 </table>
 
 
+### Important Warnings Before Starting
 
-### Important Warnings Before Starting {#important_warnings_before_starting}
-
-
-
--   **DO NOT START BLOOM CYCLE UNTIL PLANT IS ABOUT HALF-WAY TO THE
-
-    TALLEST DESIRED HEIGHT (ABOUT HALF-WAY TO THE LIGHT)**
-
-    -   You can choose to go slightly taller than half-way and super
-
-        crop (discussed later) if the stems can handle it
-
+-   **DO NOT START BLOOM CYCLE UNTIL PLANT IS ABOUT HALF-WAY TO THE TALLEST DESIRED HEIGHT (ABOUT HALF-WAY TO THE HIGHEST THE LIGHT CAN BE RAISED)**
+    -   You can choose to go slightly taller than half-way and super crop (discussed later) if the stems can handle it
 -   **TO EXTEND VEGETATIVE CYCLE: Repeat Week 4.**
-
-    -   You would do this to delay the bloom cycle to let the plant grow
-
-        taller
-
+    -   You would do this to delay the bloom cycle to let the plant grow taller
 -   **TO EXTEND BLOOM CYCLE: Repeat Week 12.**
-
     -   You would do this if the plant is not yet ready to harvest
-
-    -   The plant is ready to harvest when the trichomes, which look
-
-        like little long mushroom-shaped crystals under a microscope are
-
-        milky white instead of clear and about 10% of them are slightly
-
-        darkening amber. Too much amber is bad because it won\'t taste
-
-        good and might be too potent
-
+    -   The plant is ready to harvest when the trichomes, which look like little long mushroom-shaped crystals under a microscope are milky white instead of clear and about 10% of them are slightly darkening amber. Too much amber is bad because it won\'t taste good and might be too potent
 -   **USE GALLON JUGS OF DISTILLED (OR BETTER) WATER**
-
-    -   It is better to have a separate gallon of feeding solution ready
-
-        to use for each mixture \# since attempting to measure in
-
-        smaller amounts can yield incorrect proportions.
-
-    -   After I ran out of distilled water, I did start to use filtered
-
-        tap water since my water system have six filters already. This
-
-        did not seem to matter. The distilled water recommendations
-
-        matter the most when the plant is first starting off
-
+    -   It is better to have a separate gallon of feeding solution ready to use for each mixture \# since attempting to measure in smaller amounts can yield incorrect proportions.
+    -   After I ran out of distilled water, I did start to use filtered tap water since my water system have six filters already. This did not seem to matter. The distilled water recommendations matter the most when the plant is first starting off
 -   **TRACK YOUR MONTHLY ENERGY EXPENDITURE**
-
-    -   The light and heater are the most costly, but the fans can add
-
-        cost as well
-
-    -   Especially in the winter, it will cost more to maintain the
-
-        appropriate heat in the tent
-
-    -   To estimate you monthly spend, on each Kill-A-Watt, get the
-
-        total time in hours that the meter has been plugged in (T) and
-
-        the total consumer of kilowatt hours (kWh) then find out how
-
-        much your electricity company charges per kWh (C). On the
-
-        Kill-A-Watt, the first two metrics can be retrieved from the
-
-        right-most button.
-
-    -   Estimated Monthly Energy Costs = 30 days x 24 hours x ((kWh/T) x
-
-        C), so for me my heater was consuming 30 x 24 x ((392/549) x
-
-        .13) = \~\$66/month
-
-        -   Costs will improve by bringing the tent off the concrete
-
-            slab and onto a platform, then putting some foam board
-
-            insulation around the tent
+    -   The light and heater are the most costly, but the fans can add cost as well
+    -   Especially in the winter, it will cost more to maintain the appropriate heat in the tent
+    -   To estimate you monthly spend, on each Kill-A-Watt, get the total time in hours that the meter has been plugged in (T) and the total consumer of kilowatt hours (kWh) then find out how much your electricity company charges per kWh (C). On the Kill-A-Watt, the first two metrics can be retrieved from the right-most button.
+    -   Estimated Monthly Energy Costs = 30 days x 24 hours x ((kWh/T) x C), so for me my heater was consuming 30 x 24 x ((392/549) x .13) = \~\$66/month
+        -   Costs will improve by bringing the tent off the concrete slab and onto a platform, then putting some foam board insulation around the tent
 
 
 
 ### Instructions
 
-
-
 1.  Put together tent per manufacturer instructions
-
-    1.  If on a concrete floor, it is recommended to make a box out of
-
-        ply wood and 2x4\'s the size of the tent\'s base to keep it off
-
-        the floor since it will lose a lot of heat otherwise in the
-
-        winter months
-
-2.  Strap together the filter and the blower and hang from the base of
-
-    the unit using supplied straps and viced vent couplers
-
-3.  Couple together the exhaust tubing to to the exhaust end of the
-
-    blower and feed out of one side of the tent through a vent hole and
-
-    ensure that it is double-sealed using the tent\'s built in rope
-
-    slide fasteners, such that light cannot escape out
-
-4.  Couple exhaust tubing to the intake fan and secure outside tent to
-
-    an available hole
-
-5.  Prop up intake fan such that heater is aimed at it
-
-6.  Feed in the thermometers through available holes for the humidifier
-
-    and thermostat Inkbird controllers
-
-7.  Plug the intake fan and heater into the thermostat controller, so
-
-    the exhaust fan goes on when it is too hot and the heater goes on
-
-    when it is too cold
-
-    1.  Set the thermostat to turn on the intake fan when over 80F and
-
-        heat to turn on when under 70F for now
-
-8.  Plug thermostat Inkbird into Wi-Fi outlet and into a Kill-A-Watt
-
-    directly into the wall
-
-    1.  Since the heater is a larger electricity user, we want to
-
-        monitor the usage to estimate monthly costs and need the Wi-Fi
-
-        outlet in case we are away an need to turn off the heater for
-
-        any reason
-
-9.  Plug the humidifier controller into a Wi-Fi outlet and into the
-
-    power strip
-
-10. Plug the humidifier into that humidifier controller and place on the
-
-    outside of the tent feeding it to a hole that is higher up in the
-
-    tent
-
-11. Set the humidity to be between 40-50%
-
-12. Hang the larger grow light in the middle of the tent and feed the
-
-    electrical cable out to a Wi-Fi outlet on the exterior power strip
-
-13. Place one or more heat maps on the ground and either plug in
-
-    directly to a Wi-Fi outlet on the exterior power strip or to a
-
-    closer power strip within the tent that ultimately is powered by a
-
-    Wi-fi outlet on the external power strip
-
-14. Plug the Hurricane fan into a Wi-Fi outlet on the external power
-
-    strip and clip it to one of the poles inside the tent
-
-15. Hang the Wi-Fi temperature and humidity sensor inside the tent
-
-16. Clip the camera to one of the poles inside the tent.
-
+    1.  If on a concrete floor, it is recommended to make a box out of ply wood and 2x4\'s the size of the tent\'s base to keep it off the floor since it will lose a lot of heat otherwise in the winter months
+1.  Strap together the filter and the blower and hang from the base of the unit using supplied straps and viced vent couplers
+1.  Couple together the exhaust tubing to to the exhaust end of the blower and feed out of one side of the tent through a vent hole and ensure that it is double-sealed using the tent\'s built in rope slide fasteners, such that light cannot escape out
+1.  Couple exhaust tubing to the intake fan and secure outside tent to an available hole
+1.  Prop up intake fan such that heater is aimed at it
+1.  Feed in the thermometers through available holes for the humidifier and thermostat Inkbird controllers
+1.  Plug the intake fan and heater into the thermostat controller, so the exhaust fan goes on when it is too hot and the heater goes on when it is too cold
+    1.  Set the thermostat to turn on the intake fan when over 80F and heat to turn on when under 70F for now
+1.  Plug thermostat Inkbird into Wi-Fi outlet and into a Kill-A-Watt directly into the wall
+    1.  Since the heater is a larger electricity user, we want to monitor the usage to estimate monthly costs and need the Wi-Fi outlet in case we are away an need to turn off the heater for any reason
+1.  Plug the humidifier controller into a Wi-Fi outlet and into the power strip
+1. Plug the humidifier into that humidifier controller and place on the outside of the tent feeding it to a hole that is higher up in the tent
+1. Set the humidity to be between 40-50%
+1. Hang the larger grow light in the middle of the tent and feed the electrical cable out to a Wi-Fi outlet on the exterior power strip
+1. Place one or more heat maps on the ground and either plug in directly to a Wi-Fi outlet on the exterior power strip or to a closer power strip within the tent that ultimately is powered by a Wi-fi outlet on the external power strip
+1. Plug the Hurricane fan into a Wi-Fi outlet on the external power strip and clip it to one of the poles inside the tent
+1. Hang the Wi-Fi temperature and humidity sensor inside the tent
+1. Clip the camera to one of the poles inside the tent.
     1.  This first camera is solely for ensuring that the plant does not
-
         hit the light while you are away
-
-17. Set up the automatic watering mechanism by drilling a hole in an
-
+1. Set up the automatic watering mechanism by drilling a hole in an
     Home Depot bucket that is kept on the outside of the tent
-
-    1.  Fork the water tubing to at least three sprinklers positioned
-
-        where the plan pot will go in the middle of the tent
-
-    2.  The tube should enter through one of the tent openings
-
-    3.  All tent openings must be sealed to not let light in
-
-18. Don\'t turn the automatic watering on yet, but when you do, it
-
-    should be set for 2 minutes typically, but this will be determined
-
-    by the hydrometer in the soil
-
-19. The exhaust fan should be set to at least 6, but this should be
-
-    increased during the bloom phase to between 8 and max, otherwise the
-
-    house might smell
-
-20. Set up the microscope on a mount inside the tent. I used a magnet
-
-    mount for mine due to an available metal surface outside the tent,
-
-    however other mount options are available
-
-    1.  The microscope can first act as an additional camera to check in
-
-        on the plant, but later it will be focused on one of the growing
-
-        buds to monitor trichome development. Timing the harvest is very
-
-        important as it dictates the potency, taste, and overall effect
-
-        when consumed
-
-
+    1.  Fork the water tubing to at least three sprinklers positioned where the plan pot will go in the middle of the tent
+    1.  The tube should enter through one of the tent openings
+    1.  All tent openings must be sealed to not let light in
+1. Don\'t turn the automatic watering on yet, but when you do, it should be set for 2 minutes typically, but this will be determined by the hydrometer in the soil
+1. The exhaust fan should be set to at least 6, but this should be increased during the bloom phase to between 8 and max, otherwise the house might smell
+1. Set up the microscope on a mount inside the tent. I used a magnet mount for mine due to an available metal surface outside the tent, however other mount options are available
+    1.  The microscope can first act as an additional camera to check in on the plant, but later it will be focused on one of the growing buds to monitor trichome development. Timing the harvest is very important as it dictates the potency, taste, and overall effect when consumed
 
 ## Germination
 
-
-
-1.  Mix solution \#1 per the soil feed chart. You can label the gallon
-
-    jug \"\#1 Germinate\" for future use.
-
-    1.  NOTE: You can\'t save this for very long because SuperTHRIVE is
-
-        ridiculously good at making things grow and it will turn
-
-        microbes in the distilled water into an sentient blob in the
-
-        gallon jug
-
-2.  Wash test tube with water and paper towel
-
-3.  Pour rubbing alcohol into test tube and swirl it around
-
-4.  Remove and clean remaining debris with paper towel
-
-5.  Rinse out test tube with a little distilled water
-
-6.  Pour distilled water solution into test tube to just before the top
-
-7.  Use tweezer to place seed into test tube (it will likely float)
-
-8.  Place test tube in cut insulation tubing such that no light is
-
-    getting in and either wrap around the jar heat mat or put under the
-
-    400w light
-
-9.  Wait 3 hours (you can opt to put a thermometer in the tube since the
-
-    water should be between 71.5-78.5F
-
-10. Use chop stick to make seed drop to bottom. It is okay if it
-
-    doesn\'t
-
-11. Wait 36 hours altogether
-
-12. When seed are ready to plant, they will have about a half inch \"tap
-
-    root\" (white root) sticking out, but after 36 hours, just plant
-
-    anyways
-
-13. Put seed starting soil into a domed cup
-
-    1.  You might be able to try locally source soil options, but be
-
-        careful because many organic soils have manure and other
-
-        bio-matter that will smell up the house, so look for indoor. The
-
-        ones on the shopping list are considered very good for new
-
-        growers
-
-    2.  Domed cup can be a Solo cup with rubber band, cellophane, and
-
-        poked holes through top and bottom or one that they sell for
-
-        this purpose per the shopping list
-
-14. Chop stick half-inch down in the center of the pot to create a hole
-
-    for the seed
-
-15. Using tweezers (do not touch the taproot), place the seed, tap root
-
-    side downward, into the hole, so that the hard seed part is towards
-
-    the top and the tap root is down. The seed shell should only be
-
-    1/16\" under the soil
-
-16. Put just enough soil on top so that the seed is not exposed. Do not
-
-    push hard
-
-17. Using a spray bottle, spray Week 1 fertilizer-treated distilled
-
-    water gently until lightly damp, but not \"wet\"
-
-18. Put dome on and do not water much at all
-
-19. For the first two weeks put it under a 400W equivalent LED light at
-
-    18\" and set on a 18/6 cycle. This is a weaker light than later
-
-20. Avoid spraying the plant directly when it pops out and only spray
-
-    very lightly around the soil or pour using a water bottle around the
-
-    perimeter
-
-21. The plant needs to work to get to water or it will die of
-
-    \"dampening off\", which looks like the stem shrivels and it falls
-
-    over
-
-22. After the plant has sprouted through the soil, check the soil
-
-    moisture and add a little water without oversaturating and put the
-
-    dome lid back on
-
-23. Remove dome after a week
-
-
+1.  Mix solution \#1 per the soil feed chart. You can label the gallon jug \"\#1 Germinate\" for future use.
+    1.  NOTE: You can\'t save this for very long because SuperTHRIVE is ridiculously good at making things grow and it will turn microbes in the distilled water into an sentient blob in the gallon jug
+1.  Wash test tube with water and paper towel
+1.  Pour rubbing alcohol into test tube and swirl it around
+1.  Remove and clean remaining debris with paper towel
+1.  Rinse out test tube with a little distilled water
+1.  Pour distilled water solution into test tube to just before the top
+1.  Use tweezer to place seed into test tube (it will likely float)
+1.  Place test tube in cut insulation tubing such that no light is getting in and either wrap around the jar heat mat or put under the 400w light
+1.  Wait 3 hours (you can opt to put a thermometer in the tube since the water should be between 71.5-78.5F
+1. Use chop stick to make seed drop to bottom. It is okay if it doesn\'t
+1. Wait 36 hours altogether
+1. When seed are ready to plant, they will have about a half inch \"tap root\" (white root) sticking out, but after 36 hours, just plant anyways
+1. Put seed starting soil into a domed cup
+    1.  You might be able to try locally source soil options, but be careful because many organic soils have manure and other bio-matter that will smell up the house, so look for indoor. The ones on the shopping list are considered very good for new growers
+    1.  Domed cup can be a Solo cup with rubber band, cellophane, and poked holes through top and bottom or one that they sell for this purpose per the shopping list
+1. Chop stick half-inch down in the center of the pot to create a hole for the seed
+1. Using tweezers (do not touch the taproot), place the seed, tap root side downward, into the hole, so that the hard seed part is towards the top and the tap root is down. The seed shell should only be 1/16\" under the soil
+1. Put just enough soil on top so that the seed is not exposed. Do not push hard
+1. Using a spray bottle, spray Week 1 fertilizer-treated distilled water gently until lightly damp, but not \"wet\"
+1. Put dome on and do not water much at all
+1. For the first two weeks put it under a 400W equivalent LED light at 18\" and set on a 18/6 cycle. This is a weaker light than later
+1. Avoid spraying the plant directly when it pops out and only spray very lightly around the soil or pour using a water bottle around the perimeter
+1. The plant needs to work to get to water or it will die of \"dampening off\", which looks like the stem shrivels and it falls over
+1. After the plant has sprouted through the soil, check the soil moisture and add a little water without oversaturating and put the dome lid back on
+1. Remove dome after a week
 
 ## Vegetation
 
-
-
 1.  Everything going forward happens in the tent
-
-2.  Throughout the whole process ensure the light is \"18 away. This was
-
-    the recommendation for the light used for these notes, but consult
-
-    the light\'s manual.
-
-3.  Normal watering is 500ml daily from auto-watering system, which is
-
-    about a 2 minute set drip
-
-4.  On Sunday and Wednesday, in addition to the standard daily watering,
-
-    open the tent and add a 500ml water bottle of the current solution
-
-    \# to the soil
-
-5.  Use the hydrometer to ensure that the soil is not too wet or that PH
-
-    is not incorrect
-
-    1.  Adjust accordingly for either. You may have to buy a PH Up and
-
-        Down solution pack, which is readily available online or in
-
-        gardening centers
-
-    2.  Maintain a pH of 5.6 to 6.8 to prevent nutrient lockout and
-
-        reduce stress on plants
-
-6.  Once the plant has two sets of leaves, place under more intense
-
-    light 1000W equivalent LED with just the vegetation lighting setting
-
-    on.
-
-7.  Ensure that all fans are turned on and that the temperature is
-
-    70-80F during the day and 65-75F at night. The humidity should be
-
-    between 55-70%.
-
-8.  The first leaves will start to wither as they are overtaken by new
-
-    growth. Replant at this point in a 5 gallon grow bag using the
-
-    potting soil per the shopping list
-
-9.  Water normally each day until the soil is moist throughout
-
-10. Once the plant is about a foot tall, replant in a 10 gallon grow bag
-
-11. Continue with the vegetation feed schedule and lighting until the
-
-    plant is half-way up in the tent with respect to the highest
-
-    possible position of the light. When the bloom phase starts, it will
-
-    shoot up quickly
+1.  Throughout the whole process ensure the light is \"18 away. This was the recommendation for the light used for these notes, but consult the light\'s manual.
+1.  Normal watering is 500ml daily from auto-watering system, which is about a 2 minute set drip
+1.  On Sunday and Wednesday, in addition to the standard daily watering, open the tent and add a 500ml water bottle of the current solution\# to the soil
+1.  Use the hydrometer to ensure that the soil is not too wet or that PH is not incorrect
+    1.  Adjust accordingly for either. You may have to buy a PH Up and Down solution pack, which is readily available online or in gardening centers
+    1.  Maintain a pH of 5.6 to 6.8 to prevent nutrient lockout and reduce stress on plants
+1.  Once the plant has two sets of leaves, place under more intense light 1000W equivalent LED with just the vegetation lighting setting on.
+1.  Ensure that all fans are turned on and that the temperature is 70-80F during the day and 65-75F at night. The humidity should be between 55-70%.
+1.  The first leaves will start to wither as they are overtaken by new growth. Replant at this point in a 5 gallon grow bag using the potting soil per the shopping list
+1.  Water normally each day until the soil is moist throughout
+1. Once the plant is about a foot tall, replant in a 10 gallon grow bag
+1. Continue with the vegetation feed schedule and lighting until the plant is half-way up in the tent with respect to the highest possible position of the light. When the bloom phase starts, it will shoot up quickly
 
 
+## Super Cropping
 
-## Super Cropping {#super_cropping}
-
-
-
-Firstly, while the plant is growing it is best to use a net to guide
-
-individual branches away from one another, so that they have space to
-
-grow. Then, to maximize the amount of flowers, you need to provide as
-
-much surface area to the direct light as possible. The branches can be
-
-bent carefully to a fully 90 degree angle. They should not break if done
-
-very carefully. You can choose to use the bending clips. They don\'t
-
-always stay on, but give an idea of how significant and angle can be
-
-formed. This should be down around half-way to the light. The stems will
-
-start growing back upward again and the process might be able to be
-
-repeated one more time before or during early flowering to make the
-
-branches bend back and forth like vines.
-
+This is a more advanced approach and I have not mastered it yet. I am more focused lately on learning to remove small shoots to promote focused energy towards larger buds. Firstly, while the plant is growing it is best to use a net to guide individual branches away from one another, so that they have space to grow. Then, to maximize the amount of flowers, you need to provide as much surface area to the direct light as possible. The branches can be bent carefully to a fully 90 degree angle. They should not break if done very carefully. You can choose to use the bending clips. They don\'t always stay on, but give an idea of how significant and angle can be formed. This should be down around half-way to the light. The stems will start growing back upward again and the process might be able to be repeated one more time before or during early flowering to make the branches bend back and forth like vines.
 
 
 ## Bloom
 
+1.  When the plant has reached 5 weeks (per chart), change the light to 12 hours and turn on the bloom setting and leave on the vegetation light as well per your light manual\'s recommendations
+1.  Temperature range during this time should be 68-78F with humidity at 40-55%
 
 
-1.  When the plant has reached 5 weeks (per chart), change the light to
+## Late Bloom and Flush
 
-    12 hours and turn on the bloom setting and leave on the vegetation
-
-    light as well per your light manual\'s recommendations
-
-2.  Temperature range during this time should be 68-78F with humidity at
-
-    40-55%
-
-
-
-## Late Bloom and Flush {#late_bloom_and_flush}
-
-
-
--   As the plant has grown mature buds and the trichomes start to get
-
-    cloudy as described below, the humidity can be tweaked to ensure
-
-    that mold growth does not form.
-
+-   As the plant has grown mature buds and the trichomes start to get cloudy as described below, the humidity can be tweaked to ensure that mold growth does not form.
 -   65-75F, 30-40% humidity
+-   Ideally, when this occurs, you should be two week out from harvest, so stop providing fertilizer to the plant, but keep giving it enough water or it will potentially dry out. This step is primarily to make the plant cannibalize its remaining resources in the brush leaves. Some people think the flush also ensure that any fertilizer used won\'t be detectable when smoking the bud later. The plants own remaining nutrient stores are good for the health of the buds and trichomes. You will see the brush leaves start to yellow or die by doing this, but that is okay since this is the end of the process.
 
--   Ideally, when this occurs, you should be two week out from harvest,
 
-    so stop providing fertilizer to the plant, but keep giving it enough
+## Harvest Timing
 
-    water or it will potentially dry out. This step is primarily to make
-
-    the plant cannibalize its remaining resources in the brush leaves.
-
-    Some people think the flush also ensure that any fertilizer used
-
-    won\'t be detectable when smoking the bud later. The plants own
-
-    remaining nutrient stores are good for the health of the buds and
-
-    trichomes. You will see the brush leaves start to yellow or die by
-
-    doing this, but that is okay since this is the end of the process.
+1.  Keep checking the buds with a microscope or jewelers loop. The video microscope worked best. You are looking for small mushroom-like structures called trichomes. They need to be milky white. There will start to be some of them forming amber bulbs, which is when to stop and harvest. Do not harvest when the majority are see-through. The white stuff is the THC. Too much amber and it will be too strong in a not good way. <https://www.reddit.com/r/justtrichomes/> is your guide.
 
 
 
-## Harvest Timing {#harvest_timing}
+## Cutting and Drying
 
-
-
-1.  Keep checking the buds with a microscope or jewelers loop. The video
-
-    microscope worked best. You are looking for small mushroom-like
-
-    structures called trichomes. They need to be milky white. There will
-
-    start to be some of them forming amber bulbs, which is when to stop
-
-    and harvest. Do not harvest when the majority are see-through. The
-
-    white stuff is the THC. Too much amber and it will be too strong in
-
-    a not good way. <https://www.reddit.com/r/justtrichomes/> is your
-
-    guide.
-
-
-
-## Cutting and Drying {#cutting_and_drying}
-
-
-
-1.  **Retaining the proper humidity is critical at this step or it will
-
-    destroy the quality of the crop by drying out and getting super
-
-    brittle. You need to not let the humidifier run out of water ever,
-
-    so using a top-off refill system and a large water supply to it is
-
-    ideal. They sell these for fish tanks.**
-
-2.  Temperature range during this time should be 60-70F with humidity at
-
-    55-62%
-
-3.  The tent should be dark. The light can be removed to make room for
-
-    hanging.
-
-4.  Instead of the drying rack, which I used the first time, I read that
-
-    people had good results by chopping the entire plant at the base and
-
-    hanging it upside down in the ten. Just trim the dead leaves only.
-
-5.  The goal is for it to dry slowly, which will retain density and
-
-    flavor.
-
-6.  If there is not enough room to do this, just split up the plant into
-
-    smaller segments that can be hun on hangers in the tent or in the
-
-    hanging dryer rack.
-
-7.  Turn off the fan in the tent and only use the exhaust.
-
-8.  Wait about 2 weeks maximum for the plant to dry to a point that you
-
-    can hear the stems snap. They do not need to snap cleanly off.
+1.  **Retaining the proper humidity is critical at this step or it will destroy the quality of the crop by drying out and getting super brittle. You need to not let the humidifier run out of water ever, so using a top-off refill system and a large water supply to it is ideal. They sell these for fish tanks.**
+1.  Temperature range during this time should be 60-70F with humidity at 55-62%
+1.  The tent should be dark. The light can be removed to make room for hanging.
+1.  Instead of the drying rack, which I used the first time, I read that people had good results by chopping the entire plant at the base and hanging it upside down in the ten. Just trim the dead leaves only.
+1.  The goal is for it to dry slowly, which will retain density and flavor.
+1.  If there is not enough room to do this, just split up the plant into smaller segments that can be hun on hangers in the tent or in the hanging dryer rack.
+1.  Turn off the fan in the tent and only use the exhaust.
+1.  Wait about 2 weeks maximum for the plant to dry to a point that you can hear the stems snap. They do not need to snap cleanly off.
 
 
 
 ## Trimming and Curing {#trimming_and_curing}
 
-
-
-1.  Cut large stems from the hanging branches and trim over the trim bin
-
-    to ensure that kief (trichome dust) is collected, it can be used for
-
-    butter. Trim the large brush leaves that do not have any trichomes
-
-    on them, then trim some of the sugar leafs to make the bud look
-
-    nice, but save these sugar leafs along with the keif for cooking.
-
-2.  Put the buds either in mason jars or in cure bags with hygrometers.
-
-    Don\'t put the humidity bags in the jars yet. Those go in after 3
-
-    days so that the bud has time to distribute its own moisture first.
-
-3.  The ideal humidity in the jars and bags is 62%. I leave everything
-
-    in the tent still with the lights out.
-
-4.  Open the jars for about 5 minutes in the tent daily. Have the tent
-
-    at 55-62% humidity during this process. The idea is to match the
-
-    humidity, but simply introduce fresh air. You do this every day for
-
-    about a week, then once the next two weeks, then it should be cured
-
-    and storable.
-
-5.  It can be smoked before curing, but is better tasting and smoother
-
-    if cured.
-
+1.  Cut large stems from the hanging branches and trim over the trim bin to ensure that kief (trichome dust) is collected, it can be used for butter. Trim the large brush leaves that do not have any trichomes on them, then trim some of the sugar leafs to make the bud look nice, but save these sugar leafs along with the keif for cooking.
+1.  Put the buds either in mason jars or in cure bags with hygrometers. Don\'t put the humidity bags in the jars yet. Those go in after 3 days so that the bud has time to distribute its own moisture first.
+1.  The ideal humidity in the jars and bags is 62%. I leave everything in the tent still with the lights out.
+1.  Open the jars for about 5 minutes in the tent daily. Have the tent at 55-62% humidity during this process. The idea is to match the humidity, but simply introduce fresh air. You do this every day for about a week, then once the next two weeks, then it should be cured and storable.
+1.  It can be smoked before curing, but is better tasting and smoother if cured.
 
 
 ## Troubleshooting
 
-
-
 ### Tweaking humidity {#tweaking_humidity}
 
+-   **If you're looking to drive down humidity in your grow space, try the following:**
+1.  Run your exhaust vent on higher velocities to push more hot air out of the room (remember, hot air holds more water).
+1.  Increase the cool air supply.
+1.  Water your plants right at the beginning of their light period.
+1.  Use a dehumidifier.
 
 
--   **If you're looking to drive down humidity in your grow space, try
-
-    the following:**
-
-
-
-1.  Run your exhaust vent on higher velocities to push more hot air out
-
-    of the room (remember, hot air holds more water).
-
-2.  Increase the cool air supply.
-
-3.  Water your plants right at the beginning of their light period.
-
-4.  Use a dehumidifier.
-
-
-
--   **If, on the other hand, you want to increase the humidity levels in
-
-    your grow space, try this:**
-
-
-
+-   **If, on the other hand, you want to increase the humidity levels in your grow space, try this:**
 1.  Turn down your exhaust fan to keep more warm air in your grow space.
-
-2.  Increase the temperature in your grow space.
-
-3.  Mist your plants (don't do this to flowering plants to avoid bud
-
-    rot).
-
-
+1.  Increase the temperature in your grow space.
+1.  Mist your plants (don't do this to flowering plants to avoid bud rot).
 
 -   **If your bud dried up and is brittle:**
-
-
-
-1.  When in the tent still, you can try raising the humidity for a bit
-
-    to see if it rehydrates. If in jars or bags, the humidity bags
-
-    should help. Some people add some orange peels to the bags, but be
-
-    careful that this does not cause mold.
+1.  When in the tent still, you can try raising the humidity for a bit to see if it rehydrates. If in jars or bags, the humidity bags should help. Some people add some orange peels to the bags, but be careful that this does not cause mold.
 
