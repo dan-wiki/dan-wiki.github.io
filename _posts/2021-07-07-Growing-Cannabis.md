@@ -26,11 +26,11 @@ tags: [hobbies,growing,plants]
 | TOTAL    |            | $356.86    ||                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                          
 
 
-### Ongoing Supply Notes
+### A Note Regarding Costs
 
 -   Most of these items will last multiple grows with the exception of all air purifying items, the humidor packets, and the seeds, so it can be assumed that each grow cycle costs approximately \$205 (pre-tax) in supplies. The light and fan electrical costs \$20/mo and the heat costs \$70/mo in the winter. That places the total spend for this single plant configuration considering 8 weeks of vegetation and 12 weeks of bloom in the winter at about \$650.
 -   It is far cheaper to grow in months were the heater is not needed, which would total \$305. If the yield is 4oz. and each ounce at the medical dispensary is \$450, there is very clear savings. A winter grow would cost about \$160/oz, which is a 65% savings and a summer grow is \$75/oz, which is about an 85% savings.
--   The mini-heater probably shouldn\'t go inside the tent. I found that it works well if the heat regulator controls the heater and the intake fan and is place in-line on the outside. I raised the tent off the concrete floor, and better insulated the garage. This helpes lower costs to a more tolerable level. Update: I am no longer doing winter grows in the garage and have moved to a climate controller area of the house. This made the electric bills go way down.
+-   The mini-heater probably shouldn\'t go inside the tent. I found that it works well if the heat regulator controls the heater and the intake fan and is placed in-line on the outside. I raised the tent off the concrete floor, and better insulated the garage. This helpes lower costs to a more tolerable level. Update: I am no longer doing winter grows in the garage and have moved to a climate controlled area within the house. This made the electric bills go way down.
 -   I am experimenting with curing bags vs. burping daily in mason jars and humidor packs, however both are still needed since I\'ll ultimately store the finished bud in the jars with the packs. Update: both work fine. I am leaning more towards mason jars because they are cheap and store a lot.
 
 
@@ -109,7 +109,7 @@ tags: [hobbies,growing,plants]
 | **8**              | 3tsp (1.5cap) |               | 2tsp (1cap)     |                  |                 |                          |
 | **9**              | 3tsp (1.5cap) |               | 1tsp (.5 cap)   |                  |                 |                          |
 
-Mix in a gallon of R/O or very pure water.
+Always mix using a full gallon jug of R/O or very pure water.
 
 
 #### Soil Feeding Schedule
@@ -383,16 +383,16 @@ Mix in a gallon of R/O or very pure water.
 
 1.  Everything going forward happens in the tent
 1.  Throughout the whole process ensure the light is \"18 away. This was the recommendation for the light used for these notes, but consult the light\'s manual.
-1.  Normal watering is 500ml daily from auto-watering system, which is about a 2 minute set drip
-1.  On Sunday and Wednesday, in addition to the standard daily watering, open the tent and add a 500ml water bottle of the current solution\# to the soil
+1.  Normal watering is a half-gallon daily from auto-watering system, which is about a 2 minute set drip, but you can simulate by pumping into a container to measure
+1.  On Sunday and Wednesday, instead (or sometimes in addition to) standard daily watering, open the tent and add a gallon of the current solution\# to the soil
 1.  Use the hydrometer to ensure that the soil is not too wet or that PH is not incorrect
     1.  Adjust accordingly for either. You may have to buy a PH Up and Down solution pack, which is readily available online or in gardening centers
     1.  Maintain a pH of 5.6 to 6.8 to prevent nutrient lockout and reduce stress on plants
 1.  Once the plant has two sets of leaves, place under more intense light 1000W equivalent LED with just the vegetation lighting setting on.
 1.  Ensure that all fans are turned on and that the temperature is 70-80F during the day and 65-75F at night. The humidity should be between 55-70%.
 1.  The first leaves will start to wither as they are overtaken by new growth. Replant at this point in a 5 gallon grow bag using the potting soil per the shopping list
-1.  Water normally each day until the soil is moist throughout
-1. Once the plant is about a foot tall, replant in a 10 gallon grow bag
+1.  Auto-water normally each day until the soil is moist throughout
+1. Once the plant is about a foot tall, replant in a 10 gallon grow bag or just stick with the 5 gallon. It varies by plant breed and tent size.
 1. Continue with the vegetation feed schedule and lighting until the plant is half-way up in the tent with respect to the highest possible position of the light. When the bloom phase starts, it will shoot up quickly
 
 
@@ -400,10 +400,21 @@ Mix in a gallon of R/O or very pure water.
 
 This is a more advanced approach and I have not mastered it yet. I am more focused lately on learning to remove small shoots to promote focused energy towards larger buds. Firstly, while the plant is growing it is best to use a net to guide individual branches away from one another, so that they have space to grow. Then, to maximize the amount of flowers, you need to provide as much surface area to the direct light as possible. The branches can be bent carefully to a fully 90 degree angle. They should not break if done very carefully. You can choose to use the bending clips. They don\'t always stay on, but give an idea of how significant and angle can be formed. This should be down around half-way to the light. The stems will start growing back upward again and the process might be able to be repeated one more time before or during early flowering to make the branches bend back and forth like vines.
 
+## Pruning
+
+You should prune the thinner stems, which will refocus energy to the thicker ones and cause denser buds.
+
+## Cloning
+
+1. You must clone the plant. It is foolish not to. When you sprout a good plant, you will want the same experience again and seeds are expensive and finnicky.  Cloning is very easy.  
+1. Any time prior to the bloom, remove a stem with several offshooting leaves. retain the top leaves, but clip the lower ones to thr base of their stems. Dip the stems in growth hormone and place in water test tubes for a week.
+1. Transfer the stem to a cup with seed starter soil.  This will create a new plant thst can be repotted into the tent in about 2-3 weeks. Make several, so at least one works out. You can use a weak USB LED on these until tjr time of transplant to the tent.
+1. There are lots of YouTube videos on this process.
 
 ## Bloom
 
 1.  When the plant has reached 5 weeks (per chart), change the light to 12 hours and turn on the bloom setting and leave on the vegetation light as well per your light manual\'s recommendations
+1.  5 weeks is just a suggestion. Many times, the plant needs longer to get bushier and fill up more space. This also can be the case if you need time to have the plant rebound from improper watering, humidity, etc.
 1.  Temperature range during this time should be 68-78F with humidity at 40-55%
 
 
@@ -411,7 +422,7 @@ This is a more advanced approach and I have not mastered it yet. I am more focus
 
 -   As the plant has grown mature buds and the trichomes start to get cloudy as described below, the humidity can be tweaked to ensure that mold growth does not form.
 -   65-75F, 30-40% humidity
--   Ideally, when this occurs, you should be two week out from harvest, so stop providing fertilizer to the plant, but keep giving it enough water or it will potentially dry out. This step is primarily to make the plant cannibalize its remaining resources in the brush leaves. Some people think the flush also ensure that any fertilizer used won\'t be detectable when smoking the bud later. The plants own remaining nutrient stores are good for the health of the buds and trichomes. You will see the brush leaves start to yellow or die by doing this, but that is okay since this is the end of the process.
+-   Ideally, when this occurs, you should be two week out from harvest, so stop providing fertilizer to the plant, but keep giving it enough water or it will potentially dry out. This step is primarily to make the plant cannibalize its remaining resources in the brush leaves. Some people think the flush also ensures that any fertilizer used won\'t be detectable when smoking the bud later. The plants own remaining nutrient stores are good for the health of the buds and trichomes. You will see the brush leaves start to yellow or die by doing this, but that is okay since this is the end of the process.
 
 
 ## Harvest Timing
@@ -431,18 +442,17 @@ This is a more advanced approach and I have not mastered it yet. I am more focus
 1.  Wait about 2 weeks maximum for the plant to dry to a point that you can hear the stems snap. They do not need to snap cleanly off.
 
 
-## Trimming and Curing {#trimming_and_curing}
+## Trimming and Curing
 
 1.  Cut large stems from the hanging branches and trim over the trim bin to ensure that kief (trichome dust) is collected, it can be used for butter. Trim the large brush leaves that do not have any trichomes on them, then trim some of the sugar leafs to make the bud look nice, but save these sugar leafs along with the keif for cooking.
 1.  Put the buds either in mason jars or in cure bags with hygrometers. Don\'t put the humidity bags in the jars yet. Those go in after 3 days so that the bud has time to distribute its own moisture first.
 1.  The ideal humidity in the jars and bags is 62%. I leave everything in the tent still with the lights out.
 1.  Open the jars for about 5 minutes in the tent daily. Have the tent at 55-62% humidity during this process. The idea is to match the humidity, but simply introduce fresh air. You do this every day for about a week, then once the next two weeks, then it should be cured and storable.
-1.  It can be smoked before curing, but is better tasting and smoother if cured.
-
+1.  It can be smoked before curing, but is better tasting and smoother if cured. Don't attempt to smoke or vape it before drying. I attempted this and it boiles the water in the weed and is dangerous and ineffective
 
 ## Troubleshooting
 
-### Tweaking humidity {#tweaking_humidity}
+### Tweaking humidity 
 
 -   **If you're looking to drive down humidity in your grow space, try the following:**
 1.  Run your exhaust vent on higher velocities to push more hot air out of the room (remember, hot air holds more water).
@@ -459,3 +469,4 @@ This is a more advanced approach and I have not mastered it yet. I am more focus
 -   **If your bud dried up and is brittle:**
 1.  When in the tent still, you can try raising the humidity for a bit to see if it rehydrates. If in jars or bags, the humidity bags should help. Some people add some orange peels to the bags, but be careful that this does not cause mold.
 
+## Enjoy!!
