@@ -110,80 +110,20 @@ Mix in a gallon of R/O or very pure water.
 
 #### Soil Feeding Schedule {#soil_feeding_schedule}
 
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>Germination</p></th>
-<th><p>Vegetation</p></th>
-<th><p>Flush</p></th>
-<th><p>Early Bloom</p></th>
-<th><p>Flush</p></th>
-<th><p>Mid-Bloom</p></th>
-<th><p>Late Bloom</p></th>
-<th><p>Flush</p></th>
-<th><p>Harvest</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Week</p></td>
-<td><p>0</p></td>
-<td><p>1</p></td>
-<td><p>2</p></td>
-<td><p>3</p></td>
-<td><p>4</p></td>
-<td><p>4.5</p></td>
-<td><p>5</p></td>
-<td><p>6</p></td>
-<td><p>7</p></td>
-</tr>
-<tr class="even">
-<td><p>Light</p></td>
-<td><p>0</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>18/6<br />
-4pm-10am</p></td>
-<td><p>12/12<br />
-8pm-8am</p></td>
-<td><p>12/12<br />
-8pm-8am</p></td>
-<td><p>12/12<br />
-8pm-8am</p></td>
-</tr>
-<tr class="odd">
-<td><p>Nutrient Timing</p></td>
-<td><p>Mon</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Fri</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-<td><p>Sun, Wed</p></td>
-</tr>
-<tr class="even">
-<td><p>Gallon Solution #</p></td>
-<td><p>1</p></td>
-<td><p>2</p></td>
-<td><p>3</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>5</p></td>
-<td><p>6</p></td>
-<td><p>6</p></td>
-<td><p>6</p></td>
-</tr>
-</tbody>
-</table>
+| **Germination**       | **Vegetation** | **Flush**     | **Early Bloom** | **Flush**     | **Mid-Bloom** | **Late Bloom** | **Flush**     | **Harvest**   |
+|-----------------------|----------------|---------------|-----------------|---------------|---------------|----------------|---------------|---------------|
+| **Week**              | 0              | 1             | 2               | 3             | 4             | 4.5            | 5             | 6             | 7             |
+| **Light**             | 0              | 18/6
+4pm-10am | 18/6
+4pm-10am   | 18/6
+4pm-10am | 18/6
+4pm-10am | 18/6
+4pm-10am  | 12/12
+8pm-8am | 12/12
+8pm-8am | 12/12
+8pm-8am |
+| **Nutrient Timing**   | Mon            | Sun, Wed      | Sun, Wed        | Sun, Wed      | Sun, Wed      | Fri            | Sun, Wed      | Sun, Wed      | Sun, Wed      |
+| **Gallon Solution #** | 1              | 2             | 3               | 4             | 4             | 5              | 6             | 6             | 6             |
 
 
 ### Important Warnings Before Starting
