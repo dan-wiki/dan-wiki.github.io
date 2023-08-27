@@ -398,7 +398,8 @@ Always mix using a full gallon jug of R/O or very pure water.
 
 ## Super Cropping
 
-This is a more advanced approach and I have not mastered it yet. I am more focused lately on learning to remove small shoots to promote focused energy towards larger buds. Firstly, while the plant is growing it is best to use a net to guide individual branches away from one another, so that they have space to grow. Then, to maximize the amount of flowers, you need to provide as much surface area to the direct light as possible. The branches can be bent carefully to a fully 90 degree angle. They should not break if done very carefully. You can choose to use the bending clips. They don\'t always stay on, but give an idea of how significant and angle can be formed. This should be down around half-way to the light. The stems will start growing back upward again and the process might be able to be repeated one more time before or during early flowering to make the branches bend back and forth like vines.
+1. This is a more advanced approach and I have not mastered it yet. I am more focused lately on learning to remove small shoots to promote focused energy towards larger buds. 
+1. To maximize the amount of flowers, you need to provide as much surface area to the direct light as possible. The branches can be bent carefully to a fully 90 degree angle. They should not break if done very carefully. You can choose to use the bending clips. They don\'t always stay on, but give an idea of how significant and angle can be formed. This should be down around half-way to the light. The stems will start growing back upward again and the process might be able to be repeated one more time before or during early flowering to make the branches bend back and forth like vines.
 
 ## Pruning
 
