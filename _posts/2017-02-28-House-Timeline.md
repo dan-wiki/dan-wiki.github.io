@@ -572,4 +572,5 @@ tags: [house,finance,timeline]
     added a third, added UV water filter, added filter system bypass,
 
     pressure gauge, and added pathogen killing device to A/C. \$6k
-
+-   2023-05-xx: Master shower packing had to be rebuilt. Plumber saved us from a larger job by dealing with the components instead of a full replace. $250
+-   2023-10-27: Both toilet gaskets needed to be replaced due to leakage. $400 
