@@ -9,9 +9,9 @@ tags: ['duncan hines', 'vanilla pudding', 'oil', 'rum', 'eggs', 'almond extract'
 
 ## Grandma\'s version
 
--   1 Box Duncan Hines (Yellow) / butter cake mix
--   1 Box Vanilla Pudding
--   6 oz oil
+-   1 15.25oz Box Duncan Hines (Classic Yellow) / butter cake mix
+-   1 3.5oz Box Vanilla Pudding or measure from a 5oz
+-   6 oz vegetable oil
 -   6 oz rum (Dad claims that she used rum extract)
 -   5 eggs
 -   1.5 tsp almond extract (optional)
