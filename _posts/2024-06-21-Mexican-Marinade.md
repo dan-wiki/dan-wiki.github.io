@@ -16,6 +16,7 @@ tags: [Mexican, marinade, spicy]
 - 1 dried cayenne pepper
 - 1/4 teaspoon black pepper
 - 1 tablespoon cumin powder
+- 1 tablespoon dark chili powder
 - 1/2 teaspoon cumin seed
 - Bay leaves
 - 1/4 cup apple cider vinegar
@@ -28,6 +29,7 @@ tags: [Mexican, marinade, spicy]
 - 1 teaspoon Sazonador Goya
 - 1 teaspoon oregano
 - 1 teaspoon parsley
+- 1 teaspoon onion powder
 
 ## Instructions
 
