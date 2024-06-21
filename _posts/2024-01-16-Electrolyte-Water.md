@@ -10,6 +10,7 @@ tags: [keto,electrolytes]
 -   1tsp Sel Gris (Grey Salt) - M.Gilles Hervy is a decent brand
 -   1/2tsp Keto K1000 Unflavored powder
 -   1/4tsp Pink Himalayan rock salt 
+-   1/2tsp Iodized Salt
 -   48oz water
 
 ## Instructions
