@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Thanksgiving Menu"
+title: "2024 Thanksgiving Menu"
 date: 2024-11-27
 categories: menus american
 tags: thanksgiving
