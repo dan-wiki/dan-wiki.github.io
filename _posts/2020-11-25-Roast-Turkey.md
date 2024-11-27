@@ -2,7 +2,7 @@
 title: Roast Turkey
 date: 2020-11-25 20:37:00 -500
 categories: [turkey,whole,american,oven,roast]
-tags: ['thanksgiving','turkey', 'onion', 'lemon', 'apple', 'rosemary', 'thyme', 'sage', 'butter', 'salt', 'black pepper', 'garlic', 'celery', 'carrots', 'thaw', 'roasting', 'elevate', 'preheat', 'combine', 'remove', 'season', 'stuff', 'loosen', 'tuck', 'microwave', 'brush', 'roast', 'check', 'cover', 'tent', 'rest', 'carving','thanksgiving']
+tags: ['thanksgiving','turkey', 'onion', 'lemon', 'apple', 'rosemary', 'thyme', 'sage', 'butter', 'salt', 'black pepper', 'garlic', 'celery', 'carrots', 'thaw', 'roasting', 'elevate', 'preheat', 'combine', 'remove', 'season', 'stuff', 'loosen', 'tuck', 'microwave', 'brush', 'roast', 'check', 'cover', 'tent', 'rest', 'carving']
 ---
 
 ## Ingredients
