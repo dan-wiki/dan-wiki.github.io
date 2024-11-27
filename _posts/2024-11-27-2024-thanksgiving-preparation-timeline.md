@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thanksgiving Preparation Timeline"
+title: "2024 Thanksgiving Preparation Timeline"
 date: 2024-11-27
 categories: planning american
 tags: thanksgiving
