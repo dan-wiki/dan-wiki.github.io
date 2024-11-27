@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "2024 Thanksgiving Shopping List"
+title: 2024 Thanksgiving Shopping List
 date: 2024-11-27
 categories: planning american
 tags: thanksgiving
