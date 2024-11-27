@@ -14,6 +14,7 @@ tags: thanksgiving
 
 ### Produce
 - Jalapeños
+- Cucumber
 - Strawberries (1 1/2 cups)
 - Red Bell Pepper (1)
 - Red Onion (1 small)
@@ -22,6 +23,7 @@ tags: thanksgiving
 - Garlic (6-8 cloves + 1 large clove)
 - Onion (1)
 - Lemon (1)
+- Limes (3)
 - Apple (1)
 - Celery (4-5 ribs)
 - Carrots (4 large)
@@ -93,8 +95,9 @@ tags: thanksgiving
 - Winter Beer Selection
 - Bourbon
 - Tequila
+- Gin
 - Club Soda
-- Sparkling Water
+- Seltzers
 - Apple Cider
 - Coffee (with cream and sugar)
 
