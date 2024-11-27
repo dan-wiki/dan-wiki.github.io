@@ -33,32 +33,32 @@ tags: thanksgiving
    - Toast the pecans for the salad.
    - Wash and slice strawberries and prepare other salad ingredients. Store separately in airtight containers.
 
----
+—
 
 ### **Thanksgiving Day**
 
-#### **8:30 AM - 9:30 AM**
+#### **9:30 AM - 10:30 AM**
 - **Turkey Prep**:
   - Take the turkey out of the fridge to come to room temperature.
   - Prep the turkey with herb butter, seasonings, and stuffing (if stuffing it).
-  - Preheat the oven to 325°F.
+  - Preheat the oven to 325Â°F.
 
-#### **9:30 AM - 10:00 AM**
+#### **11:30 AM**
 - **Turkey in the Oven**:
   - Start roasting the turkey. For a 20-pound turkey, it will take about 4-4.5 hours.
 
-#### **10:00 AM - 11:00 AM**
+#### **12:30 PM**
 - **Final Prep for Sides**:
   - Add toppings to the Sweet Potato Casserole (marshmallows).
   - Add the topping to the Green Bean Casserole.
   - Prepare stuffing if making it fresh (can be assembled and set aside for baking later).
 
-#### **11:00 AM**
+#### **1:00 PM**
 - **Start Appetizers**:
-  - Arrange onion dip, hummus, salsa, pork rinds, chips, and cut veggies.
+  - Arrange onion dip, chips, and cut veggies.
   - Prep cows in a blanket; cover and refrigerate until ready to bake.
 
-#### **12:30 PM**
+#### **1:30 PM**
 - **Baking Appetizers**:
   - Bake cows in a blanket (12-15 minutes). Keep warm in the oven if needed.
 
@@ -68,17 +68,19 @@ tags: thanksgiving
 
 #### **3:30 PM**
 - **Turkey Check**:
-  - Check the turkey’s internal temperature (should reach 165°F in the breast and thigh).
+  - Check the turkeyâs internal temperature (should reach 165Â°F in the breast and thigh).
   - Tent with foil if the skin is browning too quickly.
 
-#### **4:00 PM**
+#### **4:30 PM**
+- **Turkey Rest**:
+  - Remove the turkey from the oven and tent with foil. Let rest for 20-30 minutes.
+
+#### **4:30 PM**
 - **Side Dishes in the Oven**:
-  - Remove the turkey from the oven, tent with foil, and let rest for 20-30 minutes.
-  - Increase the oven temperature to 375°F.
   - Bake Sweet Potato Casserole, Green Bean Casserole, Stuffing, and Cheesy Mashed Potatoes in the second oven.
   - Warm the Swedish meatballs on the stovetop.
 
-#### **4:30 PM**
+#### **4:45 PM**
 - **Gravy**:
   - Make the turkey giblet gravy with drippings from the turkey.
 
@@ -90,19 +92,19 @@ tags: thanksgiving
 - Carve the turkey and serve with sides, gravies, and cranberry sauce.
 - Bring out rolls/biscuits, if applicable.
 
----
+—
 
 ### **Tips**
 - **Double Oven Users**:
   - Bake appetizers and sides in the second oven while the turkey roasts.
-  - Use one oven at 325°F for the turkey and the other at 375°F for sides.
+  - Use one oven at 325Â°F for the turkey and the other at 375Â°F for sides.
   
 - **Stagger Baking Times**:
-  - Bake casseroles and gratins in sequence if oven space is limited, keeping earlier dishes warm in a low oven (200°F) or covered with foil.
+  - Bake casseroles and gratins in sequence if oven space is limited, keeping earlier dishes warm in a low oven (200Â°F) or covered with foil.
 
 - **Delegate**:
   - Assign easy tasks like tossing the salad or setting up appetizers to guests who offer to help.
 
----
+—
 
 This timeline ensures a smooth and stress-free Thanksgiving Day, with all dishes ready on time. Enjoy your holiday!
