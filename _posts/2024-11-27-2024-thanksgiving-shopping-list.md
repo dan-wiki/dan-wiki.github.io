@@ -31,8 +31,12 @@ tags: thanksgiving
 - Spinach (6 cups)
 - Avocado (optional, 1)
 - Dried Cranberries or Cherries (optional, 1/4 cup)
+- Orange (for zest)
+- Chives
+- Yellow Onion (1)
+- Fresh Chives (optional)
 
----
+—
 
 ### Dairy
 - Butter (1 1/4 cups)
@@ -41,11 +45,12 @@ tags: thanksgiving
 - Cheddar Cheese (3/4 cup)
 - Parmesan (40g / 1.4oz)
 - Goat Cheese (1/3 cup)
-- Sour Cream (1/2 cup)
+- Sour Cream (1 cup)
+- Mayonnaise (1 cup)
 - Milk (3/4 cup)
 - Whipped Cream
 
----
+—
 
 ### Meat
 - Hebrew National Beef Franks (12oz)
@@ -53,7 +58,7 @@ tags: thanksgiving
 - Turkey (12-20 lbs)
 - Bacon (4 slices)
 
----
+—
 
 ### Pantry
 - Pillsbury Crescent Rolls (1 package)
@@ -71,8 +76,16 @@ tags: thanksgiving
 - Cinnamon (1 tsp)
 - Nutmeg (1/2 tsp)
 - Vanilla Extract (1/2 tsp)
+- Pecans (1/2 cup)
+- Mini Marshmallows (2 cups)
+- Beef Gravy (jar or can)
+- Food Takeout Containers
+- Unsalted Butter or Olive Oil (1-2 tbsp)
+- Worcestershire Sauce (1 tsp)
+- Garlic Powder (1/2 tsp)
+- Onion Powder (1/2 tsp)
 
----
+—
 
 ### Beverages
 - Red Wine
@@ -85,12 +98,12 @@ tags: thanksgiving
 - Apple Cider
 - Coffee (with cream and sugar)
 
----
+—
 
 ### Baking
 - Pumpkin Pie (store-bought)
 - Apple Pie (store-bought)
 
----
+—
 
-This comprehensive shopping list will ensure you're ready for your Thanksgiving feast. Happy cooking!
+This comprehensive shopping list will ensure you’re ready for your Thanksgiving feast. Happy cooking!

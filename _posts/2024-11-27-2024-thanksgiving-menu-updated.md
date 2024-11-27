@@ -8,6 +8,8 @@ tags: thanksgiving
 
 ### Appetizers
 - Jalapeño Agave Chips and Salsa
+- Pork Rinds and Onion Dip
+- Hummus and Veggies
 - Swedish Meatballs
 - Cows in a Blanket
 
