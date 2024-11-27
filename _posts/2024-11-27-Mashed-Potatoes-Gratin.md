@@ -1,10 +1,10 @@
-—
+——-
 layout: post
-title: “Cheesy Mashed Potato Gratin”
+title: "Cheesy Mashed Potato Gratin"
 date: 2024-11-27 00:00:01 -500
 categories: [vegetables, american]
 tags: [thanksgiving]
-—
+——-
 
 
 ### Ingredients
