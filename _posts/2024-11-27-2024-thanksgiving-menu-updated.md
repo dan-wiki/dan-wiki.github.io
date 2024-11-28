@@ -8,8 +8,7 @@ tags: thanksgiving
 
 ### Appetizers
 - Jalapeño Agave Chips and Salsa
-- Pork Rinds and Onion Dip
-- Hummus and Veggies
+- Pork Rinds, Veggies, and Onion Dip
 - Swedish Meatballs
 - Cows in a Blanket
 
@@ -38,7 +37,7 @@ tags: thanksgiving
 
 ### Desserts
 - Pumpkin Pie (with fresh whipped cream)
-- Apple Pie (with fresh whipped cream)
+- Fruit
 
 ---
 
@@ -50,6 +49,5 @@ tags: thanksgiving
 - Tequila
 - Club Soda Mixers
 - Sparkling Water
-- Apple Cider
 - Coffee (with cream, sugar, and cinnamon sticks)
 - Assorted Accompaniments
