@@ -37,28 +37,28 @@ tags: thanksgiving
 
 ### **Thanksgiving Day**
 
-#### **9:30 AM - 10:30 AM**
+#### **9:30 AM - 10:00 AM**
 - **Turkey Prep**:
   - Take the turkey out of the fridge to come to room temperature.
   - Prep the turkey with herb butter, seasonings, and stuffing (if stuffing it).
   - Preheat the oven to 325Â°F.
 
-#### **11:30 AM**
+#### **11:30 AM - 12:00 PM**
 - **Turkey in the Oven**:
   - Start roasting the turkey. For a 20-pound turkey, it will take about 4-4.5 hours.
 
-#### **12:30 PM**
+#### **10:00 AM - 11:00 AM**
 - **Final Prep for Sides**:
   - Add toppings to the Sweet Potato Casserole (marshmallows).
   - Add the topping to the Green Bean Casserole.
   - Prepare stuffing if making it fresh (can be assembled and set aside for baking later).
 
-#### **1:00 PM**
+#### **11:00 AM**
 - **Start Appetizers**:
   - Arrange onion dip, chips, and cut veggies.
   - Prep cows in a blanket; cover and refrigerate until ready to bake.
 
-#### **1:30 PM**
+#### **12:30 PM**
 - **Baking Appetizers**:
   - Bake cows in a blanket (12-15 minutes). Keep warm in the oven if needed.
 
@@ -66,17 +66,15 @@ tags: thanksgiving
 - Serve appetizers (chips, dip, veggies, meatballs, cows in a blanket).
 - Relax and mingle with guests while monitoring the turkey.
 
-#### **3:30 PM**
+#### **4:00 PM**
 - **Turkey Check**:
   - Check the turkeyâs internal temperature (should reach 165Â°F in the breast and thigh).
   - Tent with foil if the skin is browning too quickly.
 
 #### **4:30 PM**
-- **Turkey Rest**:
-  - Remove the turkey from the oven and tent with foil. Let rest for 20-30 minutes.
-
-#### **4:30 PM**
-- **Side Dishes in the Oven**:
+- **Turkey Out of the Oven**:
+  - Remove the turkey, tent with foil, and let rest for 30 minutes.
+  - Increase the oven temperature to 375Â°F.
   - Bake Sweet Potato Casserole, Green Bean Casserole, Stuffing, and Cheesy Mashed Potatoes in the second oven.
   - Warm the Swedish meatballs on the stovetop.
 
@@ -84,7 +82,7 @@ tags: thanksgiving
 - **Gravy**:
   - Make the turkey giblet gravy with drippings from the turkey.
 
-#### **4:45 PM**
+#### **4:50 PM**
 - **Final Salad Assembly**:
   - Toss the salad with the vinaigrette and add the toasted pecans, strawberries, and goat cheese.
 
