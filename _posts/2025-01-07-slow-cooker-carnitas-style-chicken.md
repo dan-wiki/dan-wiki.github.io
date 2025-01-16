@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Slow Cooker Carnitas-Style Chicken
+title: "Slow Cooker Carnitas-Style Chicken"
 date: 2025-01-07
 categories: [recipes, slow-cooker, chicken]
 tags: [carnitas, sazon-goya, crispy-chicken, citrus, easy-recipes]
-description: A flavorful carnitas-style chicken with crispy skin, finished in the oven.
 ---
 
-## Ingredients
+### Ingredients
 
   - 2-3 bone-in chicken leg quarters
   - 1-2 tsp cumin
@@ -21,7 +20,7 @@ description: A flavorful carnitas-style chicken with crispy skin, finished in th
   - Black pepper, to taste
   - Optional: 1 tsp smoked paprika
   
-## Steps
+### Steps
 
   - In a small bowl, mix cumin, garlic powder, onion powder, oregano, Sazón Goya, salt, and pepper.
   - Rub the spice mixture evenly over the chicken leg quarters.
@@ -33,7 +32,7 @@ description: A flavorful carnitas-style chicken with crispy skin, finished in th
   - Roast in the oven for 10-15 minutes until the skin is golden and crispy. (Optional: Broil for 2-3 minutes for extra crispness.)
   - Serve with your favorite toppings or sides, like tortillas, salsa, and fresh cilantro.
 
-## Notes
+### Notes
 
   - The Sazón Goya adds a vibrant flavor and color to the dish, enhancing the savory profile.
   - Keep an eye on the chicken during broiling to prevent burning.
