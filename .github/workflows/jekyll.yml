@@ -2,8 +2,7 @@ name: "Build and Deploy Jekyll"
 
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -25,9 +24,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"    # Adjust if needed
+          ruby-version: "3.1"
           bundler-cache: true
-          cache-version: 1
 
       - name: Setup Pages
         id: pages
@@ -41,12 +39,15 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      # Optional debug step to ensure _site is present
+      - name: Check _site directory
+        run: ls -la _site
+
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: _site
-          retention-days: 1
 
   deploy:
     needs: build
