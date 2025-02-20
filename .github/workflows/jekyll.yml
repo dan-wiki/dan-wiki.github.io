@@ -1,4 +1,4 @@
-name: "Build and Deploy Jekyll"
+name: "Build and Deploy with GitHub Pages"
 
 on:
   push:
@@ -10,12 +10,8 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout
@@ -42,37 +38,9 @@ jobs:
       - name: Debug _site directory
         run: ls -la _site
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages      # Must match download
-          path: _site
-
-  deploy:
-    needs: build                  # Wait for build job to finish
-    runs-on: ubuntu-22.04
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Download Artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages     # Must match upload
-          path: site-artifact   # Download into a subfolder
-
-      - name: Debug downloaded artifact
-        run: ls -la site-artifact
-
-      - name: Move Site to Root
-        # Move everything from 'site-artifact/' to '.'
-        # so that deploy-pages@v2 finds index.html, etc.
-        shell: bash
-        run: |
-          shopt -s dotglob
-          mv site-artifact/* .
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v1
+        # or v2 if available
 
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v2
