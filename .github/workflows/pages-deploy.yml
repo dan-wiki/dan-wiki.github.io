@@ -37,10 +37,10 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4  # Ensure correct version
+        uses: actions/upload-artifact@v4  # Ensure v4
         with:
-          name: github-pages  # Artifact name
-          path: _site         # Jekyll output directory
+          name: github-pages  # Must match deploy step
+          path: _site
           retention-days: 1
 
   deploy:
@@ -52,9 +52,9 @@ jobs:
 
     steps:
       - name: Download Artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v4  # Ensure v4
         with:
-          name: github-pages  # Ensure this matches the uploaded artifact
+          name: github-pages  # Must match upload step
 
       - name: Deploy to GitHub Pages
         id: deployment
