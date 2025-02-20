@@ -1,8 +1,9 @@
-name: Deploy Jekyll site to Pages
+name: "Build and Deploy Jekyll"
 
 on:
   push:
-    branches: ["main"]
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -16,23 +17,26 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # Ensures a stable environment
+    runs-on: ubuntu-22.04
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"
+          ruby-version: "3.1"    # Adjust if needed
           bundler-cache: true
-          cache-version: 1  # Ensures cache stability
+          cache-version: 1
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Build with Jekyll
+      - name: Install Dependencies
+        run: bundle install
+
+      - name: Build Jekyll Site
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
@@ -40,7 +44,7 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages  # Ensure consistency with deploy step
+          name: github-pages
           path: _site
           retention-days: 1
 
@@ -55,7 +59,7 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
-          name: github-pages  # Must match the upload step
+          name: github-pages
 
       - name: Deploy to GitHub Pages
         id: deployment
