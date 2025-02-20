@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # Use a stable Ubuntu version with Ruby
+    runs-on: ubuntu-22.04  # Ensures a stable environment
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -26,6 +26,7 @@ jobs:
         with:
           ruby-version: "3.1"
           bundler-cache: true
+          cache-version: 1  # Ensures cache stability
 
       - name: Setup Pages
         id: pages
@@ -37,9 +38,9 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4  # Ensure correct action
+        uses: actions/upload-artifact@v4
         with:
-          name: github-pages
+          name: github-pages  # Ensure consistency with deploy step
           path: _site
           retention-days: 1
 
@@ -54,7 +55,7 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
-          name: github-pages
+          name: github-pages  # Must match the upload step
 
       - name: Deploy to GitHub Pages
         id: deployment
