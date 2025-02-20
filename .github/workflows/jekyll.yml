@@ -39,9 +39,8 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      # Optional debug step to ensure _site is present
       - name: Check _site directory
-        run: ls -la _site
+        run: ls -la _site  # Confirm _site is populated
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
@@ -61,6 +60,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: github-pages
+          path: .           # <-- puts site files in current directory
 
       - name: Deploy to GitHub Pages
         id: deployment
