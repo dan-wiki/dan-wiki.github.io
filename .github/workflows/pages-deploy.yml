@@ -5,21 +5,13 @@ on:
     branches:
       - main
       - master
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
 
-  workflow_dispatch:  # Allows manual workflow runs
+  workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
 
 jobs:
   build:
@@ -27,28 +19,28 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Updated to the latest version
+        uses: actions/checkout@v4
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4  # Ensure latest Pages action
+        uses: actions/configure-pages@v4
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3   # Reads from '.ruby-version' or '.tools-version' if not specified
+          ruby-version: 3
 
       - name: Install Dependencies
         run: bundle install
 
-      - name: Build Site
+      - name: Build Jekyll Site
         run: bundle exec jekyll build
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4  # Updated from v3 to v4
+        uses: actions/upload-artifact@v4
         with:
-          name: github-pages
-          path: ./_site  # Jekyll output directory
+          name: github-pages  # Ensure this matches the deploy step
+          path: _site         # Ensure this directory exists after build
           retention-days: 1
 
   deploy:
@@ -61,4 +53,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2  # Ensure the latest deploy action is used
+        uses: actions/deploy-pages@v2
