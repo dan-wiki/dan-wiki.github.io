@@ -60,13 +60,13 @@ jobs:
       - name: Debug downloaded artifact
         run: ls -la site-artifact
 
-      # 3) Move everything from 'site-artifact' into the root of the workspace
-      - name: Move Site to Root
-        shell: bash
-        run: |
-          rsync -a --remove-source-files site-artifact/ .
-          echo "Workspace root contents after rsync:"
-          ls -la
+#      # 3) Move everything from 'site-artifact' into the root of the workspace
+#      - name: Move Site to Root
+#        shell: bash
+#        run: |
+#          rsync -a --remove-source-files site-artifact/ .
+#          echo "Workspace root contents after rsync:"
+#          ls -la
 
 
       # 4) Deploy from the current directory
@@ -74,4 +74,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          directory: "."
+          artifact_name: site-artifact
