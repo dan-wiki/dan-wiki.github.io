@@ -17,13 +17,16 @@ tags: ['thanksgiving','turkey', 'onion', 'lemon', 'apple', 'rosemary', 'thyme', 
 -   Big Turkey Roasting Pan (preferably with lid)
 -   Schmaltz, Bacon Fat, or Olive Oil
 
-**For mirepoix base:**
+**For mirepoix / sofrito base:**
 
 - 1 medium onion, about 8 ounces 
-- 1 large carrot, about 4 ounces
+- 1 large carrot, about 4 ounces (not typically in sofrito)
 - 2 celery ribs, about 4 ounces
 - 1 tablespoon butter
 - 4 cups of water
+- 1 tbsp cumin (sofrito only)
+- 2-3 dried chilies arboles and pablano (sofrito only)
+- 1 diced tomotoe (sofrito only)
 
 
 **For the herb butter:**
@@ -38,7 +41,23 @@ tags: ['thanksgiving','turkey', 'onion', 'lemon', 'apple', 'rosemary', 'thyme', 
 
 -   To substitute dried herbs, use 1 teaspoon dried herbs per 1 tablespoon fresh chopped herbs.
 -   The herb butter is optional
-
+-   If the goal is to stretch the turkey out over a week:
+    * Don't do the last step to make gravy.  Instead,
+      * Remove all meat from the bone and separate out into light and dark meat.
+      * Put all bones, cartilage, carcass, and non-crispy skin into a stock pot. (The crispy skin is for topping the dark meat.)
+      * Strain the drippings and mirepoix and ladle the stock into mason jars and put in the refrigerator.
+        * In a few hours scrape the fat from the top of the jars and put it into its own jar.
+        * Melt the jar fat on low in a pan and cut the heat and let rest until room temperature
+        * Use the fat to make mayonnaise as if it were the oil.  See related mayo recipe.
+        * Pull apart the white meat turkey and combine with celery, only, dill, and the schmaltz mayo for a salad. Salt as needed.
+      * Put th mirepoix vegetables into the stock pot with some leek root tops if you have some saved in the freezer.
+      * Fill the stock pot with water close to the top, but with room to not boil over.
+      * Run the stock pot for 8-12 hours with the lid on 195-210 using a kitchen thermometer.  Ideally, you want to avoid it boiling too much.
+        * An induction burner and kitchen thermometer with wireless transmitter works well for this.
+      * Strain the stock into mason jars.
+      * Separate all meat from bones and vegetable matter.  This needs to be done piece-by-piece, but is worth it.
+        * This meat is saved for a carnitas dinner.  You spread it across a hotel pan, add some broth to it to rehydrate, and add Adobo and Sazon then roast until crispy at 450F convection.  
+      * At the end of the week, take the stock and eny vegetable and meat leftovers and any other fresh vegetables on hand on simmer in a soup pot for several hours to make soup.  You can also make soup on the first day if there is too much stock to save in jars.
 
 ## Instructions
 
@@ -59,8 +78,8 @@ tags: ['thanksgiving','turkey', 'onion', 'lemon', 'apple', 'rosemary', 'thyme', 
 16. Check the turkey about halfway through cooking, and once the skin gets golden brown, cover the top of the turkey with tinfoil, to protect the breast meat from overcooking.
 17. Remove the turkey from the oven once it reaches 170 degrees.
 18. Allow turkey to rest for 20-30 minutes before carving.
-19. Remove the next and giblits and cut up that meat for the gravy.
+19. Remove the next and giblets and cut up that meat for the gravy.
 20. Strain the drippings through a sieve and push on the mirepoix to just get the juices and put in a sauce pan on simmer.
 21. If the roasting pan can be heated on the stove, use stock to deglace it with a wooden spoon and pour that through a sieve intot he sauce pan as well.
-22. Use butter an a littler flour to create a gravy in the suace pan and then add back in the neck and giblet meat. You might want to avoid adding in the liver.
+22. Use butter an a littler flour to create a gravy in the space pan and then add back in the neck and giblet meat. You might want to avoid adding in the liver.
 
