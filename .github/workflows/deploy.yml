@@ -2,7 +2,7 @@ name: "Deploy Jekyll Site to Pages"
 
 on:
   workflow_run:
-    workflows: ["Build Jekyll Site to Pages"]
+    workflows: ["Build Jekyll Site to Pages"]  # exact name of your build workflow
     types:
       - completed
 
@@ -18,3 +18,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact_name: github-pages
