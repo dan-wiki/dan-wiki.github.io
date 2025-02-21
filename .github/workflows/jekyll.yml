@@ -1,4 +1,4 @@
-name: "Build and Deploy with GitHub Pages"
+name: "Build and Deploy Jekyll"
 
 on:
   push:
@@ -9,6 +9,10 @@ permissions:
   contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build-deploy:
@@ -38,9 +42,33 @@ jobs:
       - name: Debug _site directory
         run: ls -la _site
 
-      - name: Upload to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
-        # or v2 if available
+      # 1) Upload site artifact (non-deprecated action)
+      - name: Upload site
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages     # Must match the download step
+          path: _site
 
+      # 2) Download the same artifact (even though it's the same job,
+      #    this ensures we’re using actions/upload-artifact@v4).
+      - name: Download site
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: site-artifact
+
+      - name: Debug downloaded artifact
+        run: ls -la site-artifact
+
+      # 3) Move everything from 'site-artifact' into the root of the workspace
+      - name: Move site to root
+        shell: bash
+        run: |
+          mv site-artifact/* site-artifact/.* . || true
+          echo "Contents of workspace root after move:"
+          ls -la
+
+      # 4) Deploy from the current directory
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v2
