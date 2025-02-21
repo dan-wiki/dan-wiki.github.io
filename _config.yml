@@ -46,36 +46,11 @@ social:
 
 google_site_verification: uvT8pldm0IZaN5P94_P2E_dnc4ncuqRbVBgox-_2FPQ
 
-
-
-
-
-
-
-
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-
 google_analytics:
   id: G-DVGNBRT13V
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Prefer color scheme setting.
 #
@@ -100,10 +75,6 @@ img_cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/images/dan.wiki-logo.png
 
-
-
-
-
 # boolean type, the global switch for TOC in posts.
 toc: true
 
@@ -124,7 +95,7 @@ comments:
     category:
     category_id:
     mapping: # optional, default to 'pathname'
-	strict: # optional, default to '0'
+    strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
