@@ -42,34 +42,12 @@ jobs:
       - name: Debug _site directory
         run: ls -la _site
 
-      # 1) Upload site artifact (non-deprecated action)
-      - name: Upload site
+      - name: Upload site artifact
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages     # Must match the download step
+          name: github-pages
           path: _site
 
-      # 2) Download the same artifact (even though it's the same job,
-      #    this ensures we’re using actions/upload-artifact@v4).
-      - name: Download site
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: site-artifact
-
-      - name: Debug downloaded artifact
-        run: ls -la site-artifact
-
-#      # 3) Move everything from 'site-artifact' into the root of the workspace
-#      - name: Move Site to Root
-#        shell: bash
-#        run: |
-#          rsync -a --remove-source-files site-artifact/ .
-#          echo "Workspace root contents after rsync:"
-#          ls -la 
-
-
-      # 4) Deploy from the current directory
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
