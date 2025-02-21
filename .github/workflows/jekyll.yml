@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -15,10 +15,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-22.04
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Ruby
@@ -39,21 +39,25 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Debug _site directory
+      - name: Debug _site Directory
         run: ls -la _site
 
-      - name: Upload site artifact
+      - name: Upload Site Artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: _site
 
-      - name: Wait for artifact to be ready
-        run: sleep 30
+  deploy:
+    needs: build
+    runs-on: ubuntu-22.04
+    steps:
+      # Optional: Insert a delay to help artifact propagation
+      - name: Wait for Artifact Propagation
+        run: sleep 10
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
         with:
           artifact_name: github-pages
-          token: ${{ secrets.DEPLOY_TOKEN }}
