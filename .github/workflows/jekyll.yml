@@ -61,12 +61,13 @@ jobs:
         run: ls -la site-artifact
 
       # 3) Move everything from 'site-artifact' into the root of the workspace
-      - name: Move site to root
+      - name: Move Site to Root
         shell: bash
         run: |
-          mv site-artifact/* site-artifact/.* . || true
-          echo "Contents of workspace root after move:"
+          rsync -a --remove-source-files site-artifact/ .
+          echo "Workspace root contents after rsync:"
           ls -la
+
 
       # 4) Deploy from the current directory
       - name: Deploy to GitHub Pages
