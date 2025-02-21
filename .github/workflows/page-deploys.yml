@@ -50,12 +50,12 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-      - name: Test site
+      - name: Test site with HTML-Proofer
         run: |
-          bundle exec htmlproofer _site \
-            \-\-disable-external \
-            \-\-enforce-https false \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+          bundle exec htmlproofer _site --disable-external --enforce-https=false --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+        shell: bash
+        env:
+          GITHUB_PAGES: true
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
