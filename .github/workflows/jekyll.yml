@@ -49,7 +49,7 @@ jobs:
           path: _site
 
       - name: Wait for artifact to be ready
-        run: sleep 10
+        run: sleep 30
 
       - name: Deploy to GitHub Pages
         id: deployment
