@@ -1,10 +1,12 @@
---
+---
 layout: post
-title: “Mexican Chorizo Sausage (Fresh, for Links)”
+title: "Mexican Chorizo Sausage (Fresh, for Links)"
 date: 2025-06-01
 categories: [sausage, mexican, pork, homemade]
 tags: [chorizo, pork shoulder, sausage, ancho, guajillo, chipotle, cumin, oregano, coriander, paprika, vinegar, stuffing, grilling, freezing, meal-prep]
---
+---
+
+
 
 ### Ingredients (Per 1 lb / 450g Pork Shoulder)
 
