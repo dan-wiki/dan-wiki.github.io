@@ -74,8 +74,8 @@ tags: ['thanksgiving','turkey', 'onion', 'lemon', 'apple', 'rosemary', 'thyme', 
 12. Stuff it with the quartered lemon, onion and apple and leftover herbs.
 13. Use your fingers to loosen and lift the skin above the breasts (on the top of the turkey) and smooth a few tablespoons of the herb butter underneath.
 14. Tuck the wings of the turkey underneath the turkey and set the turkey on a roasting rack inside a roasting pan.
-15. Roast convection at 325 degrees F for about 13 minutes per pound, or until internal temperature (inserted on middle of thigh and breast) reaches about 165 degrees.  It is best to keep digital thermometers in the two areas for the whole cooking time.
-16. Check the turkey about halfway through cooking, and once the skin gets golden brown, cover the top of the turkey with tinfoil, to protect the breast meat from overcooking.
+15. LID ON: Roast convection at 325F for about 13 minutes per pound. It is best to keep digital thermometers in the two areas for the whole cooking time.
+16. LID OFF: Take the lid off around 150F
 17. Remove the turkey from the oven once it reaches 170 degrees.
 18. Allow turkey to rest for 20-30 minutes before carving.
 19. Remove the next and giblets and cut up that meat for the gravy.
