@@ -15,6 +15,7 @@ tags: [thanksgiving]
 - 160ml / 2/3 cup Cream, leave at room temperature
 - 150g / 1 1/2 cups grated Cheddar
 - 1/4 tsp Black Pepper, or to taste
+- 1 whole head of garlic
 
 #### Gratin:
 - 750g / 1.6lb Baking Potatoes
@@ -28,6 +29,15 @@ tags: [thanksgiving]
 —
 
 ### Method
+
+1. **Roast the Garlic**
+   - Peel off the outse flaky layer of skin, but keep it as a full bulb.
+   - Chop off about 1/4" across the top of the bulb.
+   - Put a tablespoon of salted butter on top of it and place on a sheet of aluminum foil and crumble it up around it.
+   - Put the bulb on a pan or cast iron vessel.
+   - 375F convection for 20 minutes
+   - Squeeze the carmelized cloves into the bowl that the potatoes will get mashed in later. They will come right out of the bulb.
+   - Smash the carmelized cloves to puree ahead of the potatoes so it mixes evenly.    
 
 1. **Prepare the Mash**:
    - Peel and dice the baking potatoes into chunks.
