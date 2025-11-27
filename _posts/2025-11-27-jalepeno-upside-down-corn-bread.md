@@ -1,5 +1,3 @@
-Here is the Jekyll-formatted Markdown file for your Jalapeño Upside-Down Cornbread recipe, structured to match your existing site style:
-
 ---
 layout: post
 title: "Jalapeño Upside-Down Cornbread"
