@@ -42,9 +42,10 @@ tags: ['beef tongue', 'cured meat', 'brine', 'sandwich', 'rye bread', 'mustard',
 
 ### Step 1: Prepare the Brine and Cure the Tongue (5–14 Days)
 1. In a large pot, bring water to a boil. Add kosher salt, sugar, curing salt, garlic, and spices. Stir until fully dissolved.  
-2. Let the brine cool completely (refrigerate if needed).  
-3. Place the rinsed tongue in a large non-reactive container or zip-top bag. Pour cooled brine over to submerge. Use a weight if necessary.  
-4. Refrigerate for 5–14 days, flipping every 2–3 days. 10 days yields classic deli-style flavor. Keep submerged and monitor daily.
+2. Let the brine cool completely (refrigerate if needed).
+3. Strain the brine throuhj a sieve.
+4. Place the rinsed tongue in a large non-reactive container or zip-top bag. Pour cooled brine over to submerge. Use a weight if necessary.  
+5. Refrigerate for 5–14 days, flipping every 2–3 days. 10 days yields classic deli-style flavor. Keep submerged and monitor daily.
 
 ### Step 2: Rinse and Cook the Tongue (2–6 Hours)
 1. Remove tongue from brine and rinse thoroughly. Soak in cold water for 15–30 minutes, changing water a few times.  
