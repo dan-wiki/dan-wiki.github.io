@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Deli-Style Pickled Beef Tongue (Katz’s Inspired)"
 date: 2026-01-01
 categories: [beef, jewish, deli, cured]
