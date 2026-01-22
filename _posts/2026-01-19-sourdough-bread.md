@@ -54,13 +54,15 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 - All of the levain from above
 
 **Steps:**
-1. Hand mix all ingredients except levain until fully hydrated. Do not knead. Wait 1 hour (autolyse).
+1. Hand mix all ingredients except levain until fully hydrated adding a little water as needed (it doesnt need to be perfect and will look messy). Do not knead. Wait 1 hour (autolyse).
 2. Add levain and spread across dough with wet hands. Dimple in with fingers and pinch to incorporate.
 3. Scoop and slap for 2 minutes using Rubaud method.
 4. Cover bowl with towel and wait 20 minutes.
 5. Add 1/4 cup 90-95°F water and 18g sea salt. (You can microwave water for 15 second bursts and use thermometer.)
-6. Dimple and incorporate like before then slap, turn and fold over until it becomes smooth in 3-5 minutes. (Dough should feel elastic and pass a basic windowpane test: stretch a small piece thin without tearing.)
-7. Bulk ferment in bowl at 78°F for 3–4 hours until doubled. (Check with poke test: dough springs back slowly.)
+6. Dimple and incorporate with Rubaud method like before.
+7. Cover bowl with towel and wait another 20 minutes for the dough to hydrate again.
+8. Take out of bowl onto counter and slap, turn and fold over until it becomes smooth in 3-5 minutes. (Dough should feel elastic and pass a basic windowpane test: stretch a small piece thin without tearing.)
+7. Bulk ferment in bowl at 78°F for 3–4 hours until doubled. (Check with poke test: dough springs back slowly.) A dough proofer warming box is ideal.
 
 ---
 
