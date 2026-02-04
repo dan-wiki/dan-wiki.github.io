@@ -75,7 +75,7 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
    - Wait 30 min → fold again  
    - Then let rest for 3–4 hours.
 
-9. Carefully transfer dough onto flourless surface.  
+9. Carefully transfer dough onto flourless surface. (Might need a little flour if it's sticky.)
 10. Divide in half and pre-shape into round balls.  
 11. Cover with overturned glass bowl for 15 minutes.  
 12. Let sit uncovered for 10 minutes.  
@@ -84,7 +84,7 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 15. Flip dough, roll like a burrito: stretch sides, coil and tighten by pulling inward (use bench scraper to drag dough toward you for better surface tension).  
 16. Place in bannetons seam side up.  
 17. Cover with plastic or zip bag secured with rubber band.  
-18. Refrigerate for 14–15 hours. (After fridge time, dough should feel puffy and pass poke test before baking.)
+18. Refrigerate for 15 hours max (there is some variability depending upon how established the starter is, but less kight br better). The fridge boosts sourness and there is a spring effect when cooking from chilled (After fridge time, dough should feel puffy and pass poke test before baking.)
 
 ---
 
