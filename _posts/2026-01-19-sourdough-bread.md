@@ -69,8 +69,8 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 ## After Bulk Ferment
 
 1. Carefully transfer dough onto flourless surface. (Might need a little flour if it's sticky.)
-2. Divide in half and pre-shape into round balls.  
-3. Cover with overturned glass bowl for 15 minutes.  
+2. Divide in half using a dough scraper or bench knife: Use a turning wrist motion to slice through rather than just pressing down and pushing sideways--this makes dividing easier since the dough is stretchy. Then pre-shape into round balls by using the scraper to go around the edges, turning and tucking the dough under itself in a circular motion to build tension and form a tight ball.
+3. Cover with overturned glass bowl for 15 minutes (this prevents the still-gooey dough from migrating or spreading out, helping it maintain the ball shape).  
 4. Let sit uncovered for 10 minutes.  
 5. Flour bannetons with rice flour.  
 6. Dust dough balls with regular flour.  
