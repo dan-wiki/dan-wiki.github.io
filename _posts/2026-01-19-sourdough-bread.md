@@ -41,7 +41,7 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 **Steps:**
 1. Stir together ingredients in a jar. (You can use starter straight from the fridge.)
 2. Place near a 78°F heat source.
-3. Wait 6 hours, or until it doubles in volume, becomes bubbly, and passes the float test.
+3. Wait 6 hours, or until it doubles in volume, becomes bubbly, and passes the float test. If you miss the peak activity window (when it's risen close to its maximum, alive, and bubbly), feed it again with equal parts flour and water (e.g., 50g each) and wait a few more hours until it reaches peak again. In a pinch, if it's been fed multiple times over a day or two (e.g., twice with 50g flour and 50g water), you can use the entire levain in the dough mixture--it can still work well, though extra levain may lead to a faster bulk fermentation (monitor cues like the poke test closely).
 
 ---
 
@@ -62,50 +62,45 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 6. Dimple and incorporate with Rubaud method like before.
 7. Cover bowl with towel and wait another 20 minutes for the dough to hydrate again.
 8. Take out of bowl onto counter and slap, turn and fold over until it becomes smooth in 3-5 minutes. (Dough should feel elastic and pass a basic windowpane test: stretch a small piece thin without tearing.)
-7. Bulk ferment in bowl at 78°F for 3–4 hours until doubled. (Check with poke test: dough springs back slowly.) A dough proofer warming box is ideal.
+9. Bulk ferment in bowl at 78°F for 3–4 hours until doubled, incorporating folds during the first 2 hours to build strength: After the initial 30-minute rest (post-slap-and-fold), perform a set of 4 folds/rotates in the bowl (use wet hands to prevent sticking). Repeat every 30–45 minutes for 3–4 sets total. Then let rise undisturbed for the remaining 1–2 hours. (Check with poke test: dough springs back slowly.) A dough proofer warming box is ideal.
 
 ---
 
 ## After Bulk Ferment
 
-8. **Fold Set**:
-   - Fold and rotate dough in bowl 4 times (use wet hands to prevent sticking).
-   - Wait 15 min → fold again  
-   - Wait 15 min → fold again  
-   - Wait 30 min → fold again  
-   - Then let rest for 3–4 hours.
-
-9. Carefully transfer dough onto flourless surface. (Might need a little flour if it's sticky.)
-10. Divide in half and pre-shape into round balls.  
-11. Cover with overturned glass bowl for 15 minutes.  
-12. Let sit uncovered for 10 minutes.  
-13. Flour bannetons with rice flour.  
-14. Dust dough balls with regular flour.  
-15. Flip dough, roll like a burrito: stretch sides, coil and tighten by pulling inward (use bench scraper to drag dough toward you for better surface tension).  
-16. Place in bannetons seam side up.  
-17. Cover with plastic or zip bag secured with rubber band.  
-18. Refrigerate for 15 hours max (there is some variability depending upon how established the starter is, but less kight br better). The fridge boosts sourness and there is a spring effect when cooking from chilled (After fridge time, dough should feel puffy and pass poke test before baking.)
+1. Carefully transfer dough onto flourless surface. (Might need a little flour if it's sticky.)
+2. Divide in half and pre-shape into round balls.  
+3. Cover with overturned glass bowl for 15 minutes.  
+4. Let sit uncovered for 10 minutes.  
+5. Flour bannetons with rice flour.  
+6. Dust dough balls with regular flour.  
+7. Flip dough, roll like a burrito: stretch sides, coil and tighten by pulling inward (use bench scraper to drag dough toward you for better surface tension).  
+8. Place in bannetons seam side up.  
+9. Cover with plastic or zip bag secured with rubber band.  
+10. Refrigerate for 15 hours max (there is some variability depending upon how established the starter is, but less might be better). The fridge boosts sourness and there is a spring effect when cooking from chilled (After fridge time, dough should feel puffy and pass poke test before baking.)
 
 ---
 
 ## Baking
 
-19. Place Dutch oven in cold oven and preheat to 500°F for 1 hour.  
-20. Dust bottom of loaf with cornmeal.  
-21. Flip loaf onto parchment paper.  
-22. Score top in a cross-hatch pattern (use a lame or sharp knife at a 45° angle for better oven spring).  
-23. Place loaf on parchment paper into Dutch oven. (Use oven mitts--Dutch oven is extremely hot.)  
-24. Bake 20 minutes with lid on.  
-25. Reduce temp to 475°F and remove lid. Bake another 25–30 minutes, or until internal temperature reaches 205-210°F.  
-26. Let rest 1 hour before slicing (full flavor develops after 24 hours).  
-27. Store outside the fridge in a bread bag (lasts 3-5 days at room temp; freeze slices for longer).  
-28. Repeat for second loaf, or freeze shaped dough for later.
+1. Place Dutch oven in cold oven and preheat to 500°F for 1 hour.  
+2. Dust bottom of loaf with cornmeal.  
+3. Flip loaf onto parchment paper.  
+4. Score top in a cross-hatch pattern (use a lame or sharp knife at a 45° angle for better oven spring).  
+5. Place loaf on parchment paper into Dutch oven. (Use oven mitts--Dutch oven is extremely hot.)  
+6. Bake 20 minutes with lid on.  
+7. Reduce temp to 475°F and remove lid. Bake another 25–30 minutes, or until internal temperature reaches 205-210°F.  
+8. Let rest 1 hour before slicing (full flavor develops after 24 hours).  
+9. Store outside the fridge in a bread bag (lasts 3-5 days at room temp; freeze slices for longer).  
+10. Repeat for second loaf, or freeze shaped dough for later.
 
 ---
 
 ## Notes/Troubleshooting
 - Total time: ~24-36 hours, including waits; active time ~1-2 hours.  
-- If dough is too sticky: Reduce water slightly next time or ensure proper folding for structure.  
+- If dough is too sticky: Reduce water slightly next time (e.g., by 20–30g for easier handling) or ensure proper folding for structure.  
 - Underproofed (dense crumb): Extend proof time. Overproofed (flat loaf): Shorten proof or check starter activity.  
 - Flour substitutions: Can use all all-purpose if no bread flour available, but adjust hydration as needed.  
 - No Dutch oven? Bake on a baking sheet with a steam tray (pan of water in oven) for the first 20 minutes.
+- Temperature control: Maintain 75–78°F during bulk for consistent fermentation; warmer temps may require shorter bulk to avoid over-fermentation and deflation.  
+- Starter strength: Use levain at peak activity for better rise; if dough slumps, consider fewer folds or a stronger starter next time.
