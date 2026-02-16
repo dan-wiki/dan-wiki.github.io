@@ -84,11 +84,11 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 ## Baking
 
 1. Place Dutch oven in cold oven and preheat to 500°F for 1 hour.  
-2. Dust bottom of loaf with cornmeal.  
+2. Dust bottom of loaf with cornmeal or roce flour.  
 3. Flip loaf onto parchment paper.  
 4. Score top in a cross-hatch pattern (use a lame or sharp knife at a 45° angle for better oven spring).  
 5. Place loaf on parchment paper into Dutch oven. (Use oven mitts--Dutch oven is extremely hot.)  
-6. Bake 20 minutes with lid on.  
+6. Bake 20 minutes with lid on with an ice cube for steam.  
 7. Reduce temp to 475°F and remove lid. Bake another 25–30 minutes, or until internal temperature reaches 205-210°F.  
 8. Let rest 1 hour before slicing (full flavor develops after 24 hours).  
 9. Store outside the fridge in a bread bag (lasts 3-5 days at room temp; freeze slices for longer).  
