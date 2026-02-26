@@ -1,55 +1,79 @@
 ---
-title: Banana Walnut Bread
-date: 2026-02-25 08:00:00 -500
+title: Banana Walnut Bread (5 or 7 Banana Version)
+date: 2026-02-25 08:30:00 -500
 categories: [baking, bread, american]
-tags: ['banana', 'walnut', 'quick bread', 'loaf', 'dessert', 'breakfast', 'bake', 'oven', 'butter', 'sugar', 'eggs', 'flour']
+tags: ['banana', 'walnut', 'quick bread', 'loaf', 'dessert', 'breakfast', 'oven', 'butter', 'sugar', 'eggs', 'flour']
 ---
 
 ## Ingredients
 
-- 5 ripe bananas (very spotted or black peels), mashed (≈2 cups mashed)
+### For 5 Bananas (1 Large 9x5-inch Loaf)
+
+- 5 ripe bananas, mashed (≈2 cups)
 - 1⅔ cups (333 g) white sugar
 - 2 large eggs
 - 7 tablespoons (100 g) melted butter
 - 2½ cups (312 g) all-purpose flour
 - 1⅔ teaspoons baking soda
 - 1⅔ teaspoons salt
-- 1 cup (120 g) chopped walnuts (lightly toasted if desired)
+- 1 cup (120 g) chopped walnuts
 
-**Optional Add-Ins:**
-
-- 1 teaspoon vanilla extract
-- ½ teaspoon cinnamon
-
----
-
-## Instructions
-
-1. **Preheat oven** to 325°F (165°C). Grease a 9×5-inch loaf pan generously or line with parchment paper for easy removal.  
-   *If batter fills more than ¾ of the pan, divide into two 8×4-inch pans to prevent overflow.*
-
-2. In a large bowl, mash the bananas until mostly smooth (a few lumps are fine). Stir in the sugar, eggs, and melted butter until well combined.
-
-3. In a separate bowl, whisk together the flour, baking soda, and salt.
-
-4. Add the dry ingredients to the wet ingredients and stir gently **just until the flour disappears**. Do not overmix. The batter will be thick and slightly lumpy.
-
-5. Fold in the chopped walnuts (and optional vanilla or cinnamon, if using).
-
-6. Pour batter into the prepared pan(s) and smooth the top. Tap the pan gently on the counter to release large air pockets.
-
-7. Bake for 65–75 minutes, starting to check at 60 minutes. Insert a toothpick into the center -- it should come out clean or with a few moist crumbs (not wet batter).  
-   *If the top browns too quickly, loosely tent with foil during the last 10–15 minutes.*
-
-8. Cool in the pan for 10 minutes, then remove and cool completely on a wire rack (about 1 hour) before slicing.
+**Bake:** 325°F for 65–75 minutes  
+**Pan:** 9×5-inch loaf pan  
+**Yield:** 12–14 slices  
 
 ---
 
-### Notes
+### For 7 Bananas (1 Extra-Large 10x5-inch Loaf)
 
-- The darker and softer the bananas, the sweeter and more flavorful the bread.
-- Store wrapped at room temperature for up to 4 days.
-- Slice and freeze for up to 3 months.
-- This scaled loaf is intentionally baked at a lower temperature (325°F) to ensure the center sets properly without over-browning.
+- 7 ripe bananas, mashed (≈2¾ cups)
+- 2⅓ cups (467 g) white sugar
+- 3 large eggs
+- 9⅓ tablespoons (132 g) melted butter
+- 3½ cups (437 g) all-purpose flour
+- 2⅓ teaspoons baking soda
+- 2⅓ teaspoons salt
+- 1½ cups (180 g) chopped walnuts
+
+**Bake:** 325°F for 75–95 minutes  
+**Pan:** 10×5-inch loaf pan  
+**Yield:** 24–28 slices  
+
+---
+
+## Instructions (Same Method for Both Sizes)
+
+1. **Preheat oven** to 325°F (165°C). Grease the appropriate loaf pan generously or line with parchment paper.  
+   *Do not fill pans more than ¾ full to prevent overflow.*
+
+2. In a large bowl, mash bananas until mostly smooth (small lumps are fine).
+
+3. Stir in sugar, eggs, and melted butter until fully combined.
+
+4. In a separate bowl, whisk together flour, baking soda, and salt.
+
+5. Add dry ingredients to wet ingredients and stir gently **just until the flour disappears**. Do not overmix.
+
+6. Fold in chopped walnuts.
+
+7. Pour batter into prepared pan and smooth the top. Tap gently on the counter to release large air pockets.
+
+8. Bake according to size listed above.  
+   Start checking 5–10 minutes before minimum bake time. A toothpick inserted in the center should come out clean or with a few moist crumbs.
+
+9. Cool in the pan for 10 minutes, then remove and cool completely on a wire rack before slicing.
+
+---
+
+## Success Tips
+
+- Use very dark, soft bananas for the sweetest flavor.
+- Always test the exact center -- larger loaves require the full baking time.
+- If browning too quickly, loosely tent with foil for the final 10–20 minutes.
+- Store wrapped at room temperature up to 4 days, or freeze slices up to 3 months.
+
+**Optional Add-Ins**
+- 1–1½ teaspoons vanilla extract  
+- ½–¾ teaspoon cinnamon  
 
 ---
