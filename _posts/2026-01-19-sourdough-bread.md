@@ -61,7 +61,7 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 5. Add 1/4 cup 90-95°F water and 18g sea salt. (You can microwave water for 15 second bursts and use thermometer.)
 6. Dimple and incorporate with Rubaud method like before.
 7. Cover bowl with towel and wait another 20 minutes for the dough to hydrate again.
-8. Take out of bowl onto counter and slap, turn and fold over until it becomes smooth in 3-5 minutes. (Dough should feel elastic and pass a basic windowpane test: stretch a small piece thin without tearing.)
+8. Take out of bowl onto counter and slap, turn and fold over until it becomes smooth in 3-5 minutes. (Dough should feel elastic and pass a basic windowpane test: stretch a small piece thin without tearing.) You may need to add a little more flour at this point if it is really sticky and lacks structure. I've found that you can work the dough very hard at this step and it will build strength as long as you add missing flour. 
 9. Bulk ferment in bowl at 78°F for 3–4 hours until doubled, incorporating folds during the first 2 hours to build strength: After the initial 30-minute rest (post-slap-and-fold), perform a set of 4 folds/rotates in the bowl (use wet hands to prevent sticking). Repeat every 30–45 minutes for 3–4 sets total. Then let rise undisturbed for the remaining 1–2 hours. (Check with poke test: dough springs back slowly.) A dough proofer warming box is ideal.
 
 ---
