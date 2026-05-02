@@ -25,7 +25,7 @@ tags: [starter, levain, fermentation, artisan, whole wheat, banneton, dutch oven
 
 **Steps:**
 1. Add to beaker and mix.
-2. Remove half after 24 hours (save the discarded portion in a separate jar in the fridge to accumulate for recipes like sourdough pancakes, tortillas, or crackers) and add back in with equal parts flour and water.
+2. Remove half after 24 hours (save the discarded portion in a separate jar in the fridge to accumulate for recipes like sourdough pancakes, tortillas, or crackers) and add back in with equal parts flour and water. (Meaning, if you discard 90g because there was 180g in th jar, then add back 45g white bleached flour and 45g water. 
 3. When it rises by half consistently, is bubbly on the surface, has a tangy smell, and passes the float test (a small piece floats in water), it's ready to use.
 4. Feed daily at room temp, or store in fridge and feed weekly. (Note: If creating a starter from scratch, this process typically takes 5-7 days of daily feedings.)
 
